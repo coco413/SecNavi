@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>安全导航</title>
+	<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.png"/>
+	<meta name="viewport" content="width=device-width, initial-scale=0.5" />
+	<link rel="stylesheet" href="css/reset.css" />
+	<link rel="stylesheet" href="css/index.css" />
+</head>
+<body>
+	<!-- 导航 -->
+	<header>
+		<div id="topBar" class="topBar war">
+			<!-- 搜索 -->
+			<form name="f" onsubmit="return s4()" method="get">
+				<img class="logo" src="/img/favicon.png">
+				<!-- <input type="text" name="k" placeholder="百度：搜索些什么..." size="28" onmouseover="this.focus()" onfocus="this.select()"> -->
+				<!-- <input type="submit" value="搜索"> -->
+			</form>
+			<div class="search-hd">
+			    <form action="https://www.baidu.com/s" method="get" id="searchForm">
+			        <div class="search-status">
+			            <div class="search-select">
+			                <input type="text" class="search-val" placeholder="请输入您要查找的内容" autocomplete="off" value="" name="wd" id="keywords"/>
+			                <ul class="options">
+			                    <li><a href="http://coco413.com">Coco413</a></li>
+			                    <li><a href="javascript:;">Not</a></li>
+			                    <li><a href="javascript:;">Give</a></li>
+			                    <li><a href="javascript:;">Up</a></li>
+			                </ul>
+			            </div>
+			        </div>
+			        <input type="hidden" name="type" value='project' id="sType"/><a class="search-hd-btn" href="javascript:;"><i class="iconfont icon-search"></i></a>
+			    </form>
+			</div>
+			<!-- 导航 -->
+			<nav id="nav" class="nav"></nav>
+		</div>
+	</header>
+	<!-- 内容 -->
+	<div id="content" class="content"></div>
+	<!-- 版本 -->
+	<footer id="footer">
+		<div class="footer_war war">
+			<div class="message">Cruising In The Code Of Life!</br>内容投稿或建议请联系coco413@sina.cn</br></div>
+			<div class="declare">Copyright &copy; 2016-2017 &nbsp;<a href="http://www.coco413.com" target="_blank">京ICP备45006200号</a></div>
+		</div>
+	</footer>
+	<!-- 提交 -->
+	<aside id="backTop"><div class="Tip"><a href="http://www.coco413.com" target="_blank">提交</a></div></aside>
+	
+	<script type="text/javascript" src="js/jquery.js" ></script>
+	<script type="text/javascript" src="js/index.js" ></script>
+	<script type="text/javascript" src="js/data.js" ></script>
+	<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=0 height=0 src="//music.163.com/outchain/player?type=2&id=25721157&auto=1&height=66"></iframe>
+</body>
+</html>
