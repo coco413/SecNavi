@@ -53,23 +53,34 @@ var FrontGuide = {
                 {'Name':'SOBUG','Title':'SOBUG漏洞悬赏平台','Href':'https://www.sobug.com/'},
                 {'Name':'云盾先知','Title':'云盾先知平台致力于构建和谐的互联网安全生态圈','Href':'https://xianzhi.aliyun.com/'}, 
                 {'Name':'威客众测','Title':'信息安全行业一站式服务平台','Href':'http://www.secwk.com/index.html'},
+<<<<<<< HEAD
                 {'Name':'比戈大牛','Title':' 专注安卓漏洞','Href':'https://bigniu.com'},
                 {'Name':'漏洞银行','Title':' 挑战权威但不作恶，打造信息安全乌托邦','Href':'http://www.bugbank.cn/'},
                 {'Name':'HITCON','Title':'HITCON ZeroDay','Href':'https://zeroday.hitcon.org/vulnerability'},
                 {'Name':'VulReport','Title':'台湾公益性质漏洞通报平台','Href':'https://vulreport.net/'},
                 {'Name':'Hackone','Title':'Make the Internet Safer Together','Href':'https://www.hackerone.com/'}
+=======
+                {'Name':'VulReport','Title':'台湾公益性质漏洞通报平台','Href':'https://vulreport.net/'},
+                {'Name':'Hackone','Title':'Make the Internet Safer Together','Href':'https://www.hackerone.com/'}
+
+>>>>>>> a607a586a62eceb062bea99a8008897ad8b48456
             ]
         	},{
             "pageT2":"漏洞信息",
             "pageC2":[
+<<<<<<< HEAD
                 {'Name':'CVE中文漏洞信息库','Title':'CVE 通用漏洞与披露','Href':'http://cve.scap.org.cn/'},
                 {'Name':'CVE英文漏洞信息库','Title':'CVE 通用漏洞与披露','Href':'http://cve.mitre.org/'},
+=======
+                {'Name':'CVE漏洞信息库','Title':'CVE 通用漏洞与披露','Href':'http://cve.scap.org.cn/'}, 
+>>>>>>> a607a586a62eceb062bea99a8008897ad8b48456
                 {'Name':'绿盟漏洞信息库','Title':'绿盟科技','Href':'http://www.nsfocus.net/index.php?act=sec_bug'},
                 {'Name':'CNVD漏洞信息库','Title':'国家信息安全漏洞共享平台','Href':'http://www.cnvd.org.cn/'},
                 {'Name':'Seebug漏洞信息库','Title':'Seebug,洞悉漏洞，让你掌握第一手漏洞情报','Href':'https://www.seebug.org/category/'},
                 {'Name':'360漏洞信息库','Title':'360网站安全检测','Href':'http://webscan.360.cn/vul/'}, 
                 {'Name':'Bugscan漏洞信息库','Title':'BugScan 漏洞插件社区','Href':'http://www.bugscan.net/source/template/vulns/'},
                 {'Name':'Exploits-DB漏洞信息库','Title':'Exploits Database by Offensive Security','Href':'https://www.exploit-db.com/'},
+<<<<<<< HEAD
                 {'Name':'Packetstorm漏洞信息库','Title':'ignore security and it will go away','Href':'https://packetstormsecurity.com/'},
                 {'Name':'1377-0day漏洞信息库','Title':'0day漏洞利用数据库','Href':'http://cn.0day.today/'},
                 {'Name':'SecLists漏洞信息库','Title':'SecLists.Org Security Mailing List Archive','Href':'http://seclists.org/'},
@@ -85,6 +96,9 @@ var FrontGuide = {
                 {'Name':'小书屋','Title':'小书屋 - 纪念乌云&皮皮书屋','Href':'http://www.xiaoshuwu.net/'},
                 {'Name':'春秋百科','Title':'i春秋学院百科','Href':'http://wiki.ichunqiu.com/index.php/%E9%A6%96%E9%A1%B5'},
                 {'Name':'SQL注入Wiki','Title':'SQL Injection Wiki','Href':'http://www.sqlinjectionwiki.com/Categories/1/mssql-sql-injection-cheat-sheet/'},
+=======
+                {'Name':'Packetstorm漏洞信息库','Title':'ignore security and it will go away','Href':'https://packetstormsecurity.com/'}
+>>>>>>> a607a586a62eceb062bea99a8008897ad8b48456
 
             ]
             },{
@@ -148,10 +162,50 @@ var FrontGuide = {
             },{
             "pageT2":"CTF",
             "pageC2":[
+<<<<<<< HEAD
                 {'Name':'360CTF训练营','Title':'CTF训练营 - 安全客 - 有思想的安全新媒体','Href':'http://bobao.360.cn/ctf/'},
                 {'Name':'CTFwriteup','Title':'CTFs','Href':'https://github.com/ctfs/'},
                 {'Name':'CTFtime','Title':'All about CTF ','Href':'https://ctftime.org/'},
                 {'Name':'XCTF-Time','Title':'XCTF-Time','Href':''},
+=======
+                {'Name':'CVERC','Title':'国家计算机病毒应急处理中心','Href':'http://www.cverc.org.cn/'},
+                {'Name':'CNNVD','Title':'中国国家信息安全漏洞库','Href':'http://www.cnnvd.org.cn'},
+                {'Name':'CNVD','Title':'国家信息安全漏洞共享平台','Href':'http://www.cnvd.org.cn'},
+                {'Name':'CNNIC','Title':'中国互联网络信息中心','Href':'http://www.cnnic.net.cn/'},
+                {'Name':'CNCERT','Title':'国家互联网应急中心','Href':'http://www.cert.org.cn/'},
+                {'Name':'Nitsc','Title':'国家信息技术安全研究中心','Href':'http://www.nitsc.cn/'}
+            ]
+            },{
+            "pageT2":"阿里UED",
+            "pageC2":[
+                {'Name':'淘宝UED','Title':'TaoBaoUED | 做地球上最好的 UED','Href':'http://ued.taobao.org/blog/'},
+                {'Name':'阿里巴巴(中文站 )UED','Title':'用户体验设计部博客U一点设计','Href':'http://www.aliued.cn/'},
+                {'Name':'阿里巴巴(国际站)UED','Title':'我们的每一次思索和设计，争论和坚持，都为追寻一个目的：在更新的屏幕里创造出更好的产品和更优的体验。','Href':'http://www.aliued.com/'},
+                {'Name':'阿里妈妈UED','Title':'','Href':'http://ued.alimama.com/'},
+                {'Name':'支付宝UED','Title':'','Href':'http://ued.alipay.com/'},
+                {'Name':'支付宝PED','Title':'','Href':'http://ped.alipay.com/'},
+                {'Name':'天猫UED','Title':'','Href':'http://ued.tmall.com/'},
+                {'Name':'天猫SED','Title':'','Href':'http://sed.tmall.com/'},
+                {'Name':'一淘UED','Title':'','Href':'http://mux.alimama.com/'},
+                {'Name':'AMUI','Title':'关于无线Web解决方案 - AM','Href':'http://am-team.github.io/default.html'}
+            ]
+            },{
+            "pageT2":"百度UED",
+            "pageC2":[
+                {'Name':'百度UED','Title':'百度联盟用户体验中心','Href':'http://ued.baidu.com/'},
+                {'Name':'百度FEX','Title':'','Href':'http://fex.baidu.com/'},
+                {'Name':'百度EFE','Title':'','Href':'http://efe.baidu.com/'},
+                {'Name':'百度MUX','Title':'','Href':'http://mux.baidu.com/'},
+                {'Name':'百度FIS','Title':'','Href':'http://fis.baidu.com/'}
+            ]
+            },{
+            "pageT2":"腾讯UED",
+            "pageC2":[
+                {'Name':'腾讯CDC','Title':'','Href':'http://cdc.tencent.com/'},
+                {'Name':'腾讯WSD','Title':'','Href':'http://wsd.tencent.com/'},
+                {'Name':'腾讯ISUX','Title':'','Href':'http://isux.tencent.com/'},
+                {'Name':'财付通TID','Title':'让生活支付更完美','Href':'http://tid.tenpay.com/'},
+>>>>>>> a607a586a62eceb062bea99a8008897ad8b48456
                 {'Name':'alloyteam','Title':'成为地球卓越的Web团队！','Href':'http://www.alloyteam.com/'},
                 {'Name':'腾讯无线MXD','Title':'','Href':'http://mxd.tencent.com/'},
                 {'Name':'腾讯TGideas','Title':'','Href':'http://tgideas.qq.com/'}
