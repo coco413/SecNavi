@@ -12,7 +12,7 @@ var FrontGuide = {
     "main":[{
         "pageT1":"安全圈",
         "pageC1":[{
-            "pageT2":"安全媒体",
+            "pageT2":"安全门户",
             "pageC2":[
                 {'Name':'MottoIN','Title':'信安舆情早知道','Href':'http://www.mottoin.com/',"New":"1"}, 
                 {'Name':'Freebuf','Title':'关注黑客与极客','Href':'http://www.freebuf.com/'},
@@ -21,10 +21,6 @@ var FrontGuide = {
                 {'Name':'SecWiki','Title':'安全维基','Href':'https://www.sec-wiki.com',"New":"1"},
                 {'Name':'E安全','Title':'全球网络安全资讯新传媒','Href':'https://www.easyaq.com/'},
                 {'Name':'安全脉搏','Title':'分享技术，悦享品质','Href':'https://www.secpulse.com/'},
-            ]
-            },{
-            "pageT2":"安全门户",
-            "pageC2":[
                 {'Name':'吐司论坛','Title':'T00LS - 低调求发展 - 潜心习安全','Href':'https://www.t00ls.net/'}, 
                 {'Name':'看雪论坛','Title':'专注安全十七年','Href':'http://bbs.pediy.com/'},
                 {'Name':'吾爱破解','Title':'吾爱破解 安卓破解|病毒分析|破解软件','Href':'http://www.52pojie.cn/'},
@@ -32,7 +28,26 @@ var FrontGuide = {
                 {'Name':'Sec-un','Title':'Sec-UN 安全圈','Href':'http://www.uedbox.com/'},
                 {'Name':'安全脉搏','Title':'SOBUG漏洞悬赏平台','Href':'https://www.secpulse.com/'},
                 {'Name':'漏洞时代','Title':'漏洞时代 - 最新漏洞_0DaY5.CoM','Href':'http://0day5.com/'}, 
-                {'Name':'先知社区','Title':'安全技术社区','Href':'https://xianzhi.aliyun.com/forum/?spm=a2c0h.8049718.0.0.qoviZO'}
+                {'Name':'先知社区','Title':'安全技术社区','Href':'https://xianzhi.aliyun.com/forum/?spm=a2c0h.8049718.0.0.qoviZO'},
+                {'Name':'91Ri','Title':'91Ri','Href':'https://www.91ri.org/'},
+                {'Name':'圈子','Title':'这是一个白帽子的汇集地','Href':'https://www.secquan.org/Login'}
+            ]
+            },{
+            "pageT2":"安全维基",
+            "pageC2":[
+                {'Name':'Sec-News','Title':'Sec-News 安全文摘','Href':'http://wiki.ioin.in/'},
+                {'Name':'Sec-News','Title':'Sec-News 安全文摘','Href':'http://wiki.ioin.in/'},
+                {'Name':'乌云公开漏洞','Title':'临时乌云','Href':'http://wooyun.jozxing.cc/'},
+                {'Name':'乌云知识库','Title':'乌云知识库','Href':'http://drops.wiki/'},
+                {'Name':'安全知识库','Title':'安全知识库','Href':'www.vipread.com/index'},
+                {'Name':'乌云Wiki','Title':'乌云Wiki','Href':'http://wiki.secbug.net/'},
+                {'Name':'网络尖刀Wiki','Title':'网络尖刀Wiki','Href':'http://121.42.182.208/doku.php?id=start'},
+                {'Name':'JearyWiki','Title':'JearyWiki','Href':'http://wiki.jeary.org/'},
+                {'Name':'小书屋','Title':'小书屋 - 纪念乌云&皮皮书屋','Href':'http://www.xiaoshuwu.net/'},
+                {'Name':'春秋百科','Title':'i春秋学院百科','Href':'http://wiki.ichunqiu.com/index.php/%E9%A6%96%E9%A1%B5'},
+                {'Name':'SQL注入Wiki','Title':'SQL Injection Wiki','Href':'http://www.sqlinjectionwiki.com/Categories/1/mssql-sql-injection-cheat-sheet/'},
+                {'Name':'SQL注入技巧','Title':'SQL Injection','Href':'http://websec.ca/kb/sql_injection'},
+
             ]
             },{
             "pageT2":"国家安全",
@@ -53,53 +68,27 @@ var FrontGuide = {
                 {'Name':'SOBUG','Title':'SOBUG漏洞悬赏平台','Href':'https://www.sobug.com/'},
                 {'Name':'云盾先知','Title':'云盾先知平台致力于构建和谐的互联网安全生态圈','Href':'https://xianzhi.aliyun.com/'}, 
                 {'Name':'威客众测','Title':'信息安全行业一站式服务平台','Href':'http://www.secwk.com/index.html'},
-<<<<<<< HEAD
                 {'Name':'比戈大牛','Title':' 专注安卓漏洞','Href':'https://bigniu.com'},
                 {'Name':'漏洞银行','Title':' 挑战权威但不作恶，打造信息安全乌托邦','Href':'http://www.bugbank.cn/'},
                 {'Name':'HITCON','Title':'HITCON ZeroDay','Href':'https://zeroday.hitcon.org/vulnerability'},
                 {'Name':'VulReport','Title':'台湾公益性质漏洞通报平台','Href':'https://vulreport.net/'},
                 {'Name':'Hackone','Title':'Make the Internet Safer Together','Href':'https://www.hackerone.com/'}
-=======
-                {'Name':'VulReport','Title':'台湾公益性质漏洞通报平台','Href':'https://vulreport.net/'},
-                {'Name':'Hackone','Title':'Make the Internet Safer Together','Href':'https://www.hackerone.com/'}
-
->>>>>>> a607a586a62eceb062bea99a8008897ad8b48456
             ]
         	},{
             "pageT2":"漏洞信息",
             "pageC2":[
-<<<<<<< HEAD
                 {'Name':'CVE中文漏洞信息库','Title':'CVE 通用漏洞与披露','Href':'http://cve.scap.org.cn/'},
                 {'Name':'CVE英文漏洞信息库','Title':'CVE 通用漏洞与披露','Href':'http://cve.mitre.org/'},
-=======
-                {'Name':'CVE漏洞信息库','Title':'CVE 通用漏洞与披露','Href':'http://cve.scap.org.cn/'}, 
->>>>>>> a607a586a62eceb062bea99a8008897ad8b48456
                 {'Name':'绿盟漏洞信息库','Title':'绿盟科技','Href':'http://www.nsfocus.net/index.php?act=sec_bug'},
                 {'Name':'CNVD漏洞信息库','Title':'国家信息安全漏洞共享平台','Href':'http://www.cnvd.org.cn/'},
                 {'Name':'Seebug漏洞信息库','Title':'Seebug,洞悉漏洞，让你掌握第一手漏洞情报','Href':'https://www.seebug.org/category/'},
                 {'Name':'360漏洞信息库','Title':'360网站安全检测','Href':'http://webscan.360.cn/vul/'}, 
                 {'Name':'Bugscan漏洞信息库','Title':'BugScan 漏洞插件社区','Href':'http://www.bugscan.net/source/template/vulns/'},
                 {'Name':'Exploits-DB漏洞信息库','Title':'Exploits Database by Offensive Security','Href':'https://www.exploit-db.com/'},
-<<<<<<< HEAD
                 {'Name':'Packetstorm漏洞信息库','Title':'ignore security and it will go away','Href':'https://packetstormsecurity.com/'},
                 {'Name':'1377-0day漏洞信息库','Title':'0day漏洞利用数据库','Href':'http://cn.0day.today/'},
                 {'Name':'SecLists漏洞信息库','Title':'SecLists.Org Security Mailing List Archive','Href':'http://seclists.org/'},
                 {'Name':'路由器漏洞信息库','Title':'Routerpwn - One click exploits','Href':'http://www.routerpwn.com/'},
-            ]
-            },{
-            "pageT2":"安全维基",
-            "pageC2":[
-                {'Name':'Sec-News','Title':'Sec-News 安全文摘','Href':'http://wiki.ioin.in/'},
-                {'Name':'Sec-News','Title':'Sec-News 安全文摘','Href':'http://wiki.ioin.in/'},
-                {'Name':'Drops知识库','Title':'乌云知识库','Href':'http://drops.wiki/'},
-                {'Name':'乌云公开漏洞','Title':'临时乌云','Href':'http://wooyun.jozxing.cc/'},
-                {'Name':'小书屋','Title':'小书屋 - 纪念乌云&皮皮书屋','Href':'http://www.xiaoshuwu.net/'},
-                {'Name':'春秋百科','Title':'i春秋学院百科','Href':'http://wiki.ichunqiu.com/index.php/%E9%A6%96%E9%A1%B5'},
-                {'Name':'SQL注入Wiki','Title':'SQL Injection Wiki','Href':'http://www.sqlinjectionwiki.com/Categories/1/mssql-sql-injection-cheat-sheet/'},
-=======
-                {'Name':'Packetstorm漏洞信息库','Title':'ignore security and it will go away','Href':'https://packetstormsecurity.com/'}
->>>>>>> a607a586a62eceb062bea99a8008897ad8b48456
-
             ]
             },{
             "pageT2":"应急响应",
@@ -162,50 +151,10 @@ var FrontGuide = {
             },{
             "pageT2":"CTF",
             "pageC2":[
-<<<<<<< HEAD
                 {'Name':'360CTF训练营','Title':'CTF训练营 - 安全客 - 有思想的安全新媒体','Href':'http://bobao.360.cn/ctf/'},
                 {'Name':'CTFwriteup','Title':'CTFs','Href':'https://github.com/ctfs/'},
                 {'Name':'CTFtime','Title':'All about CTF ','Href':'https://ctftime.org/'},
                 {'Name':'XCTF-Time','Title':'XCTF-Time','Href':''},
-=======
-                {'Name':'CVERC','Title':'国家计算机病毒应急处理中心','Href':'http://www.cverc.org.cn/'},
-                {'Name':'CNNVD','Title':'中国国家信息安全漏洞库','Href':'http://www.cnnvd.org.cn'},
-                {'Name':'CNVD','Title':'国家信息安全漏洞共享平台','Href':'http://www.cnvd.org.cn'},
-                {'Name':'CNNIC','Title':'中国互联网络信息中心','Href':'http://www.cnnic.net.cn/'},
-                {'Name':'CNCERT','Title':'国家互联网应急中心','Href':'http://www.cert.org.cn/'},
-                {'Name':'Nitsc','Title':'国家信息技术安全研究中心','Href':'http://www.nitsc.cn/'}
-            ]
-            },{
-            "pageT2":"阿里UED",
-            "pageC2":[
-                {'Name':'淘宝UED','Title':'TaoBaoUED | 做地球上最好的 UED','Href':'http://ued.taobao.org/blog/'},
-                {'Name':'阿里巴巴(中文站 )UED','Title':'用户体验设计部博客U一点设计','Href':'http://www.aliued.cn/'},
-                {'Name':'阿里巴巴(国际站)UED','Title':'我们的每一次思索和设计，争论和坚持，都为追寻一个目的：在更新的屏幕里创造出更好的产品和更优的体验。','Href':'http://www.aliued.com/'},
-                {'Name':'阿里妈妈UED','Title':'','Href':'http://ued.alimama.com/'},
-                {'Name':'支付宝UED','Title':'','Href':'http://ued.alipay.com/'},
-                {'Name':'支付宝PED','Title':'','Href':'http://ped.alipay.com/'},
-                {'Name':'天猫UED','Title':'','Href':'http://ued.tmall.com/'},
-                {'Name':'天猫SED','Title':'','Href':'http://sed.tmall.com/'},
-                {'Name':'一淘UED','Title':'','Href':'http://mux.alimama.com/'},
-                {'Name':'AMUI','Title':'关于无线Web解决方案 - AM','Href':'http://am-team.github.io/default.html'}
-            ]
-            },{
-            "pageT2":"百度UED",
-            "pageC2":[
-                {'Name':'百度UED','Title':'百度联盟用户体验中心','Href':'http://ued.baidu.com/'},
-                {'Name':'百度FEX','Title':'','Href':'http://fex.baidu.com/'},
-                {'Name':'百度EFE','Title':'','Href':'http://efe.baidu.com/'},
-                {'Name':'百度MUX','Title':'','Href':'http://mux.baidu.com/'},
-                {'Name':'百度FIS','Title':'','Href':'http://fis.baidu.com/'}
-            ]
-            },{
-            "pageT2":"腾讯UED",
-            "pageC2":[
-                {'Name':'腾讯CDC','Title':'','Href':'http://cdc.tencent.com/'},
-                {'Name':'腾讯WSD','Title':'','Href':'http://wsd.tencent.com/'},
-                {'Name':'腾讯ISUX','Title':'','Href':'http://isux.tencent.com/'},
-                {'Name':'财付通TID','Title':'让生活支付更完美','Href':'http://tid.tenpay.com/'},
->>>>>>> a607a586a62eceb062bea99a8008897ad8b48456
                 {'Name':'alloyteam','Title':'成为地球卓越的Web团队！','Href':'http://www.alloyteam.com/'},
                 {'Name':'腾讯无线MXD','Title':'','Href':'http://mxd.tencent.com/'},
                 {'Name':'腾讯TGideas','Title':'','Href':'http://tgideas.qq.com/'}
@@ -231,6 +180,7 @@ var FrontGuide = {
                 {'Name':'DVIA','Title':'Damn Vulnerable iOS Application','Href':'http://damnvulnerableiosapp.com/'},
                 {'Name':'Metasploit Vulnerable Services','Title':'Metasploit官方攻防模拟实训工具','Href':'http://www.freebuf.com/sectool/128609.html'},
                 {'Name':'BWAPP','Title':'buggy web Application','Href':'http://www.freebuf.com/sectool/76885.html?utm_source=tuicool&utm_medium=referral'},
+                {'Name':'DVWA','Title':'Damn Vulnerable iOS Application','Href':'http://157.55.172.196/DVWA/index.php'},
             ]
             },{
             "pageT2":"思维导图",
@@ -240,18 +190,28 @@ var FrontGuide = {
                 {'Name':'Dotaer & Hacker','Title':'白天乌云上分 晚上天梯上分','Href':'http://www.xiaoshuwu.net/skill/#__6_ID'},
             ]
         }]},{
-        "pageT1":"Python",
+        "pageT1":"态势感知",
         "pageC1":[{
-            "pageT2":"原生开发",
+            "pageT2":"安全行业",
             "pageC2":[
-                {'Name':'MozillaJavaScriptGuide','Title':'Mozilla Developer Network出的JS教程','Href':'https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide'},
+                {'Name':'安全行业全景图','Title':'安全行业全景图','Href':'http://all.aqniu.com/'},
+                {'Name':'全景网络安全防御系统','Title':'全景网络安全防御系统','Href':'http://guanjia.qq.com/system/preloader.html'},
+                {'Name':'Norse','Title':'Norse Attack Map','Href':'http://map.norsecorp.com/'},
+                {'Name':'全景网络安全防御系统','Title':'全景网络安全防御系统','Href':'http://guanjia.qq.com/system/preloader.htmle'},
+                {'Name':'全景网络安全防御系统','Title':'全景网络安全防御系统','Href':'http://guanjia.qq.com/system/preloader.htmle'},
+
+
             ]
         }]},{
-        "pageT1":"态势感知",
+        "pageT1":"测试平台",
         "pageC1":[{
             "pageT2":"移动端",
             "pageC2":[
-                {'Name':'ionic','Title':'Ionic(ionicframework)一款接近原生的Html5移动App开发框架　会html css js就可以开发app　创建精彩的应用 从这里开始。','Href':'http://www.ionic.wang/'},
+                {'Name':'ionic','Title':'Ionic(ionicframework)一款接近原生的Html5移动App开发框架　会html css js就可以开发app　创建精彩的应用 从这里开始。','Href':'https://usa.findmima.com/'},
+                {'Name':'ionic','Title':'Ionic(ionicframework)一款接近原生的Html5移动App开发框架　会html css js就可以开发app　创建精彩的应用 从这里开始。','Href':'http://xssnow.com/invit.php'},
+                {'Name':'ionic','Title':'Ionic(ionicframework)一款接近原生的Html5移动App开发框架　会html css js就可以开发app　创建精彩的应用 从这里开始。','Href':'http://www.bodkin.ren/?p=133'},
+
+
             ]
             
         }]},{
@@ -259,9 +219,9 @@ var FrontGuide = {
         "pageC1":[{
             "pageT2":"前端文档",
             "pageC2":[
-                {'Name':'HTML','Title':'','Href':'http://www.w3cschool.cc/tags/html-reference.html'},
-                {'Name':'CSS','Title':'','Href':'http://www.w3cschool.cc/cssref/css-reference.html'},
-                {'Name':'CSS3','Title':'','Href':'http://www.divcss5.com/css3/'},
+                {'Name':'POC编写指南','Title':'POC编写指南','Href':'https://poc.evalbug.com/chapter1/1.html'},
+                {'Name':'Kali中文说明','Title':'Kali Linux Tools 中文說明書','Href':'http://www.mayter.cn/kali-tools/tools_zh.html'},
+                {'Name':'在线Api文档','Title':'在线Api文档','Href':'http://tool.oschina.net/apidocs'},
                 {'Name':'HTML5','Title':'','Href':'http://www.w3.org/html/ig/zh/wiki/HTML5'},
                 {'Name':'JavaScript','Title':'','Href':'http://www.php100.com/manual/javascript.html'},
                 {'Name':'jQuery','Title':'','Href':'http://jquery.cuishifeng.cn/'},
@@ -471,7 +431,7 @@ var FrontGuide = {
         "pageC1":[{
             "pageT2":"求职网站",
             "pageC2":[
-                {'Name':'前端面试题目搜集','Title':'作者精心整理的的前端面试题，值得收藏~','Href':'http://www.kancloud.cn/digest/front-interview/86832',"New":"1"},
+                {'Name':'谷歌镜像站大全','Title':'谷歌镜像站','Href':'http://coderschool.cn/1853.html',"New":"1"},
                 {'Name':'国外优质VPS推荐','Title':'国外优质VPS推荐 适合科学上网','Href':'https://www.hx99.net/News/In/201604/37167.html'},
                 {'Name':'哪上班','Title':'高质量互联网人才','Href':'https://www.nashangban.com/'},
                 {'Name':'内推网','Title':'互联网招聘内部推荐直招平台','Href':'http://www.neitui.me/'},
@@ -490,6 +450,8 @@ var FrontGuide = {
                 {'Name':'WhiteCell','Title':'WhiteCellClub','Href':'http://www.whitecell-club.org/'},
                 {'Name':'MS509 Team','Title':'MS509 Team','Href':'http://www.ms509.com/'},
                 {'Name':'四叶草安全实验室','Title':'四叶草安全实验室','Href':'http://lab.seclover.com/'},
+                {'Name':'北风渗透实验室','Title':'北风渗透实验室','Href':'https://www.getshell.net/'},
+
             ]
             },{
             "pageT2":"个人博客",
@@ -510,6 +472,16 @@ var FrontGuide = {
                 {'Name':'送你一场樱花雨','Title':'我们仍未忘记那天清晨猫王带来的希望','Href':'https://sfantree.com/'},
                 {'Name':'WebShell','Title':'蛋疼的人生不需要解释！','Href':'https://www.webshell.cc'},
                 {'Name':'nMasks','Title':'走的是人间的道，扛的是顶风的旗','Href':'http://thief.one/'},
+                {'Name':'3xp10it','Title':'to be sai','Href':'https://3xp10it.cc/index2.html'},
+                {'Name':'梧桐雨','Title':'分享知识 分享好用的软件 分享好的思想','Href':'http://wutongyu.info/'},
+                {'Name':'EVILCOS','Title':'以黑客那种邪气看待世界','Href':'http://evilcos.me/'},
+                {'Name':'PHP & Java','Title':'Open The Door,SF Express!!','Href':'http://javaweb.org/'},
+                {'Name':'暗月','Title':'网络安全,WEB渗透，数据安全，渗透编程,安全培训','Href':'http://www.moonsec.com/'},
+                {'Name':'90s','Title':'关注网络信息安全','Href':'https://www.unhonker.com/'},
+                {'Name':'Braid','Title':'攻城狮，黑客，网络安全爱好者','Href':'http://www.cnbraid.com/'},
+
+                {'Name':'Skys自留地','Title':'Sky\'s自留地','Href':'http://03sec.com/'},
+                {'Name':'遗忘\'s Blog ','Title':'遗忘\'s Blog ','Href':'http://www.yiwang6.cn/'},
                 {'Name':'3xp10it','Title':'to be sai','Href':'https://3xp10it.cc/index2.html'},
                 {'Name':'梧桐雨','Title':'分享知识 分享好用的软件 分享好的思想','Href':'http://wutongyu.info/'},
                 {'Name':'EVILCOS','Title':'以黑客那种邪气看待世界','Href':'http://evilcos.me/'},
