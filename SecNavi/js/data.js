@@ -210,8 +210,7 @@ var FrontGuide = {
             },{
             "pageT2":"情报收集",
             "pageC2":[
-                {'Name':'Twitter','Title':'推特情报','Href':'https://twitter.com/'},
-
+                {'Name':'Twitter','Title':'推特情报','Href':'https://twitter.com/'}
             ]
 
         }]},{
@@ -219,14 +218,23 @@ var FrontGuide = {
         "pageC1":[{
             "pageT2":"Python",
             "pageC2":[
-                {'Name':'ionic','Title':'Ionic(ionicframework)一款接近原生的Html5移动App开发框架　会html css js就可以开发app　创建精彩的应用 从这里开始。','Href':'https://usa.findmima.com/'},
-                {'Name':'ionic','Title':'Ionic(ionicframework)一款接近原生的Html5移动App开发框架　会html css js就可以开发app　创建精彩的应用 从这里开始。','Href':'http://xssnow.com/invit.php'},
-                {'Name':'ionic','Title':'Ionic(ionicframework)一款接近原生的Html5移动App开发框架　会html css js就可以开发app　创建精彩的应用 从这里开始。','Href':'http://www.bodkin.ren/?p=133'},
+                {'Name':'V2EX','Title':'V2EX 是一个关于分享和探索的地方','Href':'https://www.v2ex.com/go/python'},
+                {'Name':'ionic','Title':'','Href':'http://xssnow.com/invit.php'},
+                {'Name':'Stackoverflow','Title':'','Href':'https://stackoverflow.com/'},
+                {'Name':'Python知识库','Title':'Python知识库 -  知识库 - 你身边的技术百科全书 - CSDN','Href':'https://www.zhihu.com/topic/19552832/top-answers'},
+                {'Name':'Scrapy中文文档','Title':'Scrapy 0.25 文档','Href':'http://scrapy-chs.readthedocs.io/zh_CN/latest/index.html'},
+                {'Name':'Pycharm激活','Title':'Pycharm激活','Href':'http://idea.liyang.io/'}
             ]
             },{
-            "pageT2":"情报收集",
+            "pageT2":"Php",
             "pageC2":[
-                {'Name':'Twitter','Title':'推特情报','Href':'https://twitter.com/'},
+                {'Name':'PHP 手册','Title':'世界上第二好的语言','Href':'http://www.php.net/manual/zh/'},
+
+            ]
+            },{
+            "pageT2":"Javascript",
+            "pageC2":[
+                {'Name':'JavaScript中文网','Title':'Javascript教程资源分享门户','Href':'http://www.javascriptcn.com/'}
 
             ]
             
@@ -469,21 +477,21 @@ var FrontGuide = {
                 {'Name':'像 geek 一样写博客','Title':'','Href':'http://wiki.jikexueyuan.com/project/github-page/'}
             ]
             
-        }]},{
-        "pageT1":"VPN&&SS",
-        "pageC1":[{
-            "pageT2":"求职网站",
-            "pageC2":[
-                {'Name':'谷歌镜像站大全','Title':'谷歌镜像站','Href':'http://coderschool.cn/1853.html',"New":"1"},
-                {'Name':'国外优质VPS推荐','Title':'国外优质VPS推荐 适合科学上网','Href':'https://www.hx99.net/News/In/201604/37167.html'},
-                {'Name':'IShadow','Title':'free ss','Href':'http://xyz.ishadow.online/'},
-                {'Name':'内推网','Title':'互联网招聘内部推荐直招平台','Href':'http://www.neitui.me/'},
-                {'Name':'牛客网','Title':'专业IT笔试面试备考平台','Href':'http://www.nowcoder.com/'},
-                {'Name':'免费代理','Title':'','Href':'http://www.xdaili.cn/'},
-                {'Name':'极速代理','Title':'','Href':'http://superfastip.com/welcome/getips'},
-                {'Name':'protonvpn','Title':'','Href':'https://protonvpn.com/blog/free-vpn-service-launch/'},
+        // }]},{
+        // "pageT1":"VPN&&SS",
+        // "pageC1":[{
+        //     "pageT2":"求职网站",
+        //     "pageC2":[
+        //         {'Name':'谷歌镜像站大全','Title':'谷歌镜像站','Href':'http://coderschool.cn/1853.html',"New":"1"},
+        //         {'Name':'国外优质VPS推荐','Title':'国外优质VPS推荐 适合科学上网','Href':'https://www.hx99.net/News/In/201604/37167.html'},
+        //         {'Name':'IShadow','Title':'free ss','Href':'http://xyz.ishadow.online/'},
+        //         {'Name':'内推网','Title':'互联网招聘内部推荐直招平台','Href':'http://www.neitui.me/'},
+        //         {'Name':'牛客网','Title':'专业IT笔试面试备考平台','Href':'http://www.nowcoder.com/'},
+        //         {'Name':'免费代理','Title':'','Href':'http://www.xdaili.cn/'},
+        //         {'Name':'极速代理','Title':'','Href':'http://superfastip.com/welcome/getips'},
+        //         {'Name':'protonvpn','Title':'','Href':'https://protonvpn.com/blog/free-vpn-service-launch/'},
 
-            ]
+        //     ]
             
         }]},{
         "pageT1":"技术博客",
