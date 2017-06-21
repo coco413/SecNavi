@@ -157,7 +157,7 @@ var FrontGuide = {
                 {'Name':'XCTF-Time','Title':'XCTF-Time','Href':''},
                 {'Name':'alloyteam','Title':'成为地球卓越的Web团队！','Href':'http://www.alloyteam.com/'},
                 {'Name':'腾讯无线MXD','Title':'','Href':'http://mxd.tencent.com/'},
-                {'Name':'腾讯TGideas','Title':'','Href':'http://tgideas.qq.com/'}
+                {'Name':'CTFtools','Title':'致力于为CTFer提供便利','Href':'https://www.ctftools.com/'}
             ]
         }]},{
         "pageT1":"在线教育",
@@ -188,6 +188,7 @@ var FrontGuide = {
                 {'Name':'安全技能 -SecWiki','Title':'安全技能 -SecWiki','Href':'https://www.sec-wiki.com/skill/index?navisec'},
                 {'Name':'研发技能表v3.1 -知道创宇','Title':'知行合一 | 守正出奇','Href':'http://blog.knownsec.com/Knownsec_RD_Checklist/index.html'},
                 {'Name':'Dotaer & Hacker','Title':'白天乌云上分 晚上天梯上分','Href':'http://www.xiaoshuwu.net/skill/#__6_ID'},
+                {'Name':'StuQ技能图谱','Title':'StuQ实践驱动的IT职业学习和服务平台','Href':'http://skill-map.stuq.org/'}
             ]
         }]},{
         "pageT1":"态势感知",
@@ -279,7 +280,9 @@ var FrontGuide = {
                 {'Name':'云聚数据','Title':'','Href':'http://www.36wu.com/Service'},
                 {'Name':'常用接口大全','Title':'','Href':'http://www.bejson.com/go.html?u=http://www.bejson.com/webInterface.html'},
                 {'Name':'apicloud','Title':'','Href':'http://apicloud.com/'},
-                {'Name':'DevDocs API','Title':'接口文档','Href':'https://devdocs.io/'}
+                {'Name':'DevDocs API','Title':'接口文档','Href':'https://devdocs.io/'},
+                {'Name':'Mysql开发文档','Title':'dev for mysql','Href':'https://dev.mysql.com/'},
+                {'Name':'Gitbook','Title':'Documentation made easy','Href':'https://www.gitbook.com/'}
             ]
         }]},{
         "pageT1":"实用工具",
@@ -318,7 +321,7 @@ var FrontGuide = {
                 {'Name':'JS Bin','Title':'','Href':'http://jsbin.com/?html,output'},
                 {'Name':'cssdeck','Title':'','Href':'http://cssdeck.com/'},
                 {'Name':'jsdo.it','Title':'','Href':'http://jsdo.it/'},
-                {'Name':'dabblet','Title':'','Href':'http://dabblet.com/'}
+                {'Name':'重大漏洞在线检测系统','Title':'重大漏洞在线检测','Href':'http://0day.websaas.com.cn/'}
             ]
             },{
             "pageT2":"其他工具",
@@ -404,9 +407,11 @@ var FrontGuide = {
                 {'Name':'AlloyPhoto图片处理','Title':'','Href':'http://tool.oschina.net/alloyphoto'},
                 {'Name':'代码着色','Title':'','Href':'http://tool.oschina.net/highlight'},
                 {'Name':'URL2PNG','Title':'','Href':'https://www.url2png.com/'},
-                {'Name':'马克鳗','Title':'设计稿标注、测量神器','Href':'http://www.getmarkman.com'},
-                {'Name':'GoPng','Title':'HTML5在线雪碧图片合成工具','Href':'http://alloyteam.github.io/gopng/'}
-            ]
+                {'Name':'网站历史记录查询','Title':'Wayback Machine','Href':'http://archive.org/web/'},
+                {'Name':'GoPng','Title':'HTML5在线雪碧图片合成工具','Href':'http://alloyteam.github.io/gopng/'},
+                {'Name':'工具猫','Title':'学无止境','Href':'https://www.toolmao.com/'},
+                {'Name':'在线旁站查询','Title':'在线C段查询','Href':'https://phpinfo.me/bing.php'},
+            ]    
             },{
             "pageT2":"IP&域名",
             "pageC2":[
@@ -433,7 +438,7 @@ var FrontGuide = {
             "pageC2":[
                 {'Name':'谷歌镜像站大全','Title':'谷歌镜像站','Href':'http://coderschool.cn/1853.html',"New":"1"},
                 {'Name':'国外优质VPS推荐','Title':'国外优质VPS推荐 适合科学上网','Href':'https://www.hx99.net/News/In/201604/37167.html'},
-                {'Name':'哪上班','Title':'高质量互联网人才','Href':'https://www.nashangban.com/'},
+                {'Name':'IShadow','Title':'free ss','Href':'http://xyz.ishadow.online/'},
                 {'Name':'内推网','Title':'互联网招聘内部推荐直招平台','Href':'http://www.neitui.me/'},
                 {'Name':'牛客网','Title':'专业IT笔试面试备考平台','Href':'http://www.nowcoder.com/'}
             ]
@@ -482,13 +487,13 @@ var FrontGuide = {
 
                 {'Name':'Skys自留地','Title':'Sky\'s自留地','Href':'http://03sec.com/'},
                 {'Name':'遗忘\'s Blog ','Title':'遗忘\'s Blog ','Href':'http://www.yiwang6.cn/'},
-                {'Name':'3xp10it','Title':'to be sai','Href':'https://3xp10it.cc/index2.html'},
-                {'Name':'梧桐雨','Title':'分享知识 分享好用的软件 分享好的思想','Href':'http://wutongyu.info/'},
+                {'Name':'3xp10it','Title':'to be sai','Href':'https://scanfsec.com/'},
+                {'Name':'浮云朝露','Title':'关注网络安全,记录安全小事,分享经验成果','Href':'http://wutongyu.info/'},
                 {'Name':'EVILCOS','Title':'以黑客那种邪气看待世界','Href':'http://evilcos.me/'},
                 {'Name':'PHP & Java','Title':'Open The Door,SF Express!!','Href':'http://javaweb.org/'},
-                {'Name':'暗月','Title':'网络安全,WEB渗透，数据安全，渗透编程,安全培训','Href':'http://www.moonsec.com/'},
-                {'Name':'90s','Title':'关注网络信息安全','Href':'https://www.unhonker.com/'},
-                {'Name':'Braid','Title':'攻城狮，黑客，网络安全爱好者','Href':'http://www.cnbraid.com/'},
+                {'Name':'安全INFO','Title':'安全INFO导航','Href':'http://www.anquanquan.info/'},
+                {'Name':'ZeroKeeper\'s Blog','Title':'WEB安全|代码审计|安全开发','Href':'http://www.zerokeeper.com/'},
+                {'Name':'JoyChou','Title':'愿你们既能朝九晚五，又能浪迹天涯','Href':'www.joychou.org'},
                 // {'Name':'slj(申力军)','Title':'就职于赶集','Href':'http://slj.me/'},
             ]
         }],
