@@ -1,8 +1,9 @@
 /* 
-* @Author: luuman
-* @Last Modified by:   Coco413
+* @Subject Author by: luuman
+* @Content Author by:   Coco413
 * @Date:   2017-03-02 23:10:45
 * @Function: SecNavi
+* @Useage:
 *  "Name":"name"
 *  "Title":"title"
 *  "Href":"htttp:"
@@ -17,29 +18,26 @@ var FrontGuide = {
                 {'Name':'MottoIN','Title':'信安舆情早知道','Href':'http://www.mottoin.com/',"New":"1"}, 
                 {'Name':'Freebuf','Title':'关注黑客与极客','Href':'http://www.freebuf.com/'},
                 {'Name':'安全客','Title':'有思想的安全新媒体','Href':'http://bobao.360.cn/'},
-                {'Name':'嘶吼','Title':'回归最本质的信息安全,互联网安全新媒体','Href':'http://www.4hou.com/',"New":"1"},
-                {'Name':'SecWiki','Title':'安全维基','Href':'https://www.sec-wiki.com',"New":"1"},
+                {'Name':'圈子','Title':'这是一个白帽子的汇集地','Href':'https://www.secquan.org/Login'},
+                {'Name':'嘶吼','Title':'回归最本质的信息安全,互联网安全新媒体','Href':'http://www.4hou.com/'},
                 {'Name':'安全脉搏','Title':'分享技术，悦享品质','Href':'https://www.secpulse.com/'},
                 {'Name':'吐司论坛','Title':'T00LS - 低调求发展 - 潜心习安全','Href':'https://www.t00ls.net/'}, 
                 {'Name':'看雪论坛','Title':'专注安全十七年','Href':'http://bbs.pediy.com/'},
                 {'Name':'吾爱破解','Title':'吾爱破解 安卓破解|病毒分析|破解软件','Href':'http://www.52pojie.cn/'},
+                {'Name':'VC驿站','Title':'C语言 C++ MFC 编程学习交流论坛','Href':'http://www.cctry.com/'},
                 {'Name':'先知社区','Title':'安全技术社区','Href':'https://xianzhi.aliyun.com/forum/?spm=a2c0h.8049718.0.0.qoviZO'},
                 {'Name':'91Ri','Title':'91Ri','Href':'https://www.91ri.org/'},
-                {'Name':'圈子','Title':'这是一个白帽子的汇集地','Href':'https://www.secquan.org/Login'},
                 {'Name':'小密圈','Title':'连接一千位铁杆粉丝','Href':'https://wx.xiaomiquan.com/dweb/'}
             ]
             },{
             "pageT2":"安全维基",
             "pageC2":[
-                {'Name':'乌云公开漏洞简版','Title':'与其听信谣言,不如相信乌云','Href':'http://wooyun.jozxing.cc/'},
-                {'Name':'乌云公开漏洞全版','Title':'与其听信谣言,不如相信乌云','Href':'http://wooyun.xss.tv/'},
+                {'Name':'乌云漏洞平台','Title':'与其听信谣言,不如相信乌云','Href':'http://wooyun.xss.tv/'},
                 {'Name':'乌云Wiki','Title':'乌云Wiki','Href':'http://wiki.secbug.net/'},
-                {'Name':'安全知识库','Title':'安全知识库','Href':'http://www.vipread.com/index'},
-                {'Name':'Sec-News','Title':'安全文摘','Href':'http://wiki.ioin.in/'},
-                {'Name':'JearyWiki','Title':'JearyWiki','Href':'http://wiki.jeary.org/'},
+                {'Name':'信息安全知识库','Title':' 沉淀知识,分享经验','Href':'http://www.vipread.com/index',"New":"1"},
                 {'Name':'小书屋','Title':'小书屋 - 纪念乌云&皮皮书屋','Href':'http://www.xiaoshuwu.net/'},
-                {'Name':'SQL注入Wiki','Title':'SQL Injection Wiki','Href':'http://www.sqlinjectionwiki.com/Categories/1/mssql-sql-injection-cheat-sheet/'},
-                {'Name':'SQL注入Wiki2','Title':'SQL Injection','Href':'http://websec.ca/kb/sql_injection'}
+                {'Name':'Sec-News','Title':'安全文摘','Href':'http://wiki.ioin.in/'},
+                {'Name':'SecWiki','Title':'安全维基','Href':'https://www.sec-wiki.com',"New":"1"}
             ]
             },{
             "pageT2":"国家安全",
@@ -77,7 +75,7 @@ var FrontGuide = {
                 {'Name':'Seebug漏洞信息库','Title':'Seebug洞悉漏洞，让你掌握第一手漏洞情报','Href':'https://www.seebug.org/category/'},
                 {'Name':'绿盟漏洞信息库','Title':'绿盟科技','Href':'http://www.nsfocus.net/index.php?act=sec_bug'},
                 {'Name':'360漏洞信息库','Title':'360网站安全检测','Href':'http://webscan.360.cn/vul/'}, 
-                {'Name':'Shodan漏洞信息库','Title':'Shodan Exploits','Href':'https://exploits.shodan.io/welcome'}, 
+                {'Name':'Shodan漏洞信息库','Title':'Shodan Exploits','Href':'https://exploits.shodan.io/welcome',"New":"1"}, 
                 {'Name':'Exploits-DB漏洞信息库','Title':'Exploits Database by Offensive Security','Href':'https://www.exploit-db.com/'},
                 {'Name':'Packetstorm漏洞信息库','Title':'ignore security and it will go away','Href':'https://packetstormsecurity.com/'},
                 {'Name':'Cxsecurity漏洞信息库','Title':'Cxsecurity','Href':'https://cxsecurity.com/wlb/'},
@@ -151,9 +149,9 @@ var FrontGuide = {
                 {'Name':'CTFtools','Title':'致力于为CTFer提供便利','Href':'https://www.ctftools.com/'},
                 {'Name':'CTFwriteup','Title':'CTFs','Href':'https://github.com/ctfs/'},
                 {'Name':'CTFtime','Title':'All about CTF ','Href':'https://ctftime.org/'},
-                {'Name':'XCTF-Time','Title':'XCTF-Time','Href':'http://oj.xctf.org.cn/web/login/?next=/'},
+                {'Name':'XCTFtime','Title':'XCTF-Time','Href':'http://oj.xctf.org.cn/web/login/?next=/'},
                 {'Name':'360CTF','Title':'CTF训练营 - 安全客 - 有思想的安全新媒体','Href':'http://bobao.360.cn/ctf/'},
-                {'Name':'PwnHub','Title':'仰望未知的0 1世界 碰撞你的极客思维','Href':'https://pwnhub.cn/index/'},
+                {'Name':'PwnHub','Title':'仰望未知的0 1世界 碰撞你的极客思维','Href':'https://pwnhub.cn/index/'}
             ]
         }]},{
         "pageT1":"在线教育",
@@ -168,59 +166,59 @@ var FrontGuide = {
                 {'Name':'腾讯课堂','Title':'学习成就梦想','Href':'https://ke.qq.com/'},
                 {'Name':'百度传课','Title':'学知识，上百度传课','Href':'http://www.chuanke.com/'},
                 {'Name':'极客学院','Title':'中国专业的IT职业在线教育平台','Href':'http://www.jikexueyuan.com/'},
-                {'Name':'51CTO学院','Title':'为梦想增值','Href':'http://edu.51cto.com/'},
                 {'Name':'网易云课堂','Title':'领先的实用技能学习平台','Href':'http://study.163.com/'},
-                {'Name':'鱼C工作室','Title':'鱼C工作室致力于完全免费编程视频教学','Href':'http://bbs.fishc.com/forum.php'},
-                {'Name':'YouTube','Title':'YouTube','Href':'https://www.youtube.com/'}
+                {'Name':'鱼C工作室','Title':'鱼C工作室致力于完全免费编程视频教学','Href':'http://bbs.fishc.com/forum.php',"New":"1"},
+                {'Name':'51CTO学院','Title':'为梦想增值','Href':'http://edu.51cto.com/'},
+                {'Name':'YouTube','Title':'全球最大视频播放站点','Href':'https://www.youtube.com/'}
             ]
             },{
             "pageT2":"在线靶机",
             "pageC2":[
                 {'Name':'VulApps','Title':'快速搭建各种漏洞环境@Medicean','Href':'https://github.com/Medicean/VulApps'},
-                {'Name':'Vulhub','Title':'Docker-Compose file for vulnerability environment@phith0n','Href':'https://github.com/phith0n/vulhub'},
-                {'Name':'Sqli-Labs','Title':'SQLI labs to test error based, Blind boolean based, Time based','Href':'https://github.com/Audi-1/sqli-labs'},
-                {'Name':'DVWA-WooYun','Title':'DVWA-WooYun@lxj616','Href':'http://157.55.172.196/DVWA/index.php'},
+                {'Name':'Vulhub','Title':'快速搭建各种漏洞环境@phith0n','Href':'https://github.com/phith0n/vulhub'},
+                {'Name':'Sqli-Labs','Title':'SQLI Labs','Href':'https://github.com/Audi-1/sqli-labs'},
+                {'Name':'DVWA','Title':'Anonymous DVWA','Href':'http://157.55.172.196/DVWA/index.php'},
                 {'Name':'XSS-Game1','Title':'Xss Game','Href':'https://xss.haozi.me/#/'},
-                {'Name':'XSS-Game2','Title':'Xss Game','Href':'http://test.xss.tv/'}
+                {'Name':'XSS-Game2','Title':'Xss Game','Href':'http://test.xss.tv/'},
+                {'Name':'XSS-Game3','Title':'Xss Game','Href':'https://public-firing-range.appspot.com/address/index.html'}
             ]
             },{
             "pageT2":"思维导图",
             "pageC2":[
                 {'Name':'安全技能路线 - SecWiki','Title':'安全技能 -SecWiki','Href':'https://www.sec-wiki.com/skill/index?navisec'},
-                {'Name':'研发技能表v3.1 - 知道创宇','Title':'知行合一 守正出奇','Href':'http://blog.knownsec.com/Knownsec_RD_Checklist/index.html'},
+                {'Name':'安全研发技能表 - 知道创宇','Title':'知行合一 守正出奇','Href':'http://blog.knownsec.com/Knownsec_RD_Checklist/index.html'},
                 {'Name':'安全技能树简版 - evilcos','Title':'安全技能树','Href':'http://evilcos.me/security_skill_tree_basic/index.html'},
                 {'Name':'Dotaer&Hacker - lxghost','Title':'白天乌云上分 晚上天梯上分','Href':'http://www.xiaoshuwu.net/skill/#__6_ID'},
                 {'Name':'StuQ技能图谱','Title':'StuQ实践驱动的IT职业学习和服务平台','Href':'http://skill-map.stuq.org/'},
-                {'Name':'思维导图集合','Title':'收集整理的思维导图','Href':'https://github.com/coco413/Mind_Mapping-Sec'}                
+                {'Name':'思维导图集合','Title':'收集整理的安全类思维导图','Href':'https://github.com/coco413/Mind_Mapping-Sec'}                
             ]
         }]},{
         "pageT1":"态势感知",
         "pageC1":[{
             "pageT2":"威胁情报",
             "pageC2":[
-                {'Name':'Alice威胁情报溯源平台','Title':'Alice威胁情报溯源平台','Href':'http://map.norsecorp.com/'},
-                {'Name':'微步在线威胁情报分析平台','Title':'威胁情报分析平台-ThreatBook-多引擎在线扫描、恶意软件在线检测','Href':'https://x.threatbook.cn/'},
                 {'Name':'360威胁情报中心','Title':'威胁情报中心','Href':'https://ti.360.com/'},
-                {'Name':'cymon威胁情报中心','Title':'Cymon is the largest tracker of open-source security reports','Href':'https://cymon.io/'},
+                {'Name':'Cymon威胁情报中心','Title':'Cymon is the largest tracker of open-source security reports','Href':'https://cymon.io/'},
                 {'Name':'NOSEC大数据安全协作平台','Title':'信息安全从业者的专属"瑞士军刀"','Href':'https://nosec.org/'},
-                {'Name':'安全行业全景图','Title':'安全行业全景图','Href':'http://all.aqniu.com/'},
+                {'Name':'Norse在线攻击中心','Title':'Norse Attack Map','Href':'http://map.norsecorp.com/'},
+                {'Name':'Alice威胁情报溯源平台','Title':'威胁情报溯源平台','Href':'http://map.norsecorp.com/'},
+                {'Name':'微步在线威胁情报分析平台','Title':'多引擎在线扫描、恶意软件在线检测','Href':'https://x.threatbook.cn/'},
                 {'Name':'网络安全防御系统','Title':'全景网络安全防御系统','Href':'http://guanjia.qq.com/system/preloader.html'},
-                {'Name':'Norse','Title':'Norse Attack Map','Href':'http://map.norsecorp.com/'},
+                {'Name':'安全行业全景图','Title':'安全行业全景图','Href':'http://all.aqniu.com/'}
             ]
             },{
             "pageT2":"情报收集",
             "pageC2":[
-                {'Name':'Twitter','Title':'推特情报','Href':'https://twitter.com/'}
+                {'Name':'Twitter','Title':'推特情报','Href':'https://twitter.com/'},
+                {'Name':'暗网搜索','Title':'暗网搜素引擎','Href':'https://onion.link/'}
             ]
-
         }]},{
         "pageT1":"代码编程",
         "pageC1":[{
             "pageT2":"Python",
             "pageC2":[
                 {'Name':'V2EX','Title':'V2EX 是一个关于分享和探索的地方','Href':'https://www.v2ex.com/go/python'},
-                {'Name':'ionic','Title':'','Href':'http://xssnow.com/invit.php'},
-                {'Name':'Stackoverflow','Title':'','Href':'https://stackoverflow.com/'},
+                {'Name':'Stackoverflow','Title':'The largest online community for programmers to learn','Href':'https://stackoverflow.com/'},
                 {'Name':'Python知识库','Title':'Python知识库 -  知识库 - 你身边的技术百科全书 - CSDN','Href':'https://www.zhihu.com/topic/19552832/top-answers'},
                 {'Name':'Scrapy中文文档','Title':'Scrapy 0.25 文档','Href':'http://scrapy-chs.readthedocs.io/zh_CN/latest/index.html'},
                 {'Name':'Pycharm激活','Title':'Pycharm激活','Href':'http://idea.liyang.io/'}
@@ -228,16 +226,13 @@ var FrontGuide = {
             },{
             "pageT2":"Php",
             "pageC2":[
-                {'Name':'PHP 手册','Title':'世界上第二好的语言','Href':'http://www.php.net/manual/zh/'},
-
+                {'Name':'PHP手册','Title':'Php官方手册','Href':'http://www.php.net/manual/zh/'}
             ]
             },{
             "pageT2":"Javascript",
             "pageC2":[
                 {'Name':'JavaScript中文网','Title':'Javascript教程资源分享门户','Href':'http://www.javascriptcn.com/'}
-
             ]
-            
         }]},{
         "pageT1":"文档/资源库",
         "pageC1":[{
@@ -246,14 +241,30 @@ var FrontGuide = {
                 {'Name':'POC编写指南','Title':'POC编写指南','Href':'https://poc.evalbug.com/chapter1/1.html'},
                 {'Name':'Kali中文说明','Title':'Kali Linux Tools 中文說明書','Href':'http://www.mayter.cn/kali-tools/tools_zh.html'},
                 {'Name':'在线Api文档','Title':'在线Api文档','Href':'http://tool.oschina.net/apidocs'},
-                {'Name':'HTML5','Title':'','Href':'http://www.w3.org/html/ig/zh/wiki/HTML5'},
-                {'Name':'JavaScript','Title':'','Href':'http://www.php100.com/manual/javascript.html'},
+                {'Name':'Burp Suite 官方文档中文版','Title':'官方在 Burp Suite 所放出的Support Center中的帮助文档翻译而来的中文版','Href':'https://www.gitbook.com/book/yw9381/burp_suite_doc_zh_cn/details'},
+                {'Name':'Vulnerability box ','Title':'','Href':'https://book.thief.one/'},
                 {'Name':'jQuery','Title':'','Href':'http://jquery.cuishifeng.cn/'},
                 {'Name':'NodeJs','Title':'','Href':'http://nodeapi.ucdok.com/'},
                 {'Name':'AngularJS','Title':'','Href':'http://www.apjs.net/'},
                 {'Name':'5+ App','Title':'','Href':'http://www.html5plus.org/doc/h5p.html'},
                 {'Name':'MSDN 我告诉你','Title':'','Href':'http://itellyou.cn/'},
-
+            ]
+            "pageT2":"资源下载",
+            "pageC2":[
+                {'Name':'POC编写指南','Title':'POC编写指南','Href':'https://poc.evalbug.com/chapter1/1.html'},
+                {'Name':'Kali中文说明','Title':'Kali Linux Tools 中文說明書','Href':'http://www.mayter.cn/kali-tools/tools_zh.html'},
+                {'Name':'在线Api文档','Title':'在线Api文档','Href':'http://tool.oschina.net/apidocs'},
+                {'Name':'Burp Suite 官方文档中文版','Title':'官方在 Burp Suite 所放出的Support Center中的帮助文档翻译而来的中文版','Href':'https://www.gitbook.com/book/yw9381/burp_suite_doc_zh_cn/details'},
+                {'Name':'Vulnerability box ','Title':'','Href':'https://book.thief.one/'},
+                {'Name':'jQuery','Title':'','Href':'http://jquery.cuishifeng.cn/'},
+                {'Name':'NodeJs','Title':'','Href':'http://nodeapi.ucdok.com/'},
+                {'Name':'AngularJS','Title':'','Href':'http://www.apjs.net/'},
+                {'Name':'5+ App','Title':'','Href':'http://www.html5plus.org/doc/h5p.html'},
+                {'Name':'MSDN 我告诉你','Title':'','Href':'http://itellyou.cn/'},
+            ]
+            "pageT2":"API接口",
+            "pageC2":[
+                {'Name':'JSON API免费接口','Title':'JSON API免费接口-BeJSON.com','Href':'http://www.bejson.com/'},
 
             ]
         }]},{
@@ -266,6 +277,16 @@ var FrontGuide = {
                 {'Name':'MAC渗透工具','Title':'Mac平台渗透测试工具集','Href':'http://www.asuri.co/class/archives/936'},
                 {'Name':'觉唯网站地图','Title':'','Href':'http://www.jiawin.com/sitemap'},
                 {'Name':'WEB前端资源网','Title':'','Href':'http://www.58img.com/hao'}
+            ]
+            },{
+            "pageT2":"其他工具",
+            "pageC2":[
+                {'Name':'深蓝阅读','Title':'可订阅RSS或任意网站链接等，一切你关心的皆可订阅','Href':'http://bluereader.org/'},
+                {'Name':'MSDN','Title':'MSDN 我告诉你','Href':'http://msdn.itellyou.cn/?qejyvg=mr1l8'},
+                {'Name':'apicloud','Title':'','Href':'http://apicloud.com/'},
+                {'Name':'DevDocs API','Title':'接口文档','Href':'https://devdocs.io/'},
+                {'Name':'Mysql开发文档','Title':'dev for mysql','Href':'https://dev.mysql.com/'},
+                {'Name':'利器','Title':'Documentation made easy','Href':'http://liqi.io/'}
             ]
             },{
             "pageT2":"Python",
@@ -291,21 +312,89 @@ var FrontGuide = {
                 {'Name':'懒人之家','Title':'','Href':'http://www.lanrenzhijia.com/'},
                 {'Name':'科e互联','Title':'','Href':'http://www.internetke.com/'},
                 {'Name':'非凡图库','Title':'','Href':'http://www.ffpic.com/'}
+                {'Name':'PyPI ','Title':'the Python Package Index','Href':'https://pypi.python.org/pypi'},
+
             ]
         }]},{
-        "pageT1":"数据接口/平台",
+        "pageT1":"渗透辅助/平台",
         "pageC1":[{
-            "pageT2":"开放平台",
+            "pageT2":"社工库",
             "pageC2":[
-                {'Name':'百度开放云平台','Title':'','Href':'http://developer.baidu.com/'},
-                {'Name':'腾讯开放平台','Title':'','Href':'http://open.qq.com/'}
+                {'Name':'70Sec','Title':'70sec社工库查询系统内部版','Href':'http://s.70sec.com/'},
+                {'Name':'社工库源码大全','Title':'互联网安全、网络安全知识、网络安全技术分享！','Href':'http://www.uedbox.com/social-query-source-list/'},
+                {'Name':'伪造微信','Title':'微信对话_在线微信对话转账生成器','Href':'http://www.jietuyun.com/'},
+                {'Name':'临时邮箱一','Title':'临时邮箱、临时邮、临时电子邮箱、24小时邮箱','Href':'http://24mail.chacuo.net/'},                
+                {'Name':'临时邮箱二','Title':'临时邮箱、临时邮、临时电子邮箱、24小时邮箱','Href':'https://www.guerrillamail.com/'},
+                {'Name':'伪造邮件','Title':'伪造邮件、任意发件人发送Email邮件、伪造邮件地址发送电子邮件、任意邮件地址发送电子邮件','Href':'http://tool.chacuo.net/mailanonymous'},
+                {'Name':'你注册过哪些网站？','Title':'你注册过哪些网站？','Href':'https://www.reg007.com/'},
+                {'Name':'天眼查','Title':'商用调查工具','Href':'http://www.tianyancha.com/'},
+                {'Name':'数据牛','Title':'发现数据泄露，才能更好的保护你的信息。','Href':'http://www.shuju666.com/'},
+                {'Name':'华西社工库','Title':'社工库查询 --华西安全网','Href':'http://cha.hx99.net/'},
+                {'Name':'查开房','Title':'开房记录查询','Href':'http://www.ckaifang.com/'},
+                {'Name':'查开房','Title':'开房记录查询','Href':'http://www.ckaifang.com/'},
+                {'Name':'天眼','Title':'公有云系统','Href':'https://cloud.skyeye.360safe.com/home/login'},
+                {'Name':'查密码','Title':'利用人性的弱点 精准的分析个人密码','Href':'http://pass.cnseay.com/'},
+                {'Name':'安全数据平台','Title':'安全数据平台','Href':'https://www.secsilo.com/'},
+                {'Name':'GoPng','Title':'HTML5在线雪碧图片合成工具','Href':'http://alloyteam.github.io/gopng/'},
+
+
             ]
             },{
-            "pageT2":"WebApi",
+            "pageT2":"指纹收集",
             "pageC2":[
-                {'Name':'云聚数据','Title':'','Href':'http://www.36wu.com/Service'},
-                {'Name':'常用接口大全','Title':'','Href':'http://www.bejson.com/go.html?u=http://www.bejson.com/webInterface.html'},
-                {'Name':'apicloud','Title':'','Href':'http://apicloud.com/'},
+                {'Name':'Ipleak','Title':'This is the kind of information that all the sites you visit, as well as their advertisers and any embedded widget, can see and collect about you.','Href':'https://ipleak.net/'},
+                {'Name':'Nmap在线扫描','Title':'Nmap Online Scanner','Href':'http://nmap.online-domain-tools.com/'},
+                {'Name':'Cms识别一','Title':'WhatCms','Href':'http://whatweb.bugscaner.com/look/'},
+                {'Name':'邮件检测','Title':'邮箱地址真实性检测','Href':'http://tool.chacuo.net/mailverify'},
+                {'Name':'邮箱头解析','Title':'Email Header Analyzer','Href':'http://mxtoolbox.com/EmailHeaders.aspx'},
+                {'Name':'在线子域名','Title':'在线子域名爆破|Domain fuzz','Href':'https://phpinfo.me/domain/'},
+                {'Name':'The Web of WebScan','Title':'The Web of WebScan','Href':'http://www.webscan.cc/'},
+                {'Name':'ICP备案查询','Title':'备案查询','Href':'http://www.beianbeian.com/'},
+                {'Name':'Netcraft','Title':'Netcraft Extension','Href':'http://www.beianbeian.com/'},
+                {'Name':'WhatWeb','Title':'WhatWeb is a next generation web scanner.','Href':'https://whatweb.net/'},
+                {'Name':'OSINT Framework ','Title':'The Web of WebScan','Href':'http://osintframework.com/'},
+                {'Name':'常见漏洞扫描器测试平台','Title':'The Web of WebScan','Href':'http://demo.aisec.cn/demo/'},
+                {'Name':' Nir Sofer','Title':'The Web of WebScan','Href':'http://www.nirsoft.net/'},
+                {'Name':'C段查询','Title':'The Web of WebScan','Href':'http://www.webscan.cc/'},
+                {'Name':'在线旁站查询','Title':'在线C段查询','Href':'https://phpinfo.me/bing.php'},
+                {'Name':'网站历史记录查询','Title':'Wayback Machine','Href':'http://archive.org/web/'},
+
+
+
+
+            ]
+            },{
+            "pageT2":"渗透工具",
+            "pageC2":[
+                {'Name':'任意命令执行','Title':'在线命令执行','Href':'http://www.aisec.cn/lab/bash.php'},
+                {'Name':'ExploitsSearch','Title':'Local root exploits','Href':'https://www.kernel-exploits.com/'},
+                {'Name':'Cms识别一','Title':'WhatCms','Href':'http://scanner.baidu.com/#/pages/intro'},
+                {'Name':'在线查杀木马','Title':'在线查杀木马','Href':'http://scanner.baidu.com/#/pages/intro'},
+                {'Name':'Internet Archive: Wayback Machine','Title':'网站历史快照','Href':'https://archive.org/web/'},
+                {'Name':'xss-scan','Title':'在线xss扫描','Href':'http://xss-scanner.com/'},
+                {'Name':'XSS\'OR','Title':'Hack with JavaScript','Href':'http://xssor.io/'},
+            ]
+        }]},{
+        "pageT1":"在线监测",
+        "pageC1":[{
+            "pageT2":"安全监测",
+            "pageC2":[
+                {'Name':'360显危镜','Title':'360显危镜是一个基于云的移动应用安全扫描器','Href':'http://appscan.360.cn/'},
+                {'Name':'金刚','Title':'保护您的App和用户免受攻击','Href':'http://service.security.tencent.com/kingkong'},                
+                {'Name':'哈勃','Title':'腾讯哈勃分析系统','Href':'https://habo.qq.com/'},
+                {'Name':'APK逆向','Title':'Secrets leak in Android apps','Href':'https://android.fallible.co/'},
+                {'Name':'','Title':'互联网招聘内部推荐直招平台','Href':'http://www.virscan.org/'},
+                {'Name':'牛客网','Title':'在线检测病毒','Href':'http://m.qq.com/security_lab/scans_online.jsp'},
+                {'Name':'免费代理','Title':'','Href':'http://www.xdaili.cn/'},
+                {'Name':'极速代理','Title':'','Href':'http://superfastip.com/welcome/getips'},
+                {'Name':'protonvpn','Title':'','Href':'https://protonvpn.com/blog/free-vpn-service-launch/'},
+
+            ]
+            "pageT2":"文件安全",
+            "pageC2":[
+                {'Name':'火眼','Title':'火眼-您的文件行为分析专家！','Href':'https://fireeye.ijinshan.com/'},
+                {'Name':'PDF解密','Title':'易于使用的PDF密码移除工具 ','Href':'https://smallpdf.com/cn/unlock-pdf'},
+                {'Name':'重大漏洞在线检测系统','Title':'重大漏洞在线检测系统','Href':'http://0day.websaas.com.cn/'},
                 {'Name':'DevDocs API','Title':'接口文档','Href':'https://devdocs.io/'},
                 {'Name':'Mysql开发文档','Title':'dev for mysql','Href':'https://dev.mysql.com/'},
                 {'Name':'Gitbook','Title':'Documentation made easy','Href':'https://www.gitbook.com/'}
@@ -316,183 +405,75 @@ var FrontGuide = {
             "pageT2":"空间搜索",
             "pageC2":[
                 {'Name':'Zoomeye','Title':'钟馗之眼 - 网络空间搜索引擎','Href':'https://www.zoomeye.org/'},
-                {'Name':'谛听','Title':'谛听ditecting-专注工控安全搜索','Href':'http://www.ditecting.com/index.php/Home/Index/index'},
-                {'Name':'傻蛋','Title':'傻蛋联网设备搜索系统','Href':'https://www.oshadan.com/#search'},
-                {'Name':'Shodan','Title':'','Href':'https://www.shodan.io/'},
+                {'Name':'Shodan','Title':'Shodan is the world\'s first search engine for Internet-connected devices.','Href':'https://www.shodan.io/'},
                 {'Name':'Fofa','Title':'FOFA Pro - 网络空间安全搜索引擎，网络空间搜索引擎，网络空间测绘，安全态势感知','Href':'https://fofa.so/'},
                 {'Name':'Censys','Title':'Censys','Href':'https://www.censys.io/'},
                 {'Name':'DnsDB','Title':'DnsDB－全球最大的DNS查询数据库','Href':'https://dnsdb.io/zh-cn/'},
-                {'Name':'恶意程序搜索','Title':'VirusView','Href':'http://virusview.net/search/index'},
-                {'Name':'百度云盘搜索','Title':'百度云搜索 - 百度云盘资源搜索下载','Href':'http://wowenda.com/'},
+                {'Name':'Searchcode','Title':'Searchcode搜索','Href':'https://searchcode.com/'}, 
+                {'Name':'Github','Title':'Github搜索','Href':'https://github.com/search?utf8=✓&q=&type='}, 
+                {'Name':'谛听','Title':'谛听ditecting-专注工控安全搜索','Href':'http://www.ditecting.com/index.php/Home/Index/index'},
+                {'Name':'傻蛋','Title':'傻蛋联网设备搜索系统','Href':'https://www.oshadan.com/#search'}, 
                 {'Name':'微信搜索','Title':'搜狗微信搜索','Href':'http://weixin.sogou.com/'},
                 {'Name':'微博搜索','Title':'微博搜索','Href':'http://s.weibo.com/'},
                 {'Name':'知乎搜索','Title':'知乎搜索','Href':'https://www.zhihu.com/'},
                 {'Name':'天眼搜索','Title':'企业注册信息查询','Href':'http://www.tianyancha.com/'},
                 {'Name':'谷歌图片搜索','Title':'谷歌图片搜索','Href':'https://images.google.com/?gws_rd=ssl'},
                 {'Name':'百度图片搜索','Title':'百度图片搜索','Href':'http://image.baidu.com/?fr=shitu'},
-                {'Name':'注册过网站','Title':'找回你，注册过哪些网站','Href':'http://www.zhaohuini.com/'},
-                {'Name':'谷歌图片搜索','Title':'谷歌图片搜索','Href':'https://images.google.com/?gws_rd=ssl'},
-                {'Name':'谷歌图片搜索','Title':'谷歌图片搜索','Href':'https://images.google.com/?gws_rd=ssl'},
-                {'Name':'谷歌图片搜索','Title':'谷歌图片搜索','Href':'https://images.google.com/?gws_rd=ssl'},
-                {'Name':'谷歌图片搜索','Title':'谷歌图片搜索','Href':'https://images.google.com/?gws_rd=ssl'},
+                {'Name':'恶意程序搜索','Title':'VirusView','Href':'http://virusview.net/search/index'},
+                {'Name':'百度云盘搜索','Title':'百度云搜索 - 百度云盘资源搜索下载','Href':'http://wowenda.com/'}
+            ]
+            },{
+            "pageT2":"IP域名",
+            "pageC2":[
+                {'Name':'IP高精定位一','Title':'IP高精度定位','Href':'https://www.opengps.cn/Data/IP/LocHighAcc.aspx'},
+                {'Name':'IP高精定位二','Title':'IP高精度定位2','Href':'http://www.hao7188.com/'},
+                {'Name':'多Ping工具一','Title':'CA App Synthetic Monitor monitors your web sites and servers','Href':'https://asm.ca.com/en/ping.php'},
+                {'Name':'多Ping工具二','Title':'多个地点Ping服务器以检测服务器响应速度','Href':'http://ping.chinaz.com/'},
+                {'Name':'多Ping工具三','Title':'多个地点Ping服务器以检测服务器响应速度','Href':'http://ping.pe/'},                
+                {'Name':'17CE','Title':'国内最专业最权威的实时网站测速','Href':'https://www.17ce.com/'},
 
             ]
             },{
-            "pageT2":"在线检测",
+            "pageT2":"编码加密",
             "pageC2":[
-                {'Name':'移动安全扫描器','Title':'360显危镜是一个基于云的移动应用安全扫描器','Href':'http://appscan.360.cn/'},
-                {'Name':'火眼','Title':'火眼-您的文件行为分析专家！','Href':'https://fireeye.ijinshan.com/'},
-                {'Name':'RunJS','Title':'','Href':'http://runjs.cn/code'},
-                {'Name':'JSFIDDLE','Title':'','Href':'http://jsfiddle.net/'},
-                {'Name':'JS Bin','Title':'','Href':'http://jsbin.com/?html,output'},
-                {'Name':'cssdeck','Title':'','Href':'http://cssdeck.com/'},
-                {'Name':'jsdo.it','Title':'','Href':'http://jsdo.it/'},
-                {'Name':'重大漏洞在线检测系统','Title':'重大漏洞在线检测','Href':'http://0day.websaas.com.cn/'},
-                {'Name':'在线pdf监测','Title':'重大漏洞在线检测','Href':'https://smallpdf.com/cn/unlock-pdf'},
-
+                {'Name':'MD5解密','Title':'本站对于md5、sha1、mysql、ntlm等的实时解密成功率在全球遥遥领先。成立10年，从未被超越','Href':'http://www.cmd5.com/'},
+                {'Name':'BASE64解密','Title':'BASE64加密解密','Href':'http://base64.xpcha.com/'},
+                {'Name':'哈希解密','Title':'散列 哈希','Href':'http://tool.oschina.net/encrypt?type=2'},
+                {'Name':'草料二维码','Title':'在线二维码加密解密','Href':'http://cli.im/'},
+                {'Name':'摩斯密码','Title':'morse电码','Href':'http://tool.lu/morse/'},
+                {'Name':'PHP解密','Title':'PHP webshell decoder','Href':'http://decode.laosiji.work/'},
+                {'Name':'LEAVESONG工具架','Title':'phithon工具','Href':'http://tool.leavesongs.com/'},
+                {'Name':'在线解密大全','Title':'在线解密大全','Href':'https://navisec.it/%e5%af%86%e7%a0%81%e5%9c%a8%e7%ba%bf%e8%a7%a3%e5%af%86%e5%a4%a7%e5%85%a8/'}
             ]
             },{
             "pageT2":"其他工具",
             "pageC2":[
-                {'Name':'极验','Title':'极验验证码','Href':'http://www.geetest.com/'},
-                {'Name':'邮箱头解析','Title':'Email Header Analyzer','Href':'http://mxtoolbox.com/EmailHeaders.aspx'},
-                {'Name':'临时邮箱1','Title':'Guerrilla Mail - Disposable Temporary E-Mail Address','Href':'https://www.guerrillamail.com/'},
-                {'Name':'临时邮箱2','Title':'临时邮箱、临时邮、临时电子邮箱、24小时邮箱','Href':'http://24mail.chacuo.net/'},
-                {'Name':'Linux Man','Title':'Linux命令查询','Href':'http://man.linuxde.net/'},
-                {'Name':'在线UA查看','Title':'What is My User Agent?','Href':'http://www.whoishostingthis.com/tools/user-agent/'},
-                {'Name':'在线EXIF查看','Title':'图虫EXIF查看器','Href':'https://exif.cn/'},
-                {'Name':'网址缩短','Title':'网址缩短','Href':'http://suo.im/'},
-                {'Name':'猜密码','Title':'猜密码"','Href':'http://www.caimima.net/'},
-                {'Name':'在线OCR识别','Title':'在线中文识别','Href':'http://chongdata.com/ocr/'},
-                {'Name':'IEToolbar','Title':'"','Href':'http://www.microsoft.com/en-us/download/details.aspx?id=18359'},
-                {'Name':'PyPI ','Title':'the Python Package Index','Href':'https://pypi.python.org/pypi'},
-                {'Name':'文图 ','Title':'the Python Package Index','Href':'https://wentu.io/'},
-
-
-            ]
-            },{
-            "pageT2":"性能测试",
-            "pageC2":[
-                {'Name':'WebPageTest','Title':'网站性能和优化测试','Href':'http://www.webpagetest.org/'},
-                {'Name':'阿里测','Title':'','Href':'http://www.alibench.com/'},
-                {'Name':'SiteSpeed','Title':'检查站点速度','Href':'http://sitespeed.me/'},
-                {'Name':'Pingdom','Title':'网站速度测试','Href':'http://tools.pingdom.com/'},
-                {'Name':'GTmetrix','Title':'','Href':'http://gtmetrix.com/'},
-                {'Name':'HttpWatch','Title':'','Href':'http://www.httpwatch.com/'},
-                {'Name':'BROWSERSHOTS','Title':'','Href':'http://browsershots.org/'},
-                {'Name':'Mobile testing','Title':'','Href':'http://www.webpagetest.org/mobile'},
-                {'Name':'Feed validator','Title':'','Href':'http://jigsaw.w3.org/css-validator/'},
-                {'Name':'性能工具','Title':'','Href':'http://www.w3cplus.com/performance/performance-tools.html'}            
-                ]
-            },{
-            "pageT2":"格式化",
-            "pageC2":[
-                {'Name':'HTML格式化','Title':'','Href':'http://tool.lu/html/'},
-                {'Name':'CSS格式化','Title':'','Href':'http://tool.lu/css/'},
-                {'Name':'JS格式化','Title':'','Href':'http://tool.lu/js/'},
-                {'Name':'JSON格式化','Title':'','Href':'http://tool.lu/json/'},
-                {'Name':'在线工具','Title':'','Href':'http://tool.lu/c/developer'},
-                {'Name':'XML格式化','Title':'','Href':'http://tool.oschina.net/codeformat/xml'},
-                {'Name':'SQL格式化','Title':'','Href':'http://tool.oschina.net/codeformat/sql'},
-                {'Name':'Less编译','Title':'','Href':'http://tool.oschina.net/less'},
-                {'Name':'HTML/CSS/JavaScript压缩','Title':'','Href':'http://tool.oschina.net/jscompress'}
-            ]
-            },{
-            "pageT2":"渗透辅助",
-            "pageC2":[
-                {'Name':'Linux内核提权','Title':'kernel exploit','Href':'https://www.kernel-exploits.com/'},
-                {'Name':'Cmd5','Title':'md5在线解密破解,md5解密加密','Href':'http://www.cmd5.com/'},
-                {'Name':'Xmd5','Title':'免费md5解密,md5在线查询破解','Href':'http://www.xmd5.com/'},
-                {'Name':'CSS3 Maker','Title':'','Href':'http://www.css3maker.com/'}                
-            ]
-            },{
-            "pageT2":"加密/转码",
-            "pageC2":[
-                {'Name':'编码BASE64','Title':'Base64目前主要用于HTML5、移动开发等不考虑IE6的场景中。','Href':'http://tool.css-js.com/base64.html'},
-                {'Name':'加密/解密','Title':'','Href':'http://tool.oschina.net/encrypt'},
-                {'Name':'散列/哈希','Title':'','Href':'http://tool.oschina.net/encrypt?type=2'},
-                {'Name':'图片/BASE64转换','Title':'','Href':'http://tool.oschina.net/encrypt?type=4'},
-                {'Name':'进制转换','Title':'','Href':'http://tool.oschina.net/hexconvert'},
-                {'Name':'二维码生成/解码','Title':'','Href':'http://tool.oschina.net/qr'},
-                {'Name':'URL转码','Title':'','Href':'http://tool.oschina.net/encode?type=4'},
-                {'Name':'在线解密大全','Title':'在线解密大全','Href':'http://navisec.it/%E5%AF%86%E7%A0%81%E5%9C%A8%E7%BA%BF%E8%A7%A3%E5%AF%86%E5%A4%A7%E5%85%A8/'},
-                {'Name':'进制转换','Title':'','Href':'http://tool.oschina.net/hexconvert'},
-                {'Name':'二维码生成/解码','Title':'','Href':'http://tool.oschina.net/qr'},
-                {'Name':'URL转码','Title':'','Href':'http://tool.oschina.net/encode?type=4'},
-
-                
-
-            ]
-            },{
-            "pageT2":"在线工具集合",
-            "pageC2":[
-                {'Name':'JSON API免费接口','Title':'JSON API免费接口-BeJSON.com','Href':'http://www.bejson.com/'},
+                {'Name':'代码格式化','Title':'HTML、XML、CSS、 JSON、Js、Java、SQL代码格式化','Href':'http://tool.oschina.net/codeformat/java'},
+                {'Name':'代码压缩','Title':'在线代码压缩','Href':'http://tool.oschina.net/jscompress/'},
+                {'Name':'虫数据','Title':'一个免费的机器视觉，机器学习，人工智能代码分享的网站','Href':'http://chongdata.com/'},
+                {'Name':'快速掌握一门技术','Title':'鸡汤','Href':'https://zhuanlan.zhihu.com/p/19854703'},
+                {'Name':'fakeupdate','Title':'假装 Windows 升级界面','Href':'http://fakeupdate.net/'},
                 {'Name':'aTool','Title':'在线工具 - aTool - 最全面的工具集合','Href':'http://www.atool.org/'},
-                {'Name':'百度分享','Title':'','Href':'http://tool.oschina.net/'},
                 {'Name':'在线工具','Title':'在线工具 —— 开源中国社区','Href':'http://www.bshare.cn/'},
-                {'Name':'伪造邮件','Title':'伪造邮件、任意发件人发送Email','Href':'http://tool.chacuo.net/mailanonymous'},
-                {'Name':'Browsersync','Title':'省时的浏览器同步测试工具','Href':'http://www.browsersync.cn/'},
                 {'Name':'站长之家','Title':'站长之家工具','Href':'http://tool.chinaz.com/'},
                 {'Name':'黑客工具','Title':'黑客工具','Href':'www.hac-ker.com/tools/'},
-                {'Name':'ico制作','Title':'','Href':'http://www.bitbug.net/'},
-                {'Name':'吐司在线工具','Title':'T00ls在线工具','Href':'https://www.t00ls.net/domain.html'},
-                {'Name':'正则表达式测试','Title':'','Href':'http://tool.oschina.net/regex'},
-                {'Name':'AlloyPhoto图片处理','Title':'','Href':'http://tool.oschina.net/alloyphoto'},
-                {'Name':'代码着色','Title':'','Href':'http://tool.oschina.net/highlight'},
-                {'Name':'URL2PNG','Title':'','Href':'https://www.url2png.com/'},
-                {'Name':'网站历史记录查询','Title':'Wayback Machine','Href':'http://archive.org/web/'},
-                {'Name':'GoPng','Title':'HTML5在线雪碧图片合成工具','Href':'http://alloyteam.github.io/gopng/'},
                 {'Name':'工具猫','Title':'学无止境','Href':'https://www.toolmao.com/'},
-                {'Name':'在线旁站查询','Title':'在线C段查询','Href':'https://phpinfo.me/bing.php'},
-                {'Name':'fakeupdate','Title':'假装 Windows 升级界面','Href':'http://fakeupdate.net/'},
-                {'Name':'快速掌握一门技术','Title':'鸡汤','Href':'https://zhuanlan.zhihu.com/p/19854703'},
-                {'Name':'虫数据','Title':'一个免费的机器视觉，机器学习，人工智能代码分享的网站','Href':'http://chongdata.com/'},
-                {'Name':'C段查询','Title':'The Web of WebScan','Href':'http://www.webscan.cc/'},
                 {'Name':'在线工具','Title':'The Web of WebScan','Href':'http://tool.lu/'},
-                {'Name':'常见漏洞扫描器测试平台','Title':'The Web of WebScan','Href':'http://demo.aisec.cn/demo/'},
-                {'Name':' Nir Sofer','Title':'The Web of WebScan','Href':'http://www.nirsoft.net/'},
-                {'Name':'OSINT Framework ','Title':'The Web of WebScan','Href':'http://osintframework.com/'},
-                {'Name':'百度脑图','Title':'控制创意，如此简单','Href':'http://naotu.baidu.com/'},
                 {'Name':'Internet Archive Wayback Machine','Title':'Internet Archive Wayback Machine','Href':'https://web.archive.org/web/20081201000000*/http://www.coco413.com'},
 
 
-            ]    
-            },{
-            "pageT2":"IP&域名",
-            "pageC2":[
-                {'Name':'IP定位','Title':'IP高精度定位','Href':'https://www.opengps.cn/Data/IP/LocHighAcc.aspx'},
-                {'Name':'IP定位2','Title':'IP高精度定位2','Href':'http://www.hao7188.com/'},
-                {'Name':'IP定位3','Title':'IP高精度定位2','Href':'https://ipleak.net/'},
-                {'Name':'GitHub 开发指南','Title':'','Href':'http://wiki.jikexueyuan.com/project/github-developer-guides/'},
-                {'Name':'GitHub 秘籍','Title':'','Href':'http://wiki.jikexueyuan.com/project/github-secret/'},
-                {'Name':'Hexo 中文版','Title':'','Href':'http://wiki.jikexueyuan.com/project/hexo-document/'},
-                {'Name':'Git 教程','Title':'','Href':'http://wiki.jikexueyuan.com/project/git-tutorial/'},
-                {'Name':'Git 参考手册','Title':'本站为 Git 参考手册。目的是为学习与记忆 Git 使用中最重要、最普遍的命令提供快速翻阅。','Href':'http://gitref.justjavac.com/'},
-                {'Name':'Git 工作流指南','Title':'','Href':'http://wiki.jikexueyuan.com/project/git-workflow-tutorial/'},
-                {'Name':'Git Community Book 中文版','Title':'','Href':'http://wiki.jikexueyuan.com/project/git-community-book/'},
-                {'Name':'Pro Git','Title':'','Href':'http://wiki.jikexueyuan.com/project/pro-git/'},
-                {'Name':'Git 魔法','Title':'','Href':'http://wiki.jikexueyuan.com/project/git-magic/'},
-                {'Name':'Pro Git v2 中文版','Title':'','Href':'http://wiki.jikexueyuan.com/project/pro-git-two/'},
-                {'Name':'oschina免费私有库','Title':'本屌是看上了该站的私有库免费、免费、免费啊，重要的事情说三遍。','Href':'http://git.oschina.net/'},
-                {'Name':'像 geek 一样写博客','Title':'','Href':'http://wiki.jikexueyuan.com/project/github-page/'}
             ]
-            
-        // }]},{
-        // "pageT1":"VPN&&SS",
-        // "pageC1":[{
-        //     "pageT2":"求职网站",
-        //     "pageC2":[
-        //         {'Name':'谷歌镜像站大全','Title':'谷歌镜像站','Href':'http://coderschool.cn/1853.html',"New":"1"},
-        //         {'Name':'国外优质VPS推荐','Title':'国外优质VPS推荐 适合科学上网','Href':'https://www.hx99.net/News/In/201604/37167.html'},
-        //         {'Name':'IShadow','Title':'free ss','Href':'http://xyz.ishadow.online/'},
-        //         {'Name':'内推网','Title':'互联网招聘内部推荐直招平台','Href':'http://www.neitui.me/'},
-        //         {'Name':'牛客网','Title':'专业IT笔试面试备考平台','Href':'http://www.nowcoder.com/'},
-        //         {'Name':'免费代理','Title':'','Href':'http://www.xdaili.cn/'},
-        //         {'Name':'极速代理','Title':'','Href':'http://superfastip.com/welcome/getips'},
-        //         {'Name':'protonvpn','Title':'','Href':'https://protonvpn.com/blog/free-vpn-service-launch/'},
+            },{
+            "pageT2":"办公工具",
+            "pageC2":[
+                {'Name':'文图','Title':'文图旨在为用户打造一个可在线编辑、即时生成数据报告的工具','Href':'https://wentu.io/'},
+                {'Name':'Ocr识别','Title':'虫数据在线ocr识别','Href':'http://chongdata.com/ocr/'},
+                {'Name':'网址缩短','Title':'网址缩短','Href':'http://suo.im/'},
+                {'Name':'在线EXIF查看','Title':'图虫EXIF查看器','Href':'https://exif.cn/'},
+                {'Name':'Linux Man','Title':'Linux命令查询','Href':'http://man.linuxde.net/'},
+                {'Name':'百度脑图','Title':'控制创意，如此简单','Href':'http://naotu.baidu.com/'},
 
-        //     ]
-            
+                ]
         }]},{
         "pageT1":"技术博客",
         "pageC1":[{
