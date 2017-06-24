@@ -220,8 +220,7 @@ var FrontGuide = {
                 {'Name':'V2EX','Title':'V2EX 是一个关于分享和探索的地方','Href':'https://www.v2ex.com/go/python'},
                 {'Name':'Stackoverflow','Title':'The largest online community for programmers to learn','Href':'https://stackoverflow.com/'},
                 {'Name':'Python知识库','Title':'Python知识库 -  知识库 - 你身边的技术百科全书 - CSDN','Href':'https://www.zhihu.com/topic/19552832/top-answers'},
-                {'Name':'Scrapy中文文档','Title':'Scrapy 0.25 文档','Href':'http://scrapy-chs.readthedocs.io/zh_CN/latest/index.html'},
-                {'Name':'Pycharm激活','Title':'Pycharm激活','Href':'http://idea.liyang.io/'}
+                {'Name':'Scrapy中文文档','Title':'Scrapy 0.25 文档','Href':'http://scrapy-chs.readthedocs.io/zh_CN/latest/index.html'}
             ]
             },{
             "pageT2":"Php",
@@ -236,36 +235,23 @@ var FrontGuide = {
         }]},{
         "pageT1":"文档/资源库",
         "pageC1":[{
-            "pageT2":"前端文档",
+            "pageT2":"资料文档",
             "pageC2":[
                 {'Name':'POC编写指南','Title':'POC编写指南','Href':'https://poc.evalbug.com/chapter1/1.html'},
-                {'Name':'Kali中文说明','Title':'Kali Linux Tools 中文說明書','Href':'http://www.mayter.cn/kali-tools/tools_zh.html'},
+                {'Name':'Kali中文说明','Title':'Kali Linux Tools中文说明书','Href':'http://www.mayter.cn/kali-tools/tools_zh.html'},
                 {'Name':'在线Api文档','Title':'在线Api文档','Href':'http://tool.oschina.net/apidocs'},
-                {'Name':'Burp Suite 官方文档中文版','Title':'官方在 Burp Suite 所放出的Support Center中的帮助文档翻译而来的中文版','Href':'https://www.gitbook.com/book/yw9381/burp_suite_doc_zh_cn/details'},
-                {'Name':'Vulnerability box ','Title':'','Href':'https://book.thief.one/'},
-                {'Name':'jQuery','Title':'','Href':'http://jquery.cuishifeng.cn/'},
-                {'Name':'NodeJs','Title':'','Href':'http://nodeapi.ucdok.com/'},
-                {'Name':'AngularJS','Title':'','Href':'http://www.apjs.net/'},
-                {'Name':'5+ App','Title':'','Href':'http://www.html5plus.org/doc/h5p.html'},
-                {'Name':'MSDN 我告诉你','Title':'','Href':'http://itellyou.cn/'},
+                {'Name':'Burp Suite官方中文版','Title':'官方在 Burp Suite 所放出的Support Center中的帮助文档翻译而来的中文版','Href':'https://www.gitbook.com/book/yw9381/burp_suite_doc_zh_cn/details'},
+                {'Name':'Vulnerability box ','Title':'常见漏洞类型','Href':'https://book.thief.one/'}
             ]
+            },{
             "pageT2":"资源下载",
             "pageC2":[
-                {'Name':'POC编写指南','Title':'POC编写指南','Href':'https://poc.evalbug.com/chapter1/1.html'},
-                {'Name':'Kali中文说明','Title':'Kali Linux Tools 中文說明書','Href':'http://www.mayter.cn/kali-tools/tools_zh.html'},
-                {'Name':'在线Api文档','Title':'在线Api文档','Href':'http://tool.oschina.net/apidocs'},
-                {'Name':'Burp Suite 官方文档中文版','Title':'官方在 Burp Suite 所放出的Support Center中的帮助文档翻译而来的中文版','Href':'https://www.gitbook.com/book/yw9381/burp_suite_doc_zh_cn/details'},
-                {'Name':'Vulnerability box ','Title':'','Href':'https://book.thief.one/'},
-                {'Name':'jQuery','Title':'','Href':'http://jquery.cuishifeng.cn/'},
-                {'Name':'NodeJs','Title':'','Href':'http://nodeapi.ucdok.com/'},
-                {'Name':'AngularJS','Title':'','Href':'http://www.apjs.net/'},
-                {'Name':'5+ App','Title':'','Href':'http://www.html5plus.org/doc/h5p.html'},
-                {'Name':'MSDN 我告诉你','Title':'','Href':'http://itellyou.cn/'},
+                {'Name':'MSDN 我告诉你','Title':'','Href':'http://itellyou.cn/'}
             ]
+            },{
             "pageT2":"API接口",
             "pageC2":[
-                {'Name':'JSON API免费接口','Title':'JSON API免费接口-BeJSON.com','Href':'http://www.bejson.com/'},
-
+                {'Name':'JSON API免费接口','Title':'JSON API免费接口-BeJSON.com','Href':'http://www.bejson.com/'}
             ]
         }]},{
         "pageT1":"设备环境",
@@ -274,18 +260,12 @@ var FrontGuide = {
             "pageC2":[
                 {'Name':'Mac必装工具','Title':'Awesome Mac','Href':'https://jaywcjlove.github.io/awesome-mac/'},
                 {'Name':'Mac下载','Title':'爱情守望者','Href':'http://www.waitsun.com/'},
-                {'Name':'MAC渗透工具','Title':'Mac平台渗透测试工具集','Href':'http://www.asuri.co/class/archives/936'},
-                {'Name':'觉唯网站地图','Title':'','Href':'http://www.jiawin.com/sitemap'},
-                {'Name':'WEB前端资源网','Title':'','Href':'http://www.58img.com/hao'}
+                {'Name':'MAC渗透工具','Title':'Mac平台渗透测试工具集','Href':'http://www.asuri.co/class/archives/936'}
             ]
             },{
             "pageT2":"其他工具",
             "pageC2":[
                 {'Name':'深蓝阅读','Title':'可订阅RSS或任意网站链接等，一切你关心的皆可订阅','Href':'http://bluereader.org/'},
-                {'Name':'MSDN','Title':'MSDN 我告诉你','Href':'http://msdn.itellyou.cn/?qejyvg=mr1l8'},
-                {'Name':'apicloud','Title':'','Href':'http://apicloud.com/'},
-                {'Name':'DevDocs API','Title':'接口文档','Href':'https://devdocs.io/'},
-                {'Name':'Mysql开发文档','Title':'dev for mysql','Href':'https://dev.mysql.com/'},
                 {'Name':'利器','Title':'Documentation made easy','Href':'http://liqi.io/'}
             ]
             },{
@@ -335,9 +315,7 @@ var FrontGuide = {
                 {'Name':'天眼','Title':'公有云系统','Href':'https://cloud.skyeye.360safe.com/home/login'},
                 {'Name':'查密码','Title':'利用人性的弱点 精准的分析个人密码','Href':'http://pass.cnseay.com/'},
                 {'Name':'安全数据平台','Title':'安全数据平台','Href':'https://www.secsilo.com/'},
-                {'Name':'GoPng','Title':'HTML5在线雪碧图片合成工具','Href':'http://alloyteam.github.io/gopng/'},
-
-
+                {'Name':'GoPng','Title':'HTML5在线雪碧图片合成工具','Href':'http://alloyteam.github.io/gopng/'}
             ]
             },{
             "pageT2":"指纹收集",
@@ -357,10 +335,7 @@ var FrontGuide = {
                 {'Name':' Nir Sofer','Title':'The Web of WebScan','Href':'http://www.nirsoft.net/'},
                 {'Name':'C段查询','Title':'The Web of WebScan','Href':'http://www.webscan.cc/'},
                 {'Name':'在线旁站查询','Title':'在线C段查询','Href':'https://phpinfo.me/bing.php'},
-                {'Name':'网站历史记录查询','Title':'Wayback Machine','Href':'http://archive.org/web/'},
-
-
-
+                {'Name':'网站历史记录查询','Title':'Wayback Machine','Href':'http://archive.org/web/'}
 
             ]
             },{
@@ -390,6 +365,7 @@ var FrontGuide = {
                 {'Name':'protonvpn','Title':'','Href':'https://protonvpn.com/blog/free-vpn-service-launch/'},
 
             ]
+            },{
             "pageT2":"文件安全",
             "pageC2":[
                 {'Name':'火眼','Title':'火眼-您的文件行为分析专家！','Href':'https://fireeye.ijinshan.com/'},
