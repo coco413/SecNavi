@@ -66,6 +66,7 @@ var FrontGuide = {
                 {'Name':'SOBUG','Title':'SOBUG-漏洞悬赏平台','Href':'https://www.sobug.com/'},
                 {'Name':'HITCON','Title':'HITCON ZeroDay','Href':'https://zeroday.hitcon.org/vulnerability'},
                 {'Name':'VulReport','Title':'台湾公益性质漏洞通报平台','Href':'https://vulreport.net/'},
+                {'Name':'Request CVE-ID','Title':'Request CVE-ID','Href':'https://cveform.mitre.org/'},
                 {'Name':'Hackone','Title':'Make the Internet Safer Together','Href':'https://www.hackerone.com/'}
             ]
             },{
@@ -147,6 +148,7 @@ var FrontGuide = {
                 {'Name':'竞技世界SRC','Title':'竞技世界安全应急响应中心','Href':'https://security.jj.cn/'},
                 {'Name':'万能钥匙SRC','Title':'万能钥匙安全应急响应中心','Href':'https://sec.wifi.com/'},
                 {'Name':'东方财富SRC','Title':'东方财富安全应急响应中心','Href':'https://security.eastmoney.com/'}
+
             ]
             },{
             "pageT2":"CTF",
@@ -213,6 +215,7 @@ var FrontGuide = {
                 {'Name':'安全行业全景图','Title':'安全行业全景图','Href':'http://all.aqniu.com/'},
                 {'Name':'号安','Title':'手机号风险识别','Href':'https://hao.secboot.com/'},
                 {'Name':'网络安全威胁信息共享平台','Title':'中国反网络病毒联盟','Href':'https://share.anva.org.cn/index'},
+                {'Name':'腾讯位置大数据平台','Title':'腾讯位置大数据平台','Href':'https://heat.qq.com/'},
 
             ]
             },{
@@ -229,13 +232,18 @@ var FrontGuide = {
                 {'Name':'V2EX','Title':'V2EX 是一个关于分享和探索的地方','Href':'https://www.v2ex.com/go/python'},
                 {'Name':'知乎Python精华','Title':'与世界分享你的知识、经验和见解','Href':'https://www.zhihu.com/topic/19552832/top-answers'},
                 {'Name':'Stackoverflow','Title':'The largest online community for programmers to learn','Href':'https://stackoverflow.com/'},
-                {'Name':'Python知识库','Title':'Python知识库 -  知识库 - 你身边的技术百科全书 - CSDN','Href':'https://www.zhihu.com/topic/19552832/top-answers'},
-                {'Name':'Scrapy中文文档','Title':'Scrapy 0.25 文档','Href':'http://scrapy-chs.readthedocs.io/zh_CN/latest/index.html'}
+                {'Name':'Python知识库','Title':'Python知识库 -  知识库 - 你身边的技术百科全书 - CSDN','Href':'http://lib.csdn.net/base/python'},
+                {'Name':'Scrapy中文文档','Title':'Scrapy 0.25 文档','Href':'http://scrapy-chs.readthedocs.io/zh_CN/latest/index.html'},
+                {'Name':'awesome-python-cn','Title':'Python 资源大全中文版','Href':'https://github.com/jobbole/awesome-python-cn'},
+                {'Name':'怎么样才算是精通Python？','Title':'怎么样才算是精通Python？','Href':'https://www.zhihu.com/question/19794855#answer-47220838'},
+                {'Name':'python在线手册','Title':'python在线手册','Href':'http://shouce.jb51.net/python/'},
+
             ]
             },{
             "pageT2":"Php",
             "pageC2":[
-                {'Name':'PHP手册','Title':'Php官方手册','Href':'http://www.php.net/manual/zh/'}
+                {'Name':'PHP手册','Title':'Php官方手册','Href':'http://www.php.net/manual/zh/'},
+                {'Name':'awesome-php-cn','Title':'PHP 资源大全中文版','Href':'https://github.com/jobbole/awesome-php-cn'},
             ]
             },{
             "pageT2":"Javascript",
@@ -253,6 +261,7 @@ var FrontGuide = {
                 {'Name':'Burp Suite官方中文版','Title':'官方在 Burp Suite 所放出的Support Center中的帮助文档翻译而来的中文版','Href':'https://www.gitbook.com/book/yw9381/burp_suite_doc_zh_cn/details'},
                 {'Name':'Vulnerability box ','Title':'常见漏洞类型','Href':'https://book.thief.one/'},
                 {'Name':'Read the Docs','Title':'创建、托管和浏览文档。','Href':'https://readthedocs.org/'},
+                {'Name':'awesome-ml-for-cybersecurity','Title':'网络安全中机器学习大合集','Href':'https://github.com/jivoi/awesome-ml-for-cybersecurity/blob/master/README_ch.md'},
 
             ]
             },{
@@ -280,7 +289,9 @@ var FrontGuide = {
             "pageC2":[
                 {'Name':'Awesome-mac','Title':'Mac必装工具','Href':'https://jaywcjlove.github.io/awesome-mac/'},
                 {'Name':'Mac爱情守望者','Title':'我们不破解软件，我们只是优秀软件的搬运工','Href':'http://www.waitsun.com/'},
-                {'Name':'Mac渗透工具','Title':'Mac平台渗透测试工具集','Href':'http://www.asuri.co/class/archives/936'}
+                {'Name':'Mac渗透工具','Title':'Mac平台渗透测试工具集','Href':'http://www.asuri.co/class/archives/936'},
+                {'Name':'Awesome Mac','Title':' Mac开发者 ','Href':'https://github.com/GcsSloop/MacDeveloper'},
+
             ]
             },{
             "pageT2":"其他环境",
@@ -310,6 +321,7 @@ var FrontGuide = {
                 {'Name':'天眼','Title':'公有云系统','Href':'https://cloud.skyeye.360safe.com/home/login'},
                 {'Name':'查密码','Title':'利用人性的弱点 精准的分析个人密码','Href':'http://pass.cnseay.com/'},
                 {'Name':'安全沙漏','Title':'安全数据平台','Href':'https://www.secsilo.com/'},
+                {'Name':'receivesmsonline','Title':'在线接受验证码','Href':'https://www.receivesmsonline.net/'},
                 {'Name':'FIND密码网','Title':'Find密码网所有数据来自互联网,旨在找回遗忘密码,或对已泄露密码进行修改防范,请勿非法使用,否则一切后果自负','Href':'https://usa.findmima.com/'},
 
             ]
@@ -371,6 +383,7 @@ var FrontGuide = {
                 {'Name':'恶意程序搜索','Title':'VirusView','Href':'http://virusview.net/search/index'},
                 {'Name':'百度云盘搜索','Title':'百度云搜索 - 百度云盘资源搜索下载','Href':'http://wowenda.com/'},
                 {'Name':'SourceForge','Title':'Develop and Publish Free Open Source Software','Href':'https://sourceforge.net/'},
+                {'Name':'Google-hacking-database','Title':'Google-hacking-database','Href':'https://www.exploit-db.com/google-hacking-database/'},
 
             ]
             },{
@@ -396,7 +409,8 @@ var FrontGuide = {
                 {'Name':'摩斯密码','Title':'morse电码','Href':'http://tool.lu/morse/'},
                 {'Name':'PHP解密','Title':'PHP webshell decoder','Href':'http://decode.laosiji.work/'},
                 {'Name':'LEAVESONG工具架','Title':'phithon工具','Href':'http://tool.leavesongs.com/'},
-                {'Name':'在线解密大全','Title':'在线解密大全','Href':'https://navisec.it/%e5%af%86%e7%a0%81%e5%9c%a8%e7%ba%bf%e8%a7%a3%e5%af%86%e5%a4%a7%e5%85%a8/'}
+                {'Name':'在线解密大全','Title':'在线解密大全','Href':'https://navisec.it/%e5%af%86%e7%a0%81%e5%9c%a8%e7%ba%bf%e8%a7%a3%e5%af%86%e5%a4%a7%e5%85%a8/'},
+                {'Name':'压缩办公文具解密','Title':'密码云','Href':'http://www.mimayun.com/'}
             ]
             },{
             "pageT2":"办公工具",
@@ -450,6 +464,9 @@ var FrontGuide = {
                 {'Name':'Linux Man','Title':'Linux命令查询','Href':'http://man.linuxde.net/'},
                 {'Name':'Protonmail','Title':'Secure Email Basedin Switzerland','Href':'https://protonmail.com/'},
                 {'Name':'拔云剑','Title':'程序员的好帮手','Href':'http://www.boyunjian.com/'},
+                {'Name':'vultr','Title':'vultr','Href':'https://my.vultr.com/'},
+                {'Name':'让我帮你百度一下','Title':'献给所有喜欢问他人问题而不是自己去搜索的人.','Href':'http://baidu.apphb.com/'},
+                {'Name':'Weakpass','Title':'For any kind of bruteforce find wordlists or unleash the power of them all at once! ','Href':'http://weakpass.com/'},
 
 
 
@@ -509,6 +526,44 @@ var FrontGuide = {
                 {'Name':'T0reAd','Title':'无论什么年代，这个世界都需要呐喊','Href':'http://www.hksafe.cn.com/'},
                 {'Name':'妄想症患者','Title':'人终究会被其年少不可得之物困扰一生','Href':'https://blog.gorgiaxx.com/'},
                 {'Name':'安全小飞侠','Title':'私人的专属技术博客','Href':'http://avfisher.win/'},
+                {'Name':'python ning\'s blog','Title':'python ning\'s blog','Href':'http://python-ning.github.io'},
+                {'Name':'小屿','Title':'你是衣冠楚楚的人 而我只是一个打满补丁的猴子','Href':'http://xia0yu.win/'},
+                {'Name':'Doragd','Title':'一只脱离高级趣味的机器猫','Href':'http://www.itemah.net/'},
+                {'Name':'Kaito','Title':'Kaito','Href':'http://kaito-kidd.com/'},
+				{'Name':'PyZh','Title':'一起写Python文章，一起看Python文章','Href':'http://pyzh.readthedocs.io/'},
+				{'Name':'淡水网志','Title':'淡水网志','Href':'http://www.restran.net/'},
+				{'Name':'小土刀','Title':'Nothing is true. Everything is possible','Href':'http://wdxtub.com/'},
+				{'Name':'RcoIl','Title':'好吃懒做，还有就是皮肤比黄皮果还黄!','Href':'http://rcoil.me'},
+				{'Name':'RaPoSpectre','Title':'Life is short Use Python','Href':'https://www.rapospectre.com/blog/send-alert-to-wechat'},
+				{'Name':'ZY笔记','Title':'预则立，不预则废','Href':'http://www.zhyea.com/'},
+				{'Name':'BlackWolfsec','Title':'BlackWolfsec','Href':'http://blackwolfsec.cc/'},
+				{'Name':'xd_xd','Title':'xd_xd','Href':'http://blackwolfsec.cc/'},
+				{'Name':'ADminSS','Title':'代码审计 - ADminSS','Href':'http://www.lsafe.org'},
+				{'Name':'LoRexxar','Title':'带着对技术的敬畏之心成长，不安于一隅...','Href':'https://lorexxar.cn/'},
+				{'Name':'ADminSS','Title':'代码审计 - ADminSS','Href':'http://www.lsafe.org'},
+				{'Name':'yulingtianxia','Title':'小熊是只大老鼠','Href':'http://yulingtianxia.com/'},
+				{'Name':'RickGray','Title':'RickGray','Href':'http://rickgray.me/'},
+				{'Name':'xl7dev','Title':'xl7dev','Href':'http://blog.safebuff.com/'},
+				{'Name':'Sam\'s Note','Title':'专注转化医学，专注生物信息','Href':'http://qinqianshan.com/'},
+				{'Name':'小明明','Title':'小明明','Href':'http://www.dongwm.com'},
+				{'Name':'Tr3jer_CongRong','Title':'成功唯有累计没有奇迹','Href':'http://www.thinkings.org/'},
+				{'Name':'evi1m0','Title':'rm -rf','Href':'http://rm-rf.gg/'},
+				{'Name':'Polar Snow','Title':'花有重开日 人无再少年','Href':'https://docs.lvrui.io/'},
+				{'Name':'Atum','Title':'Hack and code for FUN!','Href':'http://gcli.cn/'},
+				{'Name':'不发光的博客','Title':'Stay Hungry. Stay Foolish','Href':'https://lightless.me/'},
+
+
+
+				
+
+
+
+
+
+
+
+
+
 
 
 
