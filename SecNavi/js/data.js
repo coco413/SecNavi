@@ -349,6 +349,10 @@ var FrontGuide = {
                 'Title': '滴滴出行安全应急响应中心',
                 'Href': 'http://sec.didichuxing.com/'
             }, {
+                'Name': '乐视SRC',
+                'Title': '乐视安全应急响应中心',
+                'Href': 'http://sec.le.com/'
+            },{
                 'Name': '酷派SRC',
                 'Title': '酷派安全应急响应中心',
                 'Href': 'http://security.coolpad.com/'
@@ -615,6 +619,10 @@ var FrontGuide = {
                     'Title': '安全牛',
                     'Href': 'http://www.aqniu.com/'
                 }, {
+                    'Name': '拼客学院',
+                    'Title': '拼客学院',
+                    'Href': 'http://www.pinginglab.net/'
+                },{
                     'Name': 'YouTube',
                     'Title': '全球最大视频播放站点',
                     'Href': 'https://www.youtube.com/'
@@ -818,6 +826,10 @@ var FrontGuide = {
                 'Title': 'Php教程',
                 'Href': 'http://www.php.cn/course.html'
             }, {
+                'Name': 'PHP教程网',
+                'Title': 'Php教程网',
+                'Href': 'https://phpxy.com/'
+            },{
                 'Name': 'awesome-php-cn',
                 'Title': 'PHP 资源大全中文版',
                 'Href': 'https://github.com/jobbole/awesome-php-cn'
@@ -857,6 +869,10 @@ var FrontGuide = {
                 'Name': 'Burp Suite官方中文版',
                 'Title': '官方在 Burp Suite 所放出的Support Center中的帮助文档翻译而来的中文版',
                 'Href': 'https://www.gitbook.com/book/yw9381/burp_suite_doc_zh_cn/details'
+            },{
+                'Name': 'metasploit中文文档',
+                'Title': 'metasploit中文文档',
+                'Href': 'https://www.kancloud.cn/bluebird/metasploit/495357'
             }, {
                 'Name': 'Linux命令大全',
                 'Title': 'Linux命令大全',
@@ -1009,6 +1025,10 @@ var FrontGuide = {
                 'Name': '在线子域名探测',
                 'Title': '在线子域名探测',
                 'Href': 'https://phpinfo.me/domain/'
+            },{
+                'Name': '在线子域名探测(备用)',
+                'Title': '在线子域名探测',
+                'Href': 'https://dnstrails.com/'
             }, {
                 'Name': '在线C段主机探测',
                 'Title': '在线C段探测',
@@ -1073,6 +1093,10 @@ var FrontGuide = {
                 'Title': 'Java decompilers online',
                 'Href': 'http://www.javadecompilers.com/'
             }, {
+                'Name': '移动安全威胁数据平台',
+                'Title': '移动安全威胁数据平台',
+                'Href': 'http://appscan.io/login.html?backurl=/'
+            },{
                 'Name': 'APK逆向',
                 'Title': 'Secrets leak in Android apps',
                 'Href': 'https://android.fallible.co/'
@@ -1091,6 +1115,10 @@ var FrontGuide = {
                     'Name': '整蛊大全',
                     'Title': '愚人一下',
                     'Href': 'https://www.daohangtx.com/tools/detail/zhuangbi/index.html'
+                },{
+                    'Name': '发送QQ好友和群组',
+                    'Title': '伪造发送内容',
+                    'Href': 'http://connect.qq.com/widget/shareqq/index.html?url=http://freebuf.com&desc=&title=%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2&summary=%E8%B0%B7%E6%AD%8C%E4%B8%80%E4%B8%8B,%E4%BD%A0%E5%B0%B1%E7%9F%A5%E9%81%93&pics=http://image.3001.net/images/20170821/15032849352940.png&flash=&site=http://freebuf.com/###'
                 }, {
                     'Name': '社工密码',
                     'Title': '利用人性的弱点 精准的分析个人密码',
@@ -1100,13 +1128,21 @@ var FrontGuide = {
                     'Title': '安全数据平台',
                     'Href': 'https://www.secsilo.com/'
                 }, {
-                    'Name': 'receivesmsonline',
-                    'Title': '在线接受验证码',
+                    'Name': '在线接受验证码',
+                    'Title': 'receivesmsonline',
                     'Href': 'https://www.receivesmsonline.net/'
                 }, {
+                    'Name': '在线接受验证码(备用)',
+                    'Title': 'receivefreesms',
+                    'Href': 'receivefreesms.com/'
+                },{
                     'Name': '伪造邮件',
                     'Title': '伪造邮件、任意发件人发送Email邮件、伪造邮件地址发送电子邮件、任意邮件地址发送电子邮件',
                     'Href': 'http://tool.chacuo.net/mailanonymous'
+                }, {
+                    'Name': '伪造邮件(备用)',
+                    'Title': '伪造邮件、任意发件人发送Email邮件、伪造邮件地址发送电子邮件、任意邮件地址发送电子邮件',
+                    'Href': 'https://emkei.cz/'
                 }, {
                     'Name': '临时邮箱',
                     'Title': '临时邮箱、临时邮、临时电子邮箱、24小时邮箱',
@@ -1242,15 +1278,15 @@ var FrontGuide = {
             "pageT2": "代理匿名",
             "pageC2": [{
                 'Name': '免费代理',
-                'Title': '',
+                'Title': '免费代理',
                 'Href': 'http://www.xdaili.cn/'
             }, {
                 'Name': '极速代理',
-                'Title': '',
+                'Title': '极速代理',
                 'Href': 'http://superfastip.com/welcome/getips'
             }, {
                 'Name': '阿布云',
-                'Title': '',
+                'Title': '阿布云',
                 'Href': 'https://www.abuyun.com/'
             }, {
                 'Name': 'Protonvpn',
@@ -1307,6 +1343,10 @@ var FrontGuide = {
                 'Name': 'JSFUCK编码',
                 'Title': 'JSFUCK',
                 'Href': 'http://www.jsfuck.com/'
+            },{
+                'Name': 'HTML解密',
+                'Title': 'HTML源代码加密/解密',
+                'Href': 'http://www.91live.com/jmjm.htm'
             }, {
                 'Name': '摩斯密码',
                 'Title': 'morse电码',
@@ -1346,6 +1386,14 @@ var FrontGuide = {
         }, {
             "pageT2": "其他工具",
             "pageC2": [{
+                    'Name': 'Dota视频站',
+                    'Title': 'B站 Dota视频',
+                    'Href': 'https://search.bilibili.com/all?keyword=dota1'
+                },{
+                    'Name': 'Dota视频站(备用)',
+                    'Title': '11 Dota视频',
+                    'Href': 'http://video.5211game.com/main/index.aspx'
+                },{
                     'Name': '无限图床',
                     'Title': '去中心化图床',
                     'Href': 'https://img9.top/'
@@ -1358,9 +1406,25 @@ var FrontGuide = {
                     'Title': '鸡汤',
                     'Href': 'https://zhuanlan.zhihu.com/p/19854703'
                 }, {
+                    'Name': '感人的故事',
+                    'Title': '鸡汤',
+                    'Href': 'http://www.448569.gove.cn/class/1010'
+                },{
+                    'Name': '表白页面',
+                    'Title': '0.0',
+                    'Href': 'http://rainy.im/loving/u/'
+                },{
                     'Name': '百度脑图',
                     'Title': '控制创意，如此简单',
                     'Href': 'http://naotu.baidu.com/'
+                },{
+                    'Name': '百度统计',
+                    'Title': '百度统计',
+                    'Href': 'https://tongji.baidu.com'
+                },{
+                    'Name': '爱美刻',
+                    'Title': '在线视频制作软件，一键制作照片视频_电子相册_企业宣传片',
+                    'Href': 'https://aimeike.tv/'
                 }, {
                     'Name': '在线EXIF查看',
                     'Title': '图虫EXIF查看器',
@@ -1377,6 +1441,14 @@ var FrontGuide = {
                     'Name': 'Ocr识别',
                     'Title': '虫数据在线ocr识别',
                     'Href': 'http://chongdata.com/ocr/'
+                },{
+                    'Name': '在线挖矿',
+                    'Title': 'javascript挖矿',
+                    'Href': 'https://ppoi.org/'
+                },{
+                    'Name': 'ASCII字符串图片转换',
+                    'Title': '在线图片转化成ASCII字符串工具',
+                    'Href': 'http://www.atool.org/img2ascii.php'
                 }, {
                     'Name': '微博图片转微博地址',
                     'Title': '微博图片在线转微博地址工具',
@@ -1800,7 +1872,80 @@ var FrontGuide = {
                     'Name': 'Elephant And Balloon',
                     'Title': '关于黑技术的小博客',
                     'Href': 'http://topspeedsnail.com/'
+                },{
+                    'Name': '夏之冰雪',
+                    'Title': '欢迎来到夏之冰雪的个人网站',
+                    'Href': 'https://love.ranshy.com/'
+                },{
+                    'Name': 'Ricter\'s Blog',
+                    'Title': '初心を忘れず',
+                    'Href': 'https://ricterz.me/archives'
+                },{
+                    'Name': 'Seaii\'s Blog',
+                    'Title': 'Seaii\'s Blog',
+                    'Href': 'http://seaii-blog.com/'
+                },{
+                    'Name': 'baozi\'s',
+                    'Title': '我还想再试一次',
+                    'Href': 'http://www.webbaozi.com/'
+                },{
+                    'Name': 'Storm Blog',
+                    'Title': '关注网络安全',
+                    'Href': 'http://www.7kb.org/'
+                },{
+                    'Name': 'Go0s@老 锥',
+                    'Title': '找准一个方向，然后深入下去',
+                    'Href': 'https://www.bodkin.ren/'
+                },{
+                    'Name': 'Go0s@老 锥',
+                    'Title': '找准一个方向，然后深入下去',
+                    'Href': 'https://www.bodkin.ren/'
+                },{
+                    'Name': '栋栋的栋',
+                    'Title': '栋栋的栋，95年狮子座，无猫，几年前在玩魔术，现在在搞安全。',
+                    'Href': 'https://d0n9.github.io/2018/01/17/vscode%20extension%20%E9%92%93%E9%B1%BC/'
+                },{
+                    'Name': 'klion\'s blog',
+                    'Title': 'klion\'s blog',
+                    'Href': 'https://klionsec.github.io/'
+                },{
+                    'Name': 'sn00py\'s blog',
+                    'Title': '十年饮冰,难凉热血',
+                    'Href': 'http://03i0.com/'
+                },{
+                    'Name': 'w2n1ck\'s blog',
+                    'Title': '他正在努力的认识自己…',
+                    'Href': 'http://byd.dropsec.xyz/'
+                },{
+                    'Name': 'lostwolf\'s blog',
+                    'Title': 'lostwolf\'s blog',
+                    'Href': 'http://wolvez.club/'
+                },{
+                    'Name': '绿色风\'s Blog',
+                    'Title': '绿色风\'s Blog',
+                    'Href': 'http://www.jianyiit.com/'
+                },{
+                    'Name': 'sm0nk\'s Blog',
+                    'Title': 'sm0nk\'s Blog',
+                    'Href': 'http://sm0nk.com/2017/11/27/%E5%9F%BA%E4%BA%8ESeleinum%E7%9A%84%E5%8F%A3%E4%BB%A4%E7%88%86%E7%A0%B4%E5%BA%94%E7%94%A8/'
+                },{
+                    'Name': '3gstudent',
+                    'Title': 'Good in study, attitude and health',
+                    'Href': 'https://3gstudent.github.io/3gstudent.github.io/'
+                },{
+                    'Name': '菜狗小陈',
+                    'Title': '菜狗小陈',
+                    'Href': 'http://c-chicken.cc/'
+                },{
+                    'Name': 'Lucien\'s Blog',
+                    'Title': 'the heart of lucifer',
+                    'Href': 'http://www.lucien116.com/'
+                },{
+                    'Name': 'Tomato\'s Blog',
+                    'Title': 'Tomato\'s Blog',
+                    'Href': 'https://bl4ck.in/penetration/2017/03/20/windows%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F%E6%9D%82%E8%B0%88.html'
                 },
+
 
             ]
         }],
