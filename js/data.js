@@ -852,10 +852,6 @@ var FrontGuide = {
 	                'Title': 'Python 资源大全中文版',
 	                'Href': 'https://github.com/jobbole/awesome-python-cn'
 	            }, {
-	                'Name': 'Chrome开发者工具中文手册',
-	                'Title': 'Chrome开发者工具中文手册',
-	                'Href': 'https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools'
-	            }, {
 	                'Name': '怎么样才算是精通Python？',
 	                'Title': '怎么样才算是精通Python？',
 	                'Href': 'https://www.zhihu.com/question/19794855#answer-47220838'
@@ -1008,6 +1004,10 @@ var FrontGuide = {
 	                'Title': 'collection of cheatsheets',
 	                'Href': 'https://devhints.io/',
 	                'New': '1'
+	            }, {
+	                'Name': 'Chrome开发者工具中文手册',
+	                'Title': 'Chrome开发者工具中文手册',
+	                'Href': 'https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools'
 	            }
 	        ]
         }, {
