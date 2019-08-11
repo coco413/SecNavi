@@ -2,7 +2,7 @@ var FrontGuide = {
     "main": [{
         "pageT1": "安全圈",
         "pageC1": [{
-            "pageT2": "安全门户",
+            "pageT2": "安全社区",
             "pageC2": [{
                 'Name': 'Freebuf',
                 'Title': '关注黑客与极客',
@@ -27,7 +27,7 @@ var FrontGuide = {
             }, {
                 'Name': 'MottoIN',
                 'Title': '信安舆情早知道',
-                'Href': 'http://www.mottoin.com/'
+                'Href': 'http://www.mottoin.com/',
             }, {
                 'Name': '嘶吼',
                 'Title': '回归最本质的信息安全,互联网安全新媒体',
@@ -871,7 +871,7 @@ var FrontGuide = {
             }, {
                 'Name': 'Hugo',
                 'Title': 'Hugo建站',
-                'Href': 'https://cn.wordpress.org/'
+                'Href': 'https://gohugo.io/'
             }, {
                 'Name': 'jekyll',
                 'Title': '将纯文本转换为静态博客网站',
@@ -1508,6 +1508,10 @@ var FrontGuide = {
                 'Name': '发送QQ好友和群组',
                 'Title': '伪造发送内容',
                 'Href': 'http://connect.qq.com/widget/shareqq/index.html?url=http://freebuf.com&desc=&title=%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2&summary=%E8%B0%B7%E6%AD%8C%E4%B8%80%E4%B8%8B,%E4%BD%A0%E5%B0%B1%E7%9F%A5%E9%81%93&pics=http://image.3001.net/images/20170821/15032849352940.png&flash=&site=http://freebuf.com/###'
+            }, {
+                'Name': 'inoreader优惠',
+                'Title': 'inoreader优惠',
+                'Href': 'https://www.keepitsimple.fr/code-promo-inoreader'
             },  {
                 'Name': '在线工具箱一',
                 'Title': '在线工具箱一',
@@ -1533,6 +1537,45 @@ var FrontGuide = {
     }, {
         "pageT1": "技术博客",
         "pageC1": [{
+            "pageT2": "每日热点",
+            "pageC2": [{
+                'Name': 'Freebuf',
+                'Title': '关注黑客与极客',
+                'Href': 'http://www.freebuf.com/'
+            }, {
+                'Name': '吐司论坛',
+                'Title': 'T00LS - 低调求发展 - 潜心习安全',
+                'Href': 'https://www.t00ls.net/'
+            }, {
+                'Name': 'SecWiki',
+                'Title': '安全技能 -SecWiki',
+                'Href': 'https://www.sec-wiki.com'
+            }, {
+                'Name': 'Sec-News',
+                'Title': '安全文摘',
+                'Href': 'http://wiki.ioin.in/'
+            }, {
+                'Name': 'HackerOne热点',
+                'Title': 'HackerOne热点',
+                'Href': 'https://hackerone.com/hacktivity'
+            }, {
+                'Name': 'Github热点',
+                'Title': 'Github热点',
+                'Href': 'https://github.com/trending'
+            }, {
+                'Name': 'V2EX热点',
+                'Title': 'V2EX热点',
+                'Href': 'https://www.v2ex.com/?tab=hot'
+            }, {
+                'Name': '知乎热点',
+                'Title': '知乎热点',
+                'Href': 'https://www.zhihu.com/explore#daily-hot'
+            },{
+                'Name': '微博热点',
+                'Title': '微博热点',
+                'Href': 'https://s.weibo.com/top/summary?cate=realtimehot'
+            }]
+        }, {
             "pageT2": "团队博客",
             "pageC2": [{
                 'Name': '知道创宇Paper',
@@ -1575,9 +1618,17 @@ var FrontGuide = {
                 'Title': '360 WEB攻防团队',
                 'Href': 'https://0kee.360.cn/'
             }, {
-            'Name': '美团技术团队博客',
-            'Title': '美团技术团队',
-            'Href': 'https://tech.meituan.com/'
+	            'Name': '美团技术团队博客',
+	            'Title': '美团技术团队',
+	            'Href': 'https://tech.meituan.com/'
+            }, {
+	            'Name': '体验盒子博客',
+	            'Title': '体验盒子博客',
+	            'Href': 'https://www.uedbox.com/'
+            },{
+	            'Name': '协议安全分析',
+	            'Title': '协议安全分析',
+	            'Href': 'http://www.iprotocolsec.com/'
             }]
         }, {
             "pageT2": "个人博客",
