@@ -1453,6 +1453,22 @@ var FrontGuide = {
                  'Title': '随机密码生成器',
                  'Href': 'http://tool.c7sky.com/password/'
             },  {
+                 'Name': 'edex-ui',
+                 'Title': 'edex-ui',
+                 'Href': 'https://github.com/GitSquared/edex-ui'
+            },  {
+                 'Name': '图虫网',
+                 'Title': '图虫网',
+                 'Href': 'https://tuchong.com/'
+            },  {
+                 'Name': 'Xip io网',
+                 'Title': 'Xip io网',
+                 'Href': 'http://xip.io/'
+            },  {
+                 'Name': '潮牌导航',
+                 'Title': '潮牌导航',
+                 'Href': 'https://anseong.fun/#5'
+            },  {
                  'Name': '口红色号识别',
                  'Title': '口红颜色可视化',
                  'Href': 'http://zhangwenli.com/lipstick/'
@@ -1555,6 +1571,10 @@ var FrontGuide = {
                 'Title': '安全文摘',
                 'Href': 'http://wiki.ioin.in/'
             }, {
+                'Name': '知识星球',
+                'Title': '知识星球',
+                'Href': 'https://wx.zsxq.com/dweb2/index/group/init'
+            }, {
                 'Name': 'HackerOne热点',
                 'Title': 'HackerOne热点',
                 'Href': 'https://hackerone.com/hacktivity'
@@ -1618,17 +1638,17 @@ var FrontGuide = {
                 'Title': '360 WEB攻防团队',
                 'Href': 'https://0kee.360.cn/'
             }, {
-	            'Name': '美团技术团队博客',
-	            'Title': '美团技术团队',
-	            'Href': 'https://tech.meituan.com/'
+                'Name': '美团技术团队博客',
+                'Title': '美团技术团队',
+                'Href': 'https://tech.meituan.com/'
             }, {
-	            'Name': '体验盒子博客',
-	            'Title': '体验盒子博客',
-	            'Href': 'https://www.uedbox.com/'
+                'Name': '体验盒子博客',
+                'Title': '体验盒子博客',
+                'Href': 'https://www.uedbox.com/'
             },{
-	            'Name': '协议安全分析',
-	            'Title': '协议安全分析',
-	            'Href': 'http://www.iprotocolsec.com/'
+                'Name': '协议安全分析',
+                'Title': '协议安全分析',
+                'Href': 'http://www.iprotocolsec.com/'
             }]
         }, {
             "pageT2": "个人博客",
