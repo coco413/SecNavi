@@ -529,6 +529,34 @@ var FrontGuide = {
                 'Name': '字节跳动SRC',
                 'Title': '字节跳动安全中心',
                 'Href': 'https://security.bytedance.com/index/'
+            }, {
+                'Name': '众安SRC',
+                'Title': '众安安全应急响应中心',
+                'Href': 'https://security.zhongan.com/#/'
+            }, {
+                'Name': '优信SRC',
+                'Title': '优信安全应急响应中心',
+                'Href': 'http://security.xin.com/'
+            }, {
+                'Name': '易宠SRC',
+                'Title': '易宠安全应急响应中心',
+                'Href': 'https://sec.epet.com/'
+            }, {
+                'Name': 'DHSRC',
+                'Title': 'DH安全应急响应中心',
+                'Href': 'http://dhsrc.dhgate.com/'
+            }, {
+                'Name': '斗米SRC',
+                'Title': '斗米安全应急响应中心',
+                'Href': 'https://security.doumi.com/'
+            }, {
+                'Name': '火币SRC',
+                'Title': '火币集团安全应急响应中心',
+                'Href': 'https://security.huobi.cn/'
+            }, {
+                'Name': 'Vivo SRC',
+                'Title': 'Vivo安全应急响应中心',
+                'Href': 'https://security.vivo.com.cn/#/home'
             }
             ]
         }]
@@ -612,6 +640,10 @@ var FrontGuide = {
                 'Name': '看雪学院',
                 'Title': '二进制在线学习',
                 'Href': 'https://www.kanxue.com/course.htm'
+            }, {
+                'Name': '鱼C工作室',
+                'Title': '鱼C工作室',
+                'Href': 'https://ilovefishc.com/'
             }
             ]
         }, {
@@ -1085,18 +1117,34 @@ var FrontGuide = {
         "pageC1": [{
             "pageT2": "信息收集",
             "pageC2": [{
-                'Name': '域名Whois查询',
+                'Name': '域名备案',
+                'Title': '工业和信息化部ICP/IP地址/域名信息备案管理系统',
+                'Href': 'http://beian.miit.gov.cn/publish/query/indexFirst.action'
+            },  {
+                'Name': '域名Whois',
                 'Title': '站长之家',
                 'Href': 'https://whois.chinaz.com/'
             }, {
-                'Name': '域名Whois历史查询',
+                'Name': '域名Whois',
                 'Title': 'Whois历史记录',
-                'Href': 'http://www.cxw.com/whois/history'
+                'Href': 'http://123.4.cn/batch'
             }, {
-                'Name': '域名备案查询',
-                'Title': '工业和信息化部ICP/IP地址/域名信息备案管理系统',
-                'Href': 'http://www.miitbeian.gov.cn/publish/query/indexFirst.action'
-            }, {
+                'Name': '域名威胁情报',
+                'Title': '微步在线',
+                'Href': 'https://x.threatbook.cn/domain/www.wooyun.org'
+            },  {
+                'Name': '域名历史漏洞',
+                'Title': '历史漏洞',
+                'Href': 'https://shuimugan.com/'
+            },  {
+                'Name': '域名历史解析',
+                'Title': '历史解析',
+                'Href': 'https://toolbar.netcraft.com/site_report?url=www.baidu.com'
+            },  {
+                'Name': 'IP反查域名',
+                'Title': 'IP反查域名',
+                'Href': 'https://dns.aizhan.com/'
+            },  {
                 'Name': 'Findsubdomains子域查询',
                 'Title': 'Findsubdomains',
                 'Href': 'https://findsubdomains.com/'
@@ -1115,14 +1163,6 @@ var FrontGuide = {
                 'Name': '网站谷歌快照查询',
                 'Title': '谷歌快照站点历史信息查询',
                 'Href': 'https://webcache.googleusercontent.com/search?q=cache:baidu.com'
-            }, {
-                'Name': '网站历史解析查询',
-                'Title': 'netcraft网站解析历史查询',
-                'Href': 'https://toolbar.netcraft.com/site_report?url=www.baidu.com'
-            }, {
-                'Name': '网站威胁情报',
-                'Title': '微步在线',
-                'Href': 'https://x.threatbook.cn/domain/www.wooyun.org'
             }, {
                 'Name': 'IP地理查询',
                 'Title': '基于ipip网',
@@ -1171,10 +1211,6 @@ var FrontGuide = {
                  'Name': 'Github搜索',
                  'Title': 'Github搜索',
                  'Href': 'https://github.com/search?utf8=%E2%9C%93&q=%40sina.cn&type=Code'
-             }, {
-                 'Name': 'Whois反查',
-                 'Title': 'Whois邮箱搜索',
-                 'Href': 'http://whois.chinaz.com/reverse?host=frankma&ddlSearchMode=2'
              }, {
                  'Name': '企查查',
                  'Title': '企查查',
@@ -1453,10 +1489,6 @@ var FrontGuide = {
                  'Title': '随机密码生成器',
                  'Href': 'http://tool.c7sky.com/password/'
             },  {
-                 'Name': 'edex-ui',
-                 'Title': 'edex-ui',
-                 'Href': 'https://github.com/GitSquared/edex-ui'
-            },  {
                  'Name': '图虫网',
                  'Title': '图虫网',
                  'Href': 'https://tuchong.com/'
@@ -1517,6 +1549,18 @@ var FrontGuide = {
                 'Title': '在线视频解析',
                 'Href': 'https://www.parsevideo.com/'
             }, {
+                'Name': '欢聚谷电影',
+                'Title': '欢聚谷电影',
+                'Href': 'https://www.huanjugu.com'
+            }, {
+                'Name': '电影天堂',
+                'Title': '电影天堂',
+                'Href': 'https://www.dy2018.com/'
+            }, {
+                'Name': '猫密网',
+                'Title': '猫密网支持cap，rar，zip，7z，excel，ppt，word，office',
+                'Href': 'https://www.catpasswd.com/'
+            }, {
                 'Name': 'fakeupdate',
                 'Title': '假装 Windows 升级界面',
                 'Href': 'http://fakeupdate.net/'
@@ -1553,49 +1597,6 @@ var FrontGuide = {
     }, {
         "pageT1": "技术博客",
         "pageC1": [{
-            "pageT2": "每日热点",
-            "pageC2": [{
-                'Name': 'Freebuf',
-                'Title': '关注黑客与极客',
-                'Href': 'http://www.freebuf.com/'
-            }, {
-                'Name': '吐司论坛',
-                'Title': 'T00LS - 低调求发展 - 潜心习安全',
-                'Href': 'https://www.t00ls.net/'
-            }, {
-                'Name': 'SecWiki',
-                'Title': '安全技能 -SecWiki',
-                'Href': 'https://www.sec-wiki.com'
-            }, {
-                'Name': 'Sec-News',
-                'Title': '安全文摘',
-                'Href': 'http://wiki.ioin.in/'
-            }, {
-                'Name': '知识星球',
-                'Title': '知识星球',
-                'Href': 'https://wx.zsxq.com/dweb2/index/group/init'
-            }, {
-                'Name': 'HackerOne热点',
-                'Title': 'HackerOne热点',
-                'Href': 'https://hackerone.com/hacktivity'
-            }, {
-                'Name': 'Github热点',
-                'Title': 'Github热点',
-                'Href': 'https://github.com/trending'
-            }, {
-                'Name': 'V2EX热点',
-                'Title': 'V2EX热点',
-                'Href': 'https://www.v2ex.com/?tab=hot'
-            }, {
-                'Name': '知乎热点',
-                'Title': '知乎热点',
-                'Href': 'https://www.zhihu.com/explore#daily-hot'
-            },{
-                'Name': '微博热点',
-                'Title': '微博热点',
-                'Href': 'https://s.weibo.com/top/summary?cate=realtimehot'
-            }]
-        }, {
             "pageT2": "团队博客",
             "pageC2": [{
                 'Name': '知道创宇Paper',
@@ -1638,17 +1639,17 @@ var FrontGuide = {
                 'Title': '360 WEB攻防团队',
                 'Href': 'https://0kee.360.cn/'
             }, {
-                'Name': '美团技术团队博客',
-                'Title': '美团技术团队',
-                'Href': 'https://tech.meituan.com/'
+	            'Name': '美团技术团队博客',
+	            'Title': '美团技术团队',
+	            'Href': 'https://tech.meituan.com/'
             }, {
-                'Name': '体验盒子博客',
-                'Title': '体验盒子博客',
-                'Href': 'https://www.uedbox.com/'
+	            'Name': '体验盒子博客',
+	            'Title': '体验盒子博客',
+	            'Href': 'https://www.uedbox.com/'
             },{
-                'Name': '协议安全分析',
-                'Title': '协议安全分析',
-                'Href': 'http://www.iprotocolsec.com/'
+	            'Name': '协议安全分析',
+	            'Title': '协议安全分析',
+	            'Href': 'http://www.iprotocolsec.com/'
             }]
         }, {
             "pageT2": "个人博客",
