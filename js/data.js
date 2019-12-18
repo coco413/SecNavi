@@ -557,6 +557,26 @@ var FrontGuide = {
                 'Name': 'Vivo SRC',
                 'Title': 'Vivo安全应急响应中心',
                 'Href': 'https://security.vivo.com.cn/#/home'
+            }, {
+                'Name': '喜马拉雅SRC',
+                'Title': '喜马拉雅安全应急响应中心',
+                'Href': 'https://security.ximalaya.com/'
+            }, {
+                'Name': '贝壳SRC',
+                'Title': '贝壳安全应急响应中心',
+                'Href': 'https://security.ke.com/'
+            }, {
+                'Name': '享道出行SRC',
+                'Title': '享道出行安全应急响应中心',
+                'Href': 'https://src.saicmobility.com/'
+            }, {
+                'Name': '一加SRC',
+                'Title': '一加安全应急响应中心',
+                'Href': 'https://security.oneplus.com/'
+            }, {
+                'Name': '智联招聘SRC',
+                'Title': '智联招聘安全应急响应中心',
+                'Href': 'https://src.zhaopin.com'
             }
             ]
         }]
@@ -1141,10 +1161,6 @@ var FrontGuide = {
                 'Title': '历史解析',
                 'Href': 'https://toolbar.netcraft.com/site_report?url=www.baidu.com'
             },  {
-                'Name': 'IP反查域名',
-                'Title': 'IP反查域名',
-                'Href': 'https://dns.aizhan.com/'
-            },  {
                 'Name': 'Findsubdomains子域查询',
                 'Title': 'Findsubdomains',
                 'Href': 'https://findsubdomains.com/'
@@ -1155,6 +1171,10 @@ var FrontGuide = {
                 // fqywaz40179@chacuo.net alk58106@zwoho.com
                 // var tag2=document.getElementsByClassName('aggregated-link mobile-hidden'); for (var i=0;i<tag2.length;i++){console.log(tag2[i]["innerText"])}
                 // var tag1=document.getElementsByClassName('data-row'); for (var i=0;i<tag1.length;i++){ var a1=tag1[i].getElementsByTagName("a"); console.log(a1[0].text)}
+            }, {
+                'Name': 'myssl子域查询',
+                'Title': 'myssl',
+                'Href': 'https://myssl.com/'
             }, {
                 'Name': '网站信息历史查询',
                 'Title': '网站历史信息查询',
@@ -1183,6 +1203,14 @@ var FrontGuide = {
                 'Name': 'IP旁站查询(备用)',
                 'Title': '基于ip138',
                 'Href': 'http://site.ip138.com/'
+            },  {
+                'Name': 'IP反查域名',
+                'Title': 'IP反查域名',
+                'Href': 'https://dns.aizhan.com/'
+            },  {
+                'Name': 'IP网段AS号',
+                'Title': 'IP网段查询',
+                'Href': 'https://bgp.he.net'
             }, {
                 'Name': '域名CDN查询',
                 'Title': '基于多ping',
