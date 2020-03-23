@@ -102,7 +102,7 @@ var FrontGuide = {
             }, {
                 'Name': '乌云漏洞平台(备用)',
                 'Title': '与其听信谣言,不如相信乌云',
-                'Href': 'https://wooyun.shuimugan.com/'
+                'Href': 'http://wy.zone.ci/searchbug.php'
             }, {
                 'Name': '补天',
                 'Title': '补天-漏洞报告平台',
@@ -170,6 +170,14 @@ var FrontGuide = {
                 'Name': 'Exploits-DB漏洞信息库',
                 'Title': 'Exploits Database by Offensive Security',
                 'Href': 'https://www.exploit-db.com/'
+            }, {
+                'Name': 'Securityfocus漏洞信息库',
+                'Title': 'Securityfocus',
+                'Href': 'https://www.securityfocus.com/bid'
+            }, {
+                'Name': 'Cxsecurity漏洞信息库',
+                'Title': 'Cxsecurity',
+                'Href': 'https://cxsecurity.com/exploit'
             }, {
                 'Name': 'CNVD漏洞信息库',
                 'Title': '国家信息安全漏洞共享平台',
@@ -577,8 +585,19 @@ var FrontGuide = {
                 'Name': '智联招聘SRC',
                 'Title': '智联招聘安全应急响应中心',
                 'Href': 'https://src.zhaopin.com'
-            }
-            ]
+            }, {
+                'Name': '知识星球SRC',
+                'Title': '知识星球安全应急响应中心',
+                'Href': 'https://security.zsxq.com/'
+            }, {
+                'Name': '法大大SRC',
+                'Title': '法大大安全应急响应中心',
+                'Href': 'https://sec.fadada.com/'
+            }, {
+                'Name': '度小满SRC',
+                'Title': '度小满安全应急响应中心',
+                'Href': 'https://security.duxiaoman.com'
+            }]
         }]
     }, {
         "pageT1": "在线教育",
@@ -664,6 +683,10 @@ var FrontGuide = {
                 'Name': '鱼C工作室',
                 'Title': '鱼C工作室',
                 'Href': 'https://ilovefishc.com/'
+            }, {
+                'Name': '阿里云社区学习',
+                'Title': '阿里云社区学习',
+                'Href': 'https://developer.aliyun.com/learning?spm=5176.13944111.J_7083388720.12.5c45bd33OWlgFn'
             }
             ]
         }, {
@@ -1137,44 +1160,112 @@ var FrontGuide = {
         "pageC1": [{
             "pageT2": "信息收集",
             "pageC2": [{
-                'Name': '域名备案',
-                'Title': '工业和信息化部ICP/IP地址/域名信息备案管理系统',
-                'Href': 'http://beian.miit.gov.cn/publish/query/indexFirst.action'
-            },  {
-                'Name': '域名Whois',
-                'Title': '站长之家',
-                'Href': 'https://whois.chinaz.com/'
-            }, {
-                'Name': '域名Whois',
-                'Title': 'Whois历史记录',
-                'Href': 'http://123.4.cn/batch'
-            }, {
-                'Name': '域名威胁情报',
-                'Title': '微步在线',
-                'Href': 'https://x.threatbook.cn/domain/www.wooyun.org'
-            },  {
-                'Name': '域名历史漏洞',
-                'Title': '历史漏洞',
-                'Href': 'https://shuimugan.com/'
-            },  {
-                'Name': '域名历史解析',
-                'Title': '历史解析',
-                'Href': 'https://toolbar.netcraft.com/site_report?url=www.baidu.com'
-            },  {
-                'Name': 'Findsubdomains子域查询',
+                'Name': '在线子域查询(Findsubdomains)',
                 'Title': 'Findsubdomains',
                 'Href': 'https://findsubdomains.com/'
             }, {
-                'Name': 'Securitytrails子域查询',
+                'Name': '在线子域查询(Securitytrails)',
                 'Title': 'Securitytrails',
                 'Href': 'https://securitytrails.com'
                 // fqywaz40179@chacuo.net alk58106@zwoho.com
                 // var tag2=document.getElementsByClassName('aggregated-link mobile-hidden'); for (var i=0;i<tag2.length;i++){console.log(tag2[i]["innerText"])}
                 // var tag1=document.getElementsByClassName('data-row'); for (var i=0;i<tag1.length;i++){ var a1=tag1[i].getElementsByTagName("a"); console.log(a1[0].text)}
             }, {
-                'Name': 'myssl子域查询',
+                'Name': '在线子域查询(Google)',
+                'Title': 'Google',
+                'Href': 'https://www.google.com/search?q=site:qq.com+-www'
+            }, {
+                'Name': '在线子域证书查询(Censys)',
+                'Title': 'Censys',
+                'Href': 'https://censys.io/certificates?q='
+            }, {
+                'Name': '在线子域证书查询(Crt)',
+                'Title': 'Crt.sh',
+                'Href': 'https://crt.sh/?q='
+            }, {
+                'Name': '在线子域证书查询(myssl)',
                 'Title': 'myssl',
-                'Href': 'https://myssl.com/'
+                'Href': 'https://myssl.com/vip.com?status=q'
+            }, {
+                'Name': '域名备案查询',
+                'Title': '工业和信息化部ICP/IP地址/域名信息备案管理系统',
+                'Href': 'http://beian.miit.gov.cn/publish/query/indexFirst.action'
+            }, {
+                'Name': '域名Whois(站长之家)',
+                'Title': '站长之家',
+                'Href': 'https://whois.chinaz.com/'
+            }, {
+                'Name': '域名Whois(123)',
+                'Title': 'Whois历史记录',
+                'Href': 'http://123.4.cn/batch'
+            }, {
+                'Name': '域名历史解析',
+                'Title': '历史解析',
+                'Href': 'https://toolbar.netcraft.com/site_report?url=www.baidu.com'
+            }, {
+                'Name': '域名CDN查询(chinaz)',
+                'Title': '基于chinaz',
+                'Href': 'http://ping.chinaz.com/'
+            }, {
+                'Name': '域名CDN查询(ipip)',
+                'Title': '基于ipip网',
+                'Href': 'https://www.ipip.net/httphead.php'
+            }, {
+                'Name': 'IP网段查询(cnnic)',
+                'Title': '中国互联网信息中心',
+                'Href': 'http://IPwhois.cnnic.net.cn'
+            }, {
+                'Name': 'IP网段查询(Hurricane)',
+                'Title': 'Hurricane',
+                'Href': 'https://bgp.he.net/dns/qq.com'
+            }, {
+                'Name': 'IP网段查询(Shodan-ico)',
+                'Title': 'Shodan',
+                'Href': 'https://www.shodan.io/search?query=qq.com+http+favicon.hash%3A'
+            }, {
+                'Name': 'IP网段查询(Zoomeye特征)',
+                'Title': 'Zoomeye特征',
+                'Href': 'https://www.zoomeye.org/searchResult?q=Server%3Amomo'
+            }, {
+                'Name': 'C段查询(Google)',
+                'Title': 'Google',
+                'Href': 'https://www.google.com/search?&q=site%3A116.62.42.*'
+            }, {
+                'Name': '旁站查询(bing)',
+                'Title': '基于bing',
+                'Href': 'https://www.bing.com/search?q=IP:222.186.129.90&ensearch=1'
+            }, {
+                'Name': '旁站查询(reverseip)',
+                'Title': '基于reverseip',
+                'Href': 'http://reverseip.domaintools.com/search/?q=baidu.com'
+            }, {
+                'Name': '旁站查询(ip138)',
+                'Title': '基于ip138',
+                'Href': 'http://site.ip138.com/'
+            }, {
+                'Name': 'IP反查域名(aizhan)',
+                'Title': 'IP反查域名',
+                'Href': 'https://dns.aizhan.com/'
+            }, {
+                'Name': 'IP反查域名(ipip)',
+                'Title': 'IP反查域名(ipip.net)',
+                'Href': 'https://tools.ipip.net/ipdomain.php'
+            }, {
+                'Name': 'IP反查域名',
+                'Title': 'IP反查域名(dnslytics)',
+                'Href': 'https://dnslytics.com/ip/'
+            }, {
+                'Name': 'IP地理查询(ipip)',
+                'Title': '基于ipip网',
+                'Href': 'https://www.ipip.net/ip.html'
+            }, {
+                'Name': 'IP地理定位查询(opengps)',
+                'Title': '基于opengps网(经纬坐标转换)',
+                'Href': 'https://www.opengps.cn/Data/IP/LocHighAcc.aspx'
+            }, {
+                'Name': '网站历史漏洞查询',
+                'Title': '乌云历史漏洞',
+                'Href': 'https://w.hundan.org'
             }, {
                 'Name': '网站信息历史查询',
                 'Title': '网站历史信息查询',
@@ -1184,42 +1275,6 @@ var FrontGuide = {
                 'Title': '谷歌快照站点历史信息查询',
                 'Href': 'https://webcache.googleusercontent.com/search?q=cache:baidu.com'
             }, {
-                'Name': 'IP地理查询',
-                'Title': '基于ipip网',
-                'Href': 'https://www.ipip.net/ip.html'
-            }, {
-                'Name': 'IP地理定位查询(备用)',
-                'Title': '基于opengps网(经纬坐标转换)',
-                'Href': 'https://www.opengps.cn/Data/IP/LocHighAcc.aspx'
-            }, {
-                'Name': 'IP旁站查询',
-                'Title': '基于bing(url修改ip)',
-                'Href': 'https://www.bing.com/search?q=IP:222.186.129.90&ensearch=1'
-            }, {
-                'Name': 'IP旁站查询(备用)',
-                'Title': '基于reverseip',
-                'Href': 'http://reverseip.domaintools.com/search/?q=baidu.com'
-            }, {
-                'Name': 'IP旁站查询(备用)',
-                'Title': '基于ip138',
-                'Href': 'http://site.ip138.com/'
-            },  {
-                'Name': 'IP反查域名',
-                'Title': 'IP反查域名',
-                'Href': 'https://dns.aizhan.com/'
-            },  {
-                'Name': 'IP网段AS号',
-                'Title': 'IP网段查询',
-                'Href': 'https://bgp.he.net'
-            }, {
-                'Name': '域名CDN查询',
-                'Title': '基于多ping',
-                'Href': 'http://ping.chinaz.com/'
-            }, {
-                'Name': '域名CDN查询',
-                'Title': '基于ipip网',
-                'Href': 'https://www.ipip.net/httphead.php'
-            }, {
                 'Name': '网站指纹查询',
                 'Title': '云悉指纹',
                 'Href': 'http://www.yunsee.cn/'
@@ -1227,39 +1282,39 @@ var FrontGuide = {
                 'Name': '网站指纹查询(备用)',
                 'Title': '在线CMS识别',
                 'Href': 'https://whatcms.org/'
-            },  {
-                'Name': '微匹',
-                'Title': '微匹-让每天都有新客户',
-                'Href': 'http://datamarket.veryvp.com/index.html#/search/search-result?key=baidu.com'
-             }, {
-                 'Name': '鹰眼搜',
-                 'Title': '鹰眼搜',
-                 'Href': 'https://www.yingyanso.cn/'
-             }, {
-                 'Name': 'Github搜索',
-                 'Title': 'Github搜索',
-                 'Href': 'https://github.com/search?utf8=%E2%9C%93&q=%40sina.cn&type=Code'
-             }, {
-                 'Name': '企查查',
+            },	{
+                 'Name': '企业信息查询',
                  'Title': '企查查',
                  'Href': 'https://www.qichacha.com/search?key=%40baidu.com'
              }, {
-                 'Name': '天眼搜索',
-                 'Title': '企业注册信息查询',
+                 'Name': '企业信息查询(天眼查)',
+                 'Title': '天眼查',
                  'Href': 'http://www.tianyancha.com/',
              }, {
-                 'Name': '招标网',
-                 'Title': '招标信息查询',
-                 'Href': 'http://www.bidchance.com/index.html',
+                 'Name': '企业信息查询(维基百科)',
+                 'Title': '维基百科',
+                 'Href': 'https://zh.wikipedia.org/wiki/%E8%85%BE%E8%AE%AF',
              }, {
-                 'Name': '在线邮件头解析',
-                 'Title': 'Email Header Analyzer',
-                 'Href': 'http://mxtoolbox.com/EmailHeaders.aspx',
+                 'Name': '企业应用查询',
+                 'Title': '企业应用APP查询',
+                 'Href': 'https://www.qimai.cn/',
              }, {
-                 'Name': '已经注册账号查询',
-                 'Title': '已经注册账号查询',
-                 'Href': 'https://www.reg007.com/'
-             }]        
+                 'Name': '企业招聘查询',
+                 'Title': '企业应用APP查询',
+                 'Href': 'https://www.google.com/search?q=%E7%99%BE%E5%BA%A6+%E6%8B%9B%E8%81%98',
+             }, ,  {
+                'Name': '企业威胁情报',
+                'Title': '微步在线威胁情报分析平台',
+                'Href': 'https://x.threatbook.cn/'
+            },  {
+                'Name': '企业云盘泄露查询',
+                'Title': '凌风云搜索',
+                'Href': 'https://www.lingfengyun.com/'
+            },  {
+                'Name': '企业代码泄露查询',
+                'Title': 'Github搜索',
+                'Href': 'https://github.com/'
+            },] 
         }, {
             "pageT2": "空间搜索",
             "pageC2": [{
@@ -1620,7 +1675,23 @@ var FrontGuide = {
                 'Name': '在线工具箱五',
                 'Title': '在线工具箱五',
                 'Href': 'https://www.daohangtx.com/html/tools.html'
-            }]
+            }, {
+                 'Name': 'Github搜索',
+                 'Title': 'Github搜索',
+                 'Href': 'https://github.com/search?utf8=%E2%9C%93&q=%40sina.cn&type=Code'
+             }, {
+                 'Name': '全国政府网站基本信息数据库',
+                 'Title': '全国政府网站基本信息数据库',
+                 'Href': 'http://114.55.181.28/databaseInfo/index',
+             }, {
+                 'Name': '在线邮件头解析',
+                 'Title': 'Email Header Analyzer',
+                 'Href': 'http://mxtoolbox.com/EmailHeaders.aspx',
+             }, {
+                 'Name': '已经注册账号查询',
+                 'Title': '已经注册账号查询',
+                 'Href': 'https://www.reg007.com/'
+             }]
         }]
     }, {
         "pageT1": "技术博客",
