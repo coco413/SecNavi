@@ -597,6 +597,94 @@ var FrontGuide = {
                 'Name': '度小满SRC',
                 'Title': '度小满安全应急响应中心',
                 'Href': 'https://security.duxiaoman.com'
+            }, {
+                'Name': '水滴筹SRC',
+                'Title': '水滴安全应急响应中心',
+                'Href': 'https://security.shuidihuzhu.com'
+            }, {
+                'Name': '金山办公SRC',
+                'Title': '金山办公安全应急响应中心',
+                'Href': 'https://security.qwps.cn/'
+            }, {
+                'Name': '老虎证券SRC',
+                'Title': '老虎证券安全应急响应中心',
+                'Href': 'https://security.itiger.com/'
+            }, {
+                'Name': 'iTutorGroup SRC',
+                'Title': 'iTutorGroup安全应急响应中心',
+                'Href': 'https://sec.tutorabc.com.cn'
+            }, {
+                'Name': '云集SRC',
+                'Title': '云集安全应急响应中心',
+                'Href': 'https://security.yunjiglobal.com'
+            }, {
+                'Name': '掌门教育SRC',
+                'Title': '掌门教育安全应急响应中心',
+                'Href': 'https://security.zhangmen.com'
+            }, {
+                'Name': 'T3出行 SRC',
+                'Title': 'T3出行安全应急响应中心',
+                'Href': 'https://security.t3go.cn/'
+            },  {
+                'Name': '旷视SRC',
+                'Title': '旷视安全应急响应中心',
+                'Href': 'https://megvii.huoxian.cn/'
+            },  {
+                'Name': '旷视SRC',
+                'Title': '旷视安全应急响应中心',
+                'Href': 'https://megvii.huoxian.cn/'
+            },  {
+                'Name': '讯飞SRC',
+                'Title': '讯飞安全应急响应中心',
+                'Href': 'https://security.iflytek.com/index.php'
+            },  {
+                'Name': '百合SRC',
+                'Title': '百合安全应急响应中心',
+                'Href': 'https://src.baihe.com/'
+            },  {
+                'Name': '轻松筹SRC',
+                'Title': '轻松筹安全应急响应中心',
+                'Href': 'https://qssrc.vulbox.com'
+            },  {
+                'Name': '丁香园SRC',
+                'Title': '丁香园安全应急响应中心',
+                'Href': 'https://dxysrc.vulbox.com/ '
+            }, {
+                'Name': '上上签SRC',
+                'Title': '上上签安全应急响应中心',
+                'Href': 'https://src.bestsign.cn/'
+            },  {
+                'Name': '华住SRC',
+                'Title': '华住安全应急响应中心',
+                'Href': 'https://sec.huazhu.com/'
+            },  {
+                'Name': '伍林堂SRC',
+                'Title': '伍林堂安全应急响应中心',
+                'Href': 'https://security.wulintang.com/'
+            },  {
+                'Name': '微贷SRC',
+                'Title': '微贷安全应急响应中心',
+                'Href': 'https://sec.weidai.com.cn/'
+            },  {
+                'Name': '小赢SRC',
+                'Title': '小赢安全应急响应中心',
+                'Href': 'https://security.xiaoying.com'
+            },  {
+                'Name': '合合SRC',
+                'Title': '合合安全应急响应中心',
+                'Href': 'https://security.intsig.com/'
+            },  {
+                'Name': '华为SRC',
+                'Title': '华为安全奖励计划',
+                'Href': 'https://bugbounty.huawei.com/'
+            }, {
+                'Name': '安全狗SRC',
+                'Title': '安全狗安全应急响应中心',
+                'Href': 'http://security.safedog.cn/'
+            }, {
+                'Name': '途虎SRC',
+                'Title': '途虎安全应急响应中心',
+                'Href': 'https://security.tuhu.cn/'
             }]
         }]
     }, {
@@ -679,7 +767,11 @@ var FrontGuide = {
                 'Name': '看雪学院',
                 'Title': '二进制在线学习',
                 'Href': 'https://www.kanxue.com/course.htm'
-            }, {
+            },  {
+                'Name': '小迪渗透吧',
+                'Title': '小迪渗透吧',
+                'Href': 'http://www.xiaodi8.com/'
+            },  {
                 'Name': '鱼C工作室',
                 'Title': '鱼C工作室',
                 'Href': 'https://ilovefishc.com/'
@@ -777,6 +869,10 @@ var FrontGuide = {
                 'Name': '360威胁情报中心',
                 'Title': '威胁情报中心',
                 'Href': 'https://ti.360.com/'
+            }, {
+                'Name': '奇安信威胁情报中心',
+                'Title': '威胁情报中心',
+                'Href': 'https://ti.qianxin.com/'
             }, {
                 'Name': 'NOSEC大数据安全协作平台',
                 'Title': '信息安全从业者的专属"瑞士军刀"',
@@ -1231,6 +1327,10 @@ var FrontGuide = {
                 'Title': 'Google',
                 'Href': 'https://www.google.com/search?&q=site%3A116.62.42.*'
             }, {
+                'Name': 'C段查询(phpinfo)',
+                'Title': 'phpinfo',
+                'Href': 'https://phpinfo.me/bing.php'
+            }, {
                 'Name': '旁站查询(bing)',
                 'Title': '基于bing',
                 'Href': 'https://www.bing.com/search?q=IP:222.186.129.90&ensearch=1'
@@ -1467,6 +1567,10 @@ var FrontGuide = {
                 'Title': '快代理',
                 'Href': 'https://www.kuaidaili.com/'
             }, {
+                'Name': 'socketpro代理',
+                'Title': 'socketpro代理',
+                'Href': 'https://www.socketpro.site/zh/order/new'
+            }, {
                 'Name': '超人打码',
                 'Title': '超人打码',
                 'Href': 'http://www.chaorendama.com/'
@@ -1485,6 +1589,10 @@ var FrontGuide = {
              'Name': '匿名短信',
              'Title': '在线接收短信验证码',
              'Href': 'https://yunduanxin.net/'
+            }, {
+             'Name': '匿名短信',
+             'Title': '在线接收短信验证码',
+             'Href': 'https://www.materialtools.com/'
             }, {
              'Name': '匿名文件分享',
              'Title': '火狐在线文件分享',
@@ -1572,6 +1680,14 @@ var FrontGuide = {
                  'Title': '随机密码生成器',
                  'Href': 'http://tool.c7sky.com/password/'
             },  {
+                 'Name': '网易云音乐外链',
+                 'Title': '网易云音乐外链',
+                 'Href': 'http://music.163.com/song/media/outer/url?id=281951.mp3'
+            }, {
+                 'Name': 'IDEA激活码',
+                 'Title': 'IDEA激活码',
+                 'Href': 'http://idea.medeming.com/jihuoma/images/jihuoma.zip'
+            },  {
                  'Name': '图虫网',
                  'Title': '图虫网',
                  'Href': 'https://tuchong.com/'
@@ -1640,9 +1756,21 @@ var FrontGuide = {
                 'Title': '电影天堂',
                 'Href': 'https://www.dy2018.com/'
             }, {
+                'Name': '崔永元视频',
+                'Title': '崔永元视频',
+                'Href': 'https://www.youtube.com/channel/UCAq_xQV8pJ2Q_KOszzaYPBg'
+            }, {
+                'Name': '酷家乐',
+                'Title': '空间云设计软件平台,为数字化升级提供一站式的解决方案',
+                'Href': 'https://kujiale.com/'
+            }, {
                 'Name': '猫密网',
                 'Title': '猫密网支持cap，rar，zip，7z，excel，ppt，word，office',
                 'Href': 'https://www.catpasswd.com/'
+            }, {
+                'Name': 'pastebin',
+                'Title': 'pastebin',
+                'Href': 'https://pastebin.com/raw/'
             }, {
                 'Name': 'fakeupdate',
                 'Title': '假装 Windows 升级界面',
@@ -2000,6 +2128,142 @@ var FrontGuide = {
                 'Name': 'Yuntest\'s Blog',
                 'Title': '攻防无绝对,技术无黑白',
                 'Href': 'https://blog.yuntest.org'
+            }, {
+                'Name': 'Mrxn\'s Blog',
+                'Title': '关注web安全、热爱黑客技术的伪黑客博客',
+                'Href': 'http://www.ttk7.cn/'
+            },  {
+                'Name': '天堂空气 Blog',
+                'Title': '渗透|代码审计|Python',
+                'Href': 'https://mrxn.net/'
+            },  {
+                'Name': 'Keefe\'s Blog',
+                'Title': '每天都要热爱技术',
+                'Href': 'http://www.aiyuanzhen.com/'
+            },  {
+                'Name': 'JrXnm\'s Blog',
+                'Title': 'JrXnm\'s Blog',
+                'Href': 'https://blog.szfszf.top'
+            },  {
+                'Name': '京语 \'s Blog',
+                'Title': '京语 \'s Blog',
+                'Href': 'https://koalr.me'
+            },  {
+                'Name': 'Castiel\'s Blog',
+                'Title': '一个不会中医的厨子不会是一个好黑客',
+                'Href': 'https://ca3tie1.github.io/'
+            },  {
+                'Name': 'Micropoor\'s Blog',
+                'Title': '专注APT攻击与防御',
+                'Href': 'https://micropoor.blogspot.com/'
+            },  {
+                'Name': 'fate0\'s Blog',
+                'Title': 'fate0\'s Blog',
+                'Href': 'http://blog.fatezero.org/'
+            },  {
+                'Name': 'Damit5\'s Blog',
+                'Title': '纸上得来终觉浅，绝知此事要躬行。',
+                'Href': 'https://damit5.com/'
+            },  {
+                'Name': 'vito\'s Blog',
+                'Title': 'vito\'s Blog',
+                'Href': 'https://vito-l.github.io/'
+            },  {
+                'Name': 'AnonySec\'s Blog',
+                'Title': 'AnonySec',
+                'Href': 'https://payloads.cn/'
+            },  {
+                'Name': 'Zgao\'s Blog',
+                'Title': 'Zgao\'s Blog',
+                'Href': 'http://zgao.top/'
+            },  {
+                'Name': 'Se7en\'s Blog',
+                'Title': '资深apt install专家',
+                'Href': 'http://www.se7ensec.cn/'
+            },  {
+                'Name': 'Kingkk\'s Blog',
+                'Title': '菜的要死',
+                'Href': 'https://www.kingkk.com/'
+            },  {
+                'Name': 'yuf1sher\'s Blog',
+                'Title': 'Time changes',
+                'Href': 'http://saltyfishyu.xmutsec.com/'
+            },  {
+                'Name': 'biubiu\'s Blog',
+                'Title': '上网不网恋，简直浪费电.',
+                'Href': 'https://blubiu.github.io/'
+            },  {
+                'Name': '小陈\'s Blog',
+                'Title': '致力关注黑客技术丶渗透测试丶网络信息安全',
+                'Href': 'http://www.hackxc.cc/'
+            },  {
+                'Name': 'Jiahao.Zhang\'s Blog',
+                'Title': '未来的事无人知晓, 所以才有无穷可能',
+                'Href': 'https://blog.hduzplus.xyz/'
+            },  {
+                'Name': 'Tr0y\'s Blog',
+                'Title': 'Tr0y\'s Blog',
+                'Href': 'https://www.tr0y.wang/about/'
+            }, {
+                'Name': 'K·Fire \'s Blog',
+                'Title': 'K·Fire \'s Blog',
+                'Href': 'https://kfire.net/'
+            }, {
+                'Name': '橘纸柚 \'s Blog',
+                'Title': '一只挣扎中的咸鱼',
+                'Href': 'https://lovemen.cc/'
+            }, {
+                'Name': 'co0ontty \'s Blog',
+                'Title': 'co0ontty \'s Blog',
+                'Href': 'https://co0ontty.github.io/'
+            }, {
+                'Name': '0x3 \'s Blog',
+                'Title': '0x3 \'s Blog',
+                'Href': 'http://0x3.biz/'
+            }, {
+                'Name': 'sqlsec \'s Blog',
+                'Title': 'sqlsec \'s Blog',
+                'Href': 'https://www.sqlsec.com/'
+            }, {
+                'Name': 'vancir \'s Blog',
+                'Title': 'vancir \'s Blog',
+                'Href': 'https://vancir.com/'
+            }, {
+                'Name': 'jax777 \'s Blog',
+                'Title': 'jax777 \'s Blog',
+                'Href': 'https://jax777.win/'
+            }, {
+                'Name': '9ouu \'s Blog',
+                'Title': '9ouu \'s Blog',
+                'Href': 'https://www.9ouu.cn/'
+            }, {
+                'Name': 'xtpeeps \'s Blog',
+                'Title': '当你的才华还撑不起你的野心的时候，你就应该静下心来学习',
+                'Href': 'https://xtpeeps.cn/'
+            }, {
+                'Name': 'lxhsec \'s Blog',
+                'Title': 'lxhsec \'s Blog',
+                'Href': 'https://www.lxhsec.com/'
+            }, {
+                'Name': 't1h2ua \'s Blog',
+                'Title': 't1h2ua \'s Blog',
+                'Href': 'http://www.t1h2ua.cn/'
+            }, {
+                'Name': 'thinkings \'s Blog',
+                'Title': 'thinkings \'s Blog',
+                'Href': 'https://www.thinkings.org/'
+            },  {
+                'Name': 'since1994 \'s Blog',
+                'Title': 'since1994 \'s Blog',
+                'Href': 'http://since1994.cn/?cat=26'
+            },  {
+                'Name': 'srat1999 \'s Blog',
+                'Title': 'srat1999 \'s Blog',
+                'Href': 'https://srat1999.top/'
+            },  {
+                'Name': 'miraitowa2 \'s Blog',
+                'Title': 'miraitowa2 \'s Blog',
+                'Href': 'https://miraitowa2.top/'
             }, {
                 'Name': 'K·Fire \'s Blog',
                 'Title': 'K·Fire \'s Blog',
