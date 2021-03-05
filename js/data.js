@@ -46,10 +46,6 @@ var FrontGuide = {
                 'Title': '信安舆情早知道',
                 'Href': 'http://www.mottoin.com/',
             }, {
-                'Name': '嘶吼',
-                'Title': '回归最本质的信息安全,互联网安全新媒体',
-                'Href': 'http://www.4hou.com/'
-            }, {
                 'Name': '安全脉搏',
                 'Title': '分享技术，悦享品质',
                 'Href': 'https://www.secpulse.com/'
@@ -891,10 +887,14 @@ var FrontGuide = {
                 'Title': '安全导航---Coco413',
                 'Href': 'https://github.com/coco413/SecNavi/'
             }, {
+                'Name': 'SecRss',
+                'Title': '安全订阅---Coco413',
+                'Href': 'https://github.com/coco413/SecRss'
+            }, {
                 'Name': 'SecMind',
                 'Title': '安全导图---Coco413',
                 'Href': 'https://github.com/coco413/SecMind'
-            },{
+            }, {
                 'Name': 'SecVuln',
                 'Title': '安全漏洞---Coco413',
                 'Href': 'https://github.com/coco413/SecNavi/'
@@ -1404,6 +1404,10 @@ var FrontGuide = {
                 'Name': '让我帮你百度一下',
                 'Title': '献给所有喜欢问他人问题而不是自己去搜索的人.',
                 'Href': 'http://baidu.apphb.com/'
+            }, {
+                'Name': 'socialify生成GitHub仓库图',
+                'Title': 'socialify生成GitHub仓库图.',
+                'Href': 'https://socialify.git.ci/'
             }, {
                 'Name': '在线EXIF查看',
                 'Title': '图虫EXIF查看器',
