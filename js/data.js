@@ -137,6 +137,11 @@ var FrontGuide = {
                 'Href': 'https://dvpnet.io',
                 "New": "1"
             }, {
+                'Name': 'allsec众测',
+                'Title': 'allsec众测',
+                'Href': 'https://i.allsec.cn/',
+                "New": "1"
+            }, {
                 'Name': '教育行业漏洞报告平台',
                 'Title': '教育行业漏洞报告平台',
                 'Href': 'https://src.sjtu.edu.cn/'
@@ -178,6 +183,11 @@ var FrontGuide = {
                 'Name': 'VULHUB漏洞信息库',
                 'Title': '信息安全漏洞门户 VULHUB',
                 'Href': 'http://vulhub.org.cn/view/global',
+                "New": "1"
+            }, {
+                'Name': 'zerodayinitiative漏洞信息库',
+                'Title': 'zerodayinitiative漏洞信息库',
+                'Href': 'https://www.zerodayinitiative.com/advisories/published/',
                 "New": "1"
             }, {
                 'Name': 'Seebug漏洞信息库',
@@ -1092,6 +1102,14 @@ var FrontGuide = {
                 'Name': 'Chrome插件开发文档',
                 'Title': 'Chrome插件开发全攻略',
                 'Href': 'https://github.com/sxei/chrome-plugin-demo'
+            }, {
+                'Name': '网道-互联网开发文档',
+                'Title': '网道（WangDoc.com）是一个文档网站，提供互联网开发文档，正在建设中。',
+                'Href': 'https://wangdoc.com/'
+            }, {
+                'Name': 'quickref代码块',
+                'Title': 'Here are some cheatsheets and quick references contributed by open source angels.',
+                'Href': 'https://quickref.me/'
             }]
         }]
     }, {
@@ -1199,7 +1217,11 @@ var FrontGuide = {
                 'Name': '全历史',
                 'Title': '全历史',
                 'Href': 'https://www.allhistory.com'
-            }]
+            }, {
+                'Name': 'artipub一文多发平台',
+                'Title': 'artipub一文多发平台',
+                'Href': 'https://github.com/crawlab-team/artipub'
+            }, ]
         }]
     }, {
         "pageT1": "实用工具",
@@ -1420,6 +1442,10 @@ var FrontGuide = {
                 'Name': '批量打开网址',
                 'Title': '迅速打开多个链接',
                 'Href': 'http://www.openurls.com.cn/'
+            }, {
+                'Name': 'Server酱',
+                'Title': '迅速打开多个链接',
+                'Href': '从服务器、路由器等设备上推消息到手机的工具'
             }, {
                 'Name': 'github图标',
                 'Title': 'github图标',
@@ -2282,6 +2308,14 @@ var FrontGuide = {
                 'Name': 'K·Fire \'s Blog',
                 'Title': 'K·Fire \'s Blog',
                 'Href': 'https://kfire.net/'
+            }, {
+                'Name': 's4kur4 \'s Blog',
+                'Title': 'A Cybersecurity Researcher.',
+                'Href': 'https://0x0c.cc/'
+            }, {
+                'Name': 'evilxyz \'s Blog',
+                'Title': '一条曾经畅游大海更妄想遨游天际现在只想太阳不要太烈的咸鱼',
+                'Href': 'http://evilxyz.xyz/'
             }]
         }]
     }]
