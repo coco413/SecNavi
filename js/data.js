@@ -97,9 +97,13 @@ var FrontGuide = {
                 'Title': '零组资料文库',
                 'Href': 'https://wiki.0-sec.org/#/wiki'
             }, {
-                'Name': '白鸽文库',
+                'Name': '白阁文库',
                 'Title': '白阁文库是白泽Sec团队维护的一个漏洞POC和EXP披露以及漏洞复现的开源项目，欢迎各位表哥访问白阁文库并提出宝贵建议。',
                 'Href': 'https://wiki.bylibrary.cn/'
+            }, {
+                'Name': 'PeiQi WiKi-POC文库',
+                'Title': '鹿不在侧，鲸不予游',
+                'Href': 'http://wiki.peiqi.tech/'
             }, {
                 'Name': 'hacking8文库',
                 'Title': 'hacking8文库',
@@ -127,6 +131,10 @@ var FrontGuide = {
                 'Name': '云盾先知',
                 'Title': '云盾先知平台致力于构建和谐的互联网安全生态圈',
                 'Href': 'https://xianzhi.aliyun.com/'
+            }, {
+                'Name': '火线',
+                'Title': '火线是全球首个白帽子开发者平台——与国内顶级的白帽子们一起开发产品，并通过产品为企业客户提供安全可信的众测、渗透测试、红蓝对抗等高级安全服务。',
+                'Href': 'http://www.huoxian.cn/index'
             }, {
                 'Name': '漏洞银行',
                 'Title': '挑战权威但不作恶，打造信息安全乌托邦',
@@ -178,6 +186,11 @@ var FrontGuide = {
                 'Name': '斗象科技漏洞库',
                 'Title': '斗象科技漏洞库',
                 'Href': 'https://vas.riskivy.com/vuln',
+                "New": "1"
+            }, {
+                'Name': 'vulmon漏洞库',
+                'Title': 'vulmon漏洞库',
+                'Href': 'https://vulmon.com/',
                 "New": "1"
             }, {
                 'Name': 'VULHUB漏洞信息库',
@@ -1086,6 +1099,10 @@ var FrontGuide = {
                 'Title': 'Kali Linux Tools中文说明书',
                 'Href': 'https://github.com/louchaooo/kali-tools-zh'
             }, {
+                'Name': 'DevOps 元素周期表',
+                'Title': 'DevOps 实践、敏捷实践、精益实践提炼出来的知识体系。',
+                'Href': 'https://devops.phodal.com/home'
+            }, {
                 'Name': 'Burp Suite官方中文版',
                 'Title': '官方在 Burp Suite 所放出的Support Center中的帮助文档翻译而来的中文版',
                 'Href': 'https://www.gitbook.com/book/yw9381/burp_suite_doc_zh_cn/details'
@@ -1110,6 +1127,14 @@ var FrontGuide = {
                 'Name': 'quickref代码块',
                 'Title': 'Here are some cheatsheets and quick references contributed by open source angels.',
                 'Href': 'https://quickref.me/'
+            }, {
+                'Name': 'WEB前端知识库',
+                'Title': 'WEB前端知识库，Frontend Knowledge Base',
+                'Href': 'https://github.com/a233894432/Frontend_Knowledge_Base'
+            }, {
+                'Name': 'Github ico',
+                'Title': 'Github ico',
+                'Href': 'https://github.com/tobi6112/tobi6112/blob/4a0ab5b6faed375b5b290c46a14183ad03323479/overview.md'
             }]
         }]
     }, {
@@ -1249,7 +1274,7 @@ var FrontGuide = {
                 'Href': 'https://github.com/GcsSloop/MacDeveloper'
             }]
         }, {
-            "pageT2": "效率工具",
+            "pageT2": "高效工具",
             "pageC2": [{
                 'Name': 'Things 3',
                 'Title': 'GTD日常清单记录',
@@ -1278,6 +1303,10 @@ var FrontGuide = {
                 'Name': 'Trello',
                 'Title': '协同合作平台',
                 'Href': 'https://trello.com'
+            }, {
+                'Name': 'Qrcp文件传输工具',
+                'Title': '通过扫描QR码，无需离开终端即可通过wifi将文件从计算机传输到移动设备',
+                'Href': 'https://github.com/claudiodangelis/qrcp'
             }]
         }, {
             "pageT2": "编码转换",
@@ -1384,6 +1413,10 @@ var FrontGuide = {
                 'Title': '临时邮箱、临时邮、临时电子邮箱、24小时邮箱',
                 'Href': 'http://24mail.chacuo.net/'
             }, {
+                'Name': 'tmpmail临时邮箱',
+                'Title': '临时邮箱、临时邮、临时电子邮箱、24小时邮箱',
+                'Href': 'https://github.com/sdushantha/tmpmail'
+            }, {
                 'Name': '临时邮箱(备用)',
                 'Title': '临时邮箱、临时邮、临时电子邮箱、24小时邮箱',
                 'Href': 'https://www.guerrillamail.com/'
@@ -1407,6 +1440,10 @@ var FrontGuide = {
                 'Title': '随机密码生成器',
                 'Href': 'http://tool.c7sky.com/password/'
             }, {
+                'Name': 'CVSS在线计算器',
+                'Title': 'CVSS在线计算器',
+                'Href': 'https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?name=CVE-2016-0051'
+            }, {
                 'Name': '网易云音乐外链',
                 'Title': '网易云音乐外链',
                 'Href': 'http://music.163.com/song/media/outer/url?id=281951.mp3'
@@ -1414,6 +1451,26 @@ var FrontGuide = {
                 'Name': 'IDEA激活码',
                 'Title': 'IDEA激活码',
                 'Href': 'http://idea.medeming.com/jihuoma/images/jihuoma.zip'
+            }, {
+                'Name': '在线生成漂亮的代码分享图',
+                'Title': '在线生成漂亮的代码分享图',
+                'Href': 'https://carbon.now.sh/'
+            }, {
+                'Name': '在线手写字体生成',
+                'Title': '在线手写字体生成',
+                'Href': 'https://saurabhdaware.github.io/text-to-handwriting/'
+            }, {
+                'Name': '图片转文字在线 - 图片文字提取 - 网页OCR文字识别 - 白描网页版',
+                'Title': '图片转文字在线 - 图片文字提取 - 网页OCR文字识别 - 白描网页版',
+                'Href': 'https://web.baimiaoapp.com/'
+            }, {
+                'Name': 'Element UI表单设计及代码生成器',
+                'Title': 'Element UI表单设计及代码生成器',
+                'Href': 'https://mrhj.gitee.io/form-generator'
+            }, {
+                'Name': '游戏壁纸站',
+                'Title': 'deadendthrills',
+                'Href': 'https://www.deadendthrills.com/'
             }, {
                 'Name': '口红色号识别',
                 'Title': '口红颜色可视化',
@@ -1430,6 +1487,10 @@ var FrontGuide = {
                 'Name': 'socialify生成GitHub仓库图',
                 'Title': 'socialify生成GitHub仓库图.',
                 'Href': 'https://socialify.git.ci/'
+            }, {
+                'Name': 'vulnogram',
+                'Title': '漂亮的在线写规则平台',
+                'Href': 'https://vulnogram.github.io/#editor'
             }, {
                 'Name': '在线EXIF查看',
                 'Title': '图虫EXIF查看器',
@@ -1531,6 +1592,10 @@ var FrontGuide = {
                 'Name': '在线子域查询(Findsubdomains)',
                 'Title': 'Findsubdomains',
                 'Href': 'https://findsubdomains.com/'
+            }, {
+                'Name': '在线子域查询(spyse)',
+                'Title': 'spyse',
+                'Href': 'https://spyse.com/'
             }, {
                 'Name': '在线子域查询(Securitytrails)',
                 'Title': 'Securitytrails',
@@ -2312,6 +2377,10 @@ var FrontGuide = {
                 'Name': 's4kur4 \'s Blog',
                 'Title': 'A Cybersecurity Researcher.',
                 'Href': 'https://0x0c.cc/'
+            }, {
+                'Name': '不死鸟 \'s Blog',
+                'Title': '不死鸟-分享为王官网',
+                'Href': 'https://iao.su/'
             }, {
                 'Name': 'evilxyz \'s Blog',
                 'Title': '一条曾经畅游大海更妄想遨游天际现在只想太阳不要太烈的咸鱼',
