@@ -60,6 +60,10 @@ var FrontGuide = {
                 'Title': 'RaidForums is a database sharing and marketplace forum',
                 'Href': 'https://raidforums.com/index.php'
             }, {
+                'Name': 'Eternia论坛',
+                'Title': 'E-Whoring - Eternia - Nulled and Leak forums',
+                'Href': 'https://eternia.to/'
+            }, {
                 'Name': 'Blackhat论坛',
                 'Title': 'Black Hat is part of the Informa Tech Division of Informa PLC',
                 'Href': 'https://www.blackhat.com/eu-21/arsenal/schedule/'
@@ -1151,6 +1155,10 @@ var FrontGuide = {
                 'Title': 'icones矢量图库',
                 'Href': 'https://icones.js.org/'
             }, {
+                'Name': '图扑软件',
+                'Title': '构建先进 2D 和 3D 可视化所需要的一切',
+                'Href': 'https://hightopo.com/index.html'
+            }, {
                 'Name': '来画动画设计',
                 'Title': '长期深耕于数字创作创意工具领域, 致力为千万用户提供高效卓越服务',
                 'Href': 'https://www.laihua.com/'
@@ -1412,6 +1420,10 @@ var FrontGuide = {
                 'Title': 'Github图标',
                 'Href': 'https://octodex.github.com/'
             }, {
+                'Name': '微软产品激活工具箱',
+                'Title': '微软产品激活工具箱',
+                'Href': 'https://pkeytools.azurewebsites.net/ShareKeys'
+            }, {
                 'Name': '终端录屏',
                 'Title': '终端录屏',
                 'Href': 'https://asciinema.org/'
@@ -1636,6 +1648,10 @@ var FrontGuide = {
                 'Name': '全国政府网站基本信息数据库',
                 'Title': '全国政府网站基本信息数据库',
                 'Href': 'http://114.55.181.28/databaseInfo/index',
+            }, {
+                'Name': '计算机信息系统安全专用产品销售许可服务平台',
+                'Title': '计算机信息系统安全专用产品销售许可服务平台',
+                'Href': 'https://ispl.mps.gov.cn/ispl/jsp/common/ProductList_Public.jsp',
             }, {
                 'Name': '专利汇',
                 'Title': '以专利数据分析挖掘为核心的垂直搜索引擎，主要提供专利查询,专利检索,专利下载,专利分析,专利管家,年费监控,专利申请,专利地图,竞争监控等服务。',
