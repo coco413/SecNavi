@@ -1012,6 +1012,10 @@ var FrontGuide = {
                 'Title': 'IviewUI框架',
                 'Href': 'http://v1.iviewui.com/'
             }, {
+                'Name': 'TDesign UI框架',
+                'Title': 'TDesign UI框架',
+                'Href': 'https://github.com/Tencent/tdesign'
+            }, {
                 'Name': 'Naive UI',
                 'Title': 'NaiveUI框架',
                 'Href': 'https://www.naiveui.com'
@@ -1113,6 +1117,10 @@ var FrontGuide = {
                 'Name': '尝鲜派IOS下载',
                 'Title': '尝鲜派Apple系列更新',
                 'Href': 'https://ibeta.me/'
+            }, {
+                'Name': '工业自动化专业导航',
+                'Title': '工业自动化专业导航',
+                'Href': 'https://at.stiny.cn/'
             }]
         }]
     }, {
@@ -1432,6 +1440,10 @@ var FrontGuide = {
                 'Title': 'pastebin',
                 'Href': 'https://pastebin.com/raw/'
             }, {
+                'Name': 'command-not-found',
+                'Title': 'Install any command on any operating system.',
+                'Href': 'https://command-not-found.com/'
+            }, {
                 'Name': 'Fakeupdate',
                 'Title': '假装 Windows 升级界面',
                 'Href': 'http://fakeupdate.net/'
@@ -1653,6 +1665,10 @@ var FrontGuide = {
                 'Title': '计算机信息系统安全专用产品销售许可服务平台',
                 'Href': 'https://ispl.mps.gov.cn/ispl/jsp/common/ProductList_Public.jsp',
             }, {
+                'Name': '网安产业数据库',
+                'Title': '网安产业数据库',
+                'Href': 'https://t.wangan.com/c/products.html',
+            }, {
                 'Name': '专利汇',
                 'Title': '以专利数据分析挖掘为核心的垂直搜索引擎，主要提供专利查询,专利检索,专利下载,专利分析,专利管家,年费监控,专利申请,专利地图,竞争监控等服务。',
                 'Href': 'https://www.patenthub.cn/'
@@ -1665,6 +1681,10 @@ var FrontGuide = {
                 'Name': '中国专利数据库',
                 'Title': '中国知网 - 专利数据库',
                 'Href': 'http://gb.global.cnki.net/kns/brief/result.aspx?dbPrefix=SCPD'
+            }, {
+                'Name': '中国知网',
+                'Title': '中国知网',
+                'Href': 'https://cnki.net/'
             }, {
                 'Name': '已经注册账号查询',
                 'Title': '已经注册账号查询',
