@@ -40,6 +40,10 @@ var FrontGuide = {
                 'Title': '在这里探索技术和热爱',
                 'Href': 'https://www.sec-in.com'
             }, {
+                'Name': '火线 Zone-云安全社区',
+                'Title': '研究讨论云安全相关技术，助力所有云上用户实现全面的安全防护',
+                'Href': 'https://zone.huoxian.cn/'
+            }, {
                 'Name': 'IoTSec社区',
                 'Title': '物联网安全社区',
                 'Href': 'http://www.iotsec.zone/'
@@ -265,6 +269,10 @@ var FrontGuide = {
                 'Title': 'securityfocus',
                 'Href': 'https://www.securityfocus.com/'
             }, {
+                'Name': 'CVE-ICU漏洞信息库',
+                'Title': 'cve.icu',
+                'Href': 'https://cve.icu/2022.html'
+            }, {
                 'Name': 'Routerpwn漏洞信息库',
                 'Title': 'Routerpwn - One click exploits',
                 'Href': 'http://www.routerpwn.com/'
@@ -272,6 +280,10 @@ var FrontGuide = {
                 'Name': '工控系统行业漏洞信息库',
                 'Title': '工控系统行业漏洞信息库',
                 'Href': 'http://ivd.winicssec.com/'
+            }, {
+                'Name': 'Exphub ICS工业安全漏洞信息库',
+                'Title': 'Exphub - ICS安全情报',
+                'Href': 'http://www.exphub.org/'
             }]
         }, {
             "pageT2": "应急响应",
@@ -1024,6 +1036,11 @@ var FrontGuide = {
                 'Title': 'Arco UI框架',
                 'Href': 'https://arco.design/',
                 "New": "1"
+            }, {
+                'Name': 'Xena僵尸网络框架',
+                'Title': 'Xena僵尸网络框架',
+                'Href': 'https://xena.network/',
+                "New": "1"
             }]
         }, {
             "pageT2": "接口调用",
@@ -1163,7 +1180,7 @@ var FrontGuide = {
                 'Title': 'icones矢量图库',
                 'Href': 'https://icones.js.org/'
             }, {
-                'Name': '图扑软件',
+                'Name': '工业图扑软件',
                 'Title': '构建先进 2D 和 3D 可视化所需要的一切',
                 'Href': 'https://hightopo.com/index.html'
             }, {
@@ -1337,6 +1354,10 @@ var FrontGuide = {
                 'Title': '在线接收短信验证码',
                 'Href': 'http://www.xnsms.com/'
             }, {
+                'Name': 'TempoMail临时邮箱',
+                'Title': '临时邮箱、临时邮、临时电子邮箱、24小时邮箱',
+                'Href': 'https://www.tempo-mail.com'
+            }, {
                 'Name': 'Tmpmail临时邮箱',
                 'Title': '临时邮箱、临时邮、临时电子邮箱、24小时邮箱',
                 'Href': 'https://github.com/sdushantha/tmpmail'
@@ -1460,6 +1481,18 @@ var FrontGuide = {
                 'Title': '电影狗 - 专业电影搜索引擎',
                 'Href': 'https://www.dianyinggou.com/'
             }, {
+                'Name': '12点影视',
+                'Title': '12点影视',
+                'Href': 'https://www.12yingshi.com/'
+            }, {
+                'Name': '努努视频',
+                'Title': '努努视频',
+                'Href': 'https://www.nunuyy1.top/dianying/'
+            }, {
+                'Name': '梦幻天堂视频下载',
+                'Title': '梦幻天堂视频下载',
+                'Href': 'http://www.lwgod.org/'
+            }, {
                 'Name': '今日热点',
                 'Title': '今日热点汇总',
                 'Href': 'https://lvv2.com/'
@@ -1479,6 +1512,10 @@ var FrontGuide = {
                 'Name': '凌风云网盘搜索',
                 'Title': '百度云盘资源搜索下载',
                 'Href': 'https://www.lingfengyun.com/'
+            }, {
+                'Name': '云盘资源网',
+                'Title': '云盘资源网是完全免费的云盘资源分享平台！我们为所有百度网盘、阿里云盘、360云盘、微云、坚果云等所有云盘用户提供服务！您可以自由分享和获取各类云盘网盘资源',
+                'Href': 'https://www.yunpanziyuan.com/'
             }, {
                 'Name': '在线工具箱',
                 'Title': '在线工具箱',
@@ -1657,6 +1694,10 @@ var FrontGuide = {
                 'Title': '微步在线威胁情报分析平台',
                 'Href': 'https://x.threatbook.cn/'
             }, {
+                'Name': 'startme情报',
+                'Title': 'startme osint情报',
+                'Href': 'https://start.me/p/GE7JQb/osint'
+            }, {
                 'Name': '全国政府网站基本信息数据库',
                 'Title': '全国政府网站基本信息数据库',
                 'Href': 'http://114.55.181.28/databaseInfo/index',
@@ -1686,6 +1727,10 @@ var FrontGuide = {
                 'Title': '中国知网',
                 'Href': 'https://cnki.net/'
             }, {
+                'Name': 'iData论文下载',
+                'Title': 'iData论文下载',
+                'Href': 'https://www.cn-ki.net/'
+            }, {
                 'Name': '已经注册账号查询',
                 'Title': '已经注册账号查询',
                 'Href': 'https://www.reg007.com/'
@@ -1707,11 +1752,15 @@ var FrontGuide = {
             }, {
                 'Name': 'Fofa',
                 'Title': 'FOFA Pro - 网络空间安全搜索引擎，网络空间搜索引擎，网络空间测绘，安全态势感知',
-                'Href': 'https://fofa.so/'
+                'Href': 'https://fofa.info/'
             }, {
                 'Name': '360 quake',
                 'Title': '360 quake - 网络空间安全搜索引擎，网络空间搜索引擎，网络空间测绘，安全态势感知',
                 'Href': 'https://quake.360.cn/'
+            }, {
+                'Name': '奇安信鹰图平台',
+                'Title': '奇安信鹰图平台 - 网络空间安全搜索引擎，网络空间搜索引擎，网络空间测绘，安全态势感知',
+                'Href': 'https://hunter.qianxin.com/'
             }, {
                 'Name': 'Censys',
                 'Title': 'Censys',
@@ -1915,6 +1964,10 @@ var FrontGuide = {
                 'Name': '安全牛',
                 'Title': '安全牛致力于推动中国企业跨越“安全鸿沟”，促进中国网络安全产业的健康发展。',
                 'Href': 'https://www.aqniu.com/'
+            }, {
+                'Name': '升华安全佳',
+                'Title': '升华安全佳，安全看世界GoUpSec',
+                'Href': 'https://www.goupsec.com/'
             }, {
                 'Name': '游侠安全网',
                 'Title': '网络空间安全：行业资讯、技术分享、法规研讨、趋势分析',
