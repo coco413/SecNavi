@@ -44,9 +44,13 @@ var FrontGuide = {
                 'Title': '研究讨论云安全相关技术，助力所有云上用户实现全面的安全防护',
                 'Href': 'https://zone.huoxian.cn/'
             }, {
-                'Name': 'IoTSec社区',
+                'Name': 'IoTSec',
                 'Title': '物联网安全社区',
                 'Href': 'http://www.iotsec.zone/'
+            }, {
+                'Name': 'Expliot',
+                'Title': 'Expliot IOT商城',
+                'Href': 'https://store.expliot.io/'
             }, {
                 'Name': '看雪论坛',
                 'Title': '专注安全十七年',
@@ -67,6 +71,10 @@ var FrontGuide = {
                 'Name': 'Eternia论坛',
                 'Title': 'E-Whoring - Eternia - Nulled and Leak forums',
                 'Href': 'https://eternia.to/'
+            }, {
+                'Name': 'securityaffairs论坛',
+                'Title': 'securityaffairs',
+                'Href': 'http://securityaffairs.co/wordpress/'
             }, {
                 'Name': 'Blackhat论坛',
                 'Title': 'Black Hat is part of the Informa Tech Division of Informa PLC',
@@ -166,6 +174,10 @@ var FrontGuide = {
                 'Title': 'CNVD众测',
                 'Href': 'https://zc.cnvd.org.cn/',
             }, {
+                'Name': '工联众测',
+                'Title': '工联众测',
+                'Href': 'https://www.caiisec.org.cn/',
+            }, {
                 'Name': '教育行业漏洞报告平台',
                 'Title': '教育行业漏洞报告平台',
                 'Href': 'https://src.sjtu.edu.cn/'
@@ -197,6 +209,18 @@ var FrontGuide = {
                 'Title': '及时响应与收敛云上高危漏洞，为客户提供可运营的漏洞管理能力',
                 'Href': 'https://avd.aliyun.com/',
             }, {
+                'Name': 'vuldb漏洞库',
+                'Title': 'vuldb漏洞数据库',
+                'Href': 'https://vuldb.com/zh',
+            }, {
+                'Name': '华云安漏洞情报',
+                'Title': '华云安漏洞情报',
+                'Href': 'https://vti.huaun.com/intelligences',
+            }, {
+                'Name': 'security-database漏洞库',
+                'Title': 'security-database漏洞库',
+                'Href': 'https://www.security-database.com/',
+            }, {
                 'Name': '斗象科技漏洞库',
                 'Title': '斗象科技漏洞库',
                 'Href': 'https://vas.riskivy.com/vuln',
@@ -224,6 +248,18 @@ var FrontGuide = {
                 'Name': 'Vulmon漏洞库',
                 'Title': 'Vulmon漏洞库',
                 'Href': 'https://vulmon.com/',
+            }, {
+                'Name': '无胁科技漏洞情报中心',
+                'Title': '无胁科技漏洞情报中心',
+                'Href': 'https://tvd.wuthreat.com/',
+            }, {
+                'Name': '安恒漏洞情报',
+                'Title': '漏洞情报 - 安恒威胁分析平台',
+                'Href': 'https://ti.dbappsecurity.com.cn/vul',
+            }, {
+                'Name': '奇安信NOX漏洞监测',
+                'Title': '奇安信NOX漏洞监测',
+                'Href': 'https://nox.qianxin.com/KeyPoint',
             }, {
                 'Name': 'VULHUB漏洞信息库',
                 'Title': '信息安全漏洞门户 VULHUB',
@@ -814,6 +850,10 @@ var FrontGuide = {
                 'Name': '本木医疗SRC',
                 'Title': '本木医疗安全应急响应中心',
                 'Href': 'https://security.benmu-health.com/src/'
+            }, {
+                'Name': '讯飞SRC',
+                'Title': '讯飞安全应急响应中心',
+                'Href': 'https://security.iflytek.com/index.php'
             }]
         }]
     }, {
@@ -828,6 +868,10 @@ var FrontGuide = {
                 'Name': '蓝桥云课',
                 'Title': '做实验，学编程',
                 'Href': 'https://www.shiyanlou.com/'
+            }, {
+                'Name': '前锋教育',
+                'Title': '千锋教育-做有情怀、有良心、有品质的职业教育机构',
+                'Href': 'https://www.mobiletrain.org/'
             }, {
                 'Name': '慕课网',
                 'Title': '慕课网(IMOOC)-程序员的梦工厂',
@@ -996,6 +1040,10 @@ var FrontGuide = {
                 'Title': '通用管理后台系统',
                 'Href': 'https://gitee.com/penngo/chadmin'
             }, {
+                'Name': 'layui后台框架',
+                'Title': '通用管理后台系统',
+                'Href': 'https://www.layuiweb.com/'
+            }, {
                 'Name': 'Dcat-admin后台框架',
                 'Title': 'Dcat-admin后台框架',
                 'Href': 'https://github.com/jqhph/dcat-admin'
@@ -1035,6 +1083,16 @@ var FrontGuide = {
                 'Name': 'Arco UI框架',
                 'Title': 'Arco UI框架',
                 'Href': 'https://arco.design/',
+                "New": "1"
+            }, {
+                'Name': 'Semi UI框架',
+                'Title': 'Semi UI框架',
+                'Href': 'https://semi.design/zh-CN/',
+                "New": "1"
+            }, {
+                'Name': '小红书设计规范',
+                'Title': '小红书设计规范',
+                'Href': 'https://rpdc.xiaohongshu.com/52-design-principles',
                 "New": "1"
             }, {
                 'Name': 'Xena僵尸网络框架',
@@ -1183,6 +1241,11 @@ var FrontGuide = {
                 'Name': '工业图扑软件',
                 'Title': '构建先进 2D 和 3D 可视化所需要的一切',
                 'Href': 'https://hightopo.com/index.html'
+            }, {
+                'Name': '易知微可视化',
+                'Title': '数字孪生看见数字化的无限可能',
+                'Href': 'https://easyv.cloud/',
+                "New": "1"
             }, {
                 'Name': '来画动画设计',
                 'Title': '长期深耕于数字创作创意工具领域, 致力为千万用户提供高效卓越服务',
@@ -1449,6 +1512,14 @@ var FrontGuide = {
                 'Title': 'Github图标',
                 'Href': 'https://octodex.github.com/'
             }, {
+                'Name': 'GitHub指定文件下载',
+                'Title': 'GitHub指定文件下载',
+                'Href': 'http://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html'
+            }, {
+                'Name': 'GitHub国内源同步',
+                'Title': 'GitCode——开源代码托管平台，独立第三方开源社区',
+                'Href': 'https://gitcode.net/mirrors/'
+            }, {
                 'Name': '微软产品激活工具箱',
                 'Title': '微软产品激活工具箱',
                 'Href': 'https://pkeytools.azurewebsites.net/ShareKeys'
@@ -1485,13 +1556,21 @@ var FrontGuide = {
                 'Title': '12点影视',
                 'Href': 'https://www.12yingshi.com/'
             }, {
-                'Name': '努努视频',
-                'Title': '努努视频',
-                'Href': 'https://www.nunuyy1.top/dianying/'
+                'Name': '爱笑聚影音分享',
+                'Title': '爱笑聚影音分享',
+                'Href': 'https://www.axjbt.com/'
             }, {
-                'Name': '梦幻天堂视频下载',
-                'Title': '梦幻天堂视频下载',
-                'Href': 'http://www.lwgod.org/'
+                'Name': '低端影视',
+                'Title': '低端影视',
+                'Href': 'https://ddrk.me/'
+            }, {
+                'Name': '哔嘀影视',
+                'Title': '哔嘀影视',
+                'Href': 'https://www.btbdys.com/'
+            }, {
+                'Name': '极简壁纸',
+                'Title': '极简壁纸',
+                'Href': 'https://bz.zzzmh.cn/index'
             }, {
                 'Name': '今日热点',
                 'Title': '今日热点汇总',
@@ -2012,6 +2091,10 @@ var FrontGuide = {
                 'Title': '国家标准文档查询',
                 'Href': 'http://www.gov.cn/fuwu/bzxxcx/bzh.htm'
             }, {
+                'Name': '全国标准信息公共服务平台',
+                'Title': '全国标准信息公共服务平台',
+                'Href': 'http://std.samr.gov.cn/gb/gbQuery'
+            }, {
                 'Name': '信息安全国标列表',
                 'Title': '已发布信息安全国家标准列表',
                 'Href': 'https://www.tc260.org.cn/advice/list.html'
@@ -2027,6 +2110,14 @@ var FrontGuide = {
                 'Name': '信标委政策',
                 'Title': '全国信息安全标准化技术委员会',
                 'Href': 'https://www.tc260.org.cn/'
+            }, {
+                'Name': '中国招标公共服务平台',
+                'Title': '中国招标公共服务平台',
+                'Href': 'https://bulletin.cebpubservice.com/'
+            }, {
+                'Name': '网络安全政策法律综合管理平台',
+                'Title': '网络安全政策法律综合管理平台',
+                'Href': 'https://cslaw.isrdc.cn:8090/'
             }, {
                 'Name': '网信办政策',
                 'Title': '中央网信办',
