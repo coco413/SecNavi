@@ -60,13 +60,17 @@ var FrontGuide = {
                 'Title': '吾爱破解 安卓破解|病毒分析|破解软件',
                 'Href': 'http://www.52pojie.cn'
             }, {
+                'Name': '棱角安全论坛',
+                'Title': '技术是无罪的,快乐就在思考!',
+                'Href': 'https://forum.ywhack.com/index.php'
+            }, {
                 'Name': '腾讯威胁研究',
                 'Title': '集顶尖研究团队提供最实时的威胁情报',
                 'Href': 'https://v2.s.tencent.com/research/report/',
             }, {
-                'Name': 'Raidforums论坛',
+                'Name': 'Breached论坛',
                 'Title': 'RaidForums is a database sharing and marketplace forum',
-                'Href': 'https://raidforums.com/index.php'
+                'Href': 'https://breached.co'
             }, {
                 'Name': 'Eternia论坛',
                 'Title': 'E-Whoring - Eternia - Nulled and Leak forums',
@@ -1196,6 +1200,14 @@ var FrontGuide = {
                 'Name': '工业自动化专业导航',
                 'Title': '工业自动化专业导航',
                 'Href': 'https://at.stiny.cn/'
+            }, {
+                'Name': '中国改革开放全记录',
+                'Title': '中国改革开放全记录',
+                'Href': 'http://www.reformdata.org/records/1978.shtml'
+            }, {
+                'Name': '商务部对外投资合作国别指南',
+                'Title': '商务部对外投资合作国别指南',
+                'Href': 'http://fec.mofcom.gov.cn/article/gbdqzn/'
             }]
         }]
     }, {
@@ -1218,6 +1230,10 @@ var FrontGuide = {
                 'Name': '少数派',
                 'Title': '高效工作,品质生活官方',
                 'Href': 'https://sspai.com/'
+            }, {
+                'Name': 'V2EX',
+                'Title': 'V2EX 是一个关于分享和探索的地方',
+                'Href': 'https://www.v2ex.com/'
             }, {
                 'Name': '站酷',
                 'Title': '站酷 (ZCOOL) - 设计师互动平台 - 打开站酷，发现更好的设计！',
@@ -1274,6 +1290,10 @@ var FrontGuide = {
                 'Name': '造数',
                 'Title': '在线可视化工具',
                 'Href': 'https://www.zaoshu.io/'
+            }, {
+                'Name': 'Diagrams在线图表绘画',
+                'Title': 'Diagrams在线图表绘画',
+                'Href': 'https://app.diagrams.net/'
             }, {
                 'Name': '文图',
                 'Title': '文图旨在为用户打造一个可在线编辑、即时生成数据报告的工具',
@@ -1338,7 +1358,7 @@ var FrontGuide = {
             }, {
                 'Name': 'IFTTT',
                 'Title': '让复杂的事情简单化,让重复的事情自动化',
-                'Href': 'https://ifttt.com/discover'
+                'Href': 'https://ifttt.com'
             }]
         }, {
             "pageT2": "编码转换",
@@ -1444,6 +1464,10 @@ var FrontGuide = {
                 'Name': '临时邮箱(备用)',
                 'Title': '临时邮箱、临时邮、临时电子邮箱、24小时邮箱',
                 'Href': 'http://mailnesia.com/'
+            }, {
+                'Name': '临时邮箱(备用)',
+                'Title': '临时邮箱、临时邮、临时电子邮箱、24小时邮箱',
+                'Href': 'https://mail.rev1sion.net/'
             }]
         }, {
             "pageT2": "其他工具",
@@ -1495,6 +1519,10 @@ var FrontGuide = {
                 'Name': '在线EXIF查看',
                 'Title': '图虫EXIF查看器',
                 'Href': 'https://exif.cn/'
+            }, {
+                'Name': '在线文档翻译',
+                'Title': '在线文档翻译',
+                'Href': 'https://dashboard.doctranslator.com/translations/edit?locale=zh'
             }, {
                 'Name': '表情包站点',
                 'Title': '表情包站点',
@@ -1551,6 +1579,18 @@ var FrontGuide = {
                 'Name': '电影狗',
                 'Title': '电影狗 - 专业电影搜索引擎',
                 'Href': 'https://www.dianyinggou.com/'
+            }, {
+                'Name': '盘盘电影',
+                'Title': '盘盘电影',
+                'Href': 'https://t.me/s/YunPanPan?q='
+            }, {
+                'Name': '不死鸟电影分享',
+                'Title': '不死鸟电影分享',
+                'Href': 'https://iui.su/hot/'
+            }, {
+                'Name': '努努视频',
+                'Title': '努努视频',
+                'Href': 'https://www.nnyy6.top/'
             }, {
                 'Name': '12点影视',
                 'Title': '12点影视',
@@ -2237,6 +2277,18 @@ var FrontGuide = {
                 'Title': 'Rapid7',
                 'Href': 'https://www.rapid7.com/products'
             }, {
+                'Name': 'Tenable',
+                'Title': 'Tenable',
+                'Href': 'https://zh-cn.tenable.com/'
+            }, {
+                'Name': 'Legit',
+                'Title': '专注供应链安全',
+                'Href': 'https://www.legitsecurity.com/'
+            }, {
+                'Name': 'Snyk',
+                'Title': '专注Develop安全',
+                'Href': 'https://snyk.io/'
+            }, {
                 'Name': '长亭科技',
                 'Title': '专注为企业级用户提供专业的网络信息安全解决方案。',
                 'Href': 'https://www.chaitin.cn/'
@@ -2256,6 +2308,10 @@ var FrontGuide = {
                 'Name': '华顺信安',
                 'Title': '华顺信安',
                 'Href': 'http://www.huashunxinan.net/product-dcc'
+            }, {
+                'Name': '靖安科技',
+                'Title': '靖安科技',
+                'Href': 'https://weibo.com/u/2662070371'
             }, {
                 'Name': '知道创宇',
                 'Title': '知道创宇',
