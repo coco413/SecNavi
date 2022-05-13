@@ -69,7 +69,7 @@ var FrontGuide = {
                 'Href': 'https://v2.s.tencent.com/research/report/',
             }, {
                 'Name': 'Breached论坛',
-                'Title': 'RaidForums is a database sharing and marketplace forum',
+                'Title': 'Breached',
                 'Href': 'https://breached.co'
             }, {
                 'Name': 'Eternia论坛',
