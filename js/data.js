@@ -16,6 +16,10 @@ var FrontGuide = {
                 'Title': 'T00LS - 低调求发展 - 潜心习安全',
                 'Href': 'https://www.t00ls.net'
             }, {
+                'Name': '奇安信攻防社区',
+                'Title': '奇安信攻防社区',
+                'Href': 'https://forum.butian.net/'
+            }, {
                 'Name': '先知社区',
                 'Title': '安全技术社区',
                 'Href': 'https://xz.aliyun.com'
@@ -1101,8 +1105,15 @@ var FrontGuide = {
             }, {
                 'Name': 'Xena僵尸网络框架',
                 'Title': 'Xena僵尸网络框架',
-                'Href': 'https://xena.network/',
-                "New": "1"
+                'Href': 'https://xena.network/'
+            }, {
+                'Name': 'Flutter开发框架',
+                'Title': 'Flutter开发框架',
+                'Href': 'https://flutter.cn/'
+            }, {
+                'Name': 'Electron开发框架',
+                'Title': 'Electron开发框架',
+                'Href': 'https://www.electronjs.org/'
             }]
         }, {
             "pageT2": "接口调用",
@@ -1148,6 +1159,10 @@ var FrontGuide = {
                 'Name': '谷歌机器学习课程',
                 'Title': '谷歌机器学习课程',
                 'Href': 'https://developers.google.cn/machine-learning/crash-course/'
+            }, {
+                'Name': '产品经理的人工智能学习库',
+                'Title': '产品经理的人工智能学习库',
+                'Href': 'https://easyai.tech/'
             }, {
                 'Name': 'Awesome-ml-for-cybersecurity',
                 'Title': '机器学习中文资料',
@@ -1352,6 +1367,10 @@ var FrontGuide = {
                 'Title': '万物皆可RSS',
                 'Href': 'https://docs.rsshub.app/'
             }, {
+                'Name': 'Feeddd',
+                'Title': 'feeddd',
+                'Href': 'https://feeddd.org/feeds'
+            }, {
                 'Name': 'Distill',
                 'Title': '网页监控提醒',
                 'Href': 'https://distill.io/apps/web-monitor/'
@@ -1487,6 +1506,10 @@ var FrontGuide = {
                 'Name': '在线手写字体生成',
                 'Title': '在线手写字体生成',
                 'Href': 'https://saurabhdaware.github.io/text-to-handwriting/'
+            }, {
+                'Name': '在线手写字体转换',
+                'Title': '在线手写字体转换',
+                'Href': 'https://10015.io/tools/text-to-handwriting-converter'
             }, {
                 'Name': 'OCR文字识别',
                 'Title': '图片转文字在线 - 图片文字提取 - 网页OCR文字识别 - 白描网页版',
