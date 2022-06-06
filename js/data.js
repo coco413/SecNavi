@@ -1495,6 +1495,10 @@ var FrontGuide = {
                 'Title': '随机密码生成器',
                 'Href': 'http://tool.c7sky.com/password/'
             }, {
+                'Name': '微信文件传输助手网页版',
+                'Title': '微信文件传输助手网页版',
+                'Href': 'https://filehelper.weixin.qq.com/'
+            }, {
                 'Name': '网易云音乐外链',
                 'Title': '网易云音乐外链',
                 'Href': 'http://music.163.com/song/media/outer/url?id=281951.mp3'
@@ -1908,6 +1912,10 @@ var FrontGuide = {
                 'Title': 'Censys',
                 'Href': 'https://www.censys.io/'
             }, {
+                'Name': 'Greynoise',
+                'Title': 'Greynoise',
+                'Href': 'https://viz.greynoise.io/'
+            }, {
                 'Name': 'DnsDB',
                 'Title': 'DnsDB－全球最大的DNS查询数据库',
                 'Href': 'https://dnsdb.io/zh-cn/'
@@ -2081,6 +2089,10 @@ var FrontGuide = {
                 'Title': '微步在线云沙箱',
                 'Href': 'https://s.threatbook.cn/'
             }, {
+                'Name': '阿里云在线恶意文件检测',
+                'Title': '阿里云在线恶意文件检测',
+                'Href': 'https://ti.aliyun.com/#/binary'
+            }, {
                 'Name': '在线Webshell检测',
                 'Title': '下一代WebShell检测引擎',
                 'Href': 'http://scanner.baidu.com/#/pages/intro'
@@ -2088,6 +2100,10 @@ var FrontGuide = {
                 'Name': '在线PCAP分析',
                 'Title': 'packettotal',
                 'Href': 'https://www.packettotal.com/'
+            }, {
+                'Name': '在线攻击面管理',
+                'Title': 'ASM攻击面管理',
+                'Href': 'https://0.zone/'
             }]
         }]
     }, {
