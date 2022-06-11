@@ -138,6 +138,10 @@ var FrontGuide = {
                 'Title': '与其听信谣言,不如相信乌云',
                 'Href': 'http://wooyun.2xss.cc/bugs.php'
             }, {
+                'Name': '乌云漏洞平台(备用)',
+                'Title': '与其听信谣言,不如相信乌云',
+                'Href': 'https://wy.zone.ci/'
+            }, {
                 'Name': '补天',
                 'Title': '补天-漏洞报告平台',
                 'Href': 'https://www.butian.net/'
@@ -1103,6 +1107,11 @@ var FrontGuide = {
                 'Href': 'https://rpdc.xiaohongshu.com/52-design-principles',
                 "New": "1"
             }, {
+                'Name': '蚂蚁设计规范',
+                'Title': '蚂蚁设计规范',
+                'Href': 'https://2x.ant.design/docs/spec/alignment-cn',
+                "New": "1"
+            }, {
                 'Name': 'Xena僵尸网络框架',
                 'Title': 'Xena僵尸网络框架',
                 'Href': 'https://xena.network/'
@@ -1454,11 +1463,19 @@ var FrontGuide = {
             }, {
                 'Name': '匿名短信(备用)',
                 'Title': '在线接收短信验证码',
-                'Href': 'http://www.xnsms.com/'
+                'Href': 'https://www.storytrain.info/'
+            }, {
+                'Name': '匿名短信(备用)',
+                'Title': '在线接收短信验证码',
+                'Href': 'https://zh.mytrashmobile.com/'
             }, {
                 'Name': 'TempoMail临时邮箱',
                 'Title': '临时邮箱、临时邮、临时电子邮箱、24小时邮箱',
                 'Href': 'https://www.tempo-mail.com'
+            }, {
+                'Name': 'moakt临时邮箱',
+                'Title': '临时邮箱、临时邮、临时电子邮箱、24小时邮箱',
+                'Href': 'https://moakt.com/zh'
             }, {
                 'Name': 'Tmpmail临时邮箱',
                 'Title': '临时邮箱、临时邮、临时电子邮箱、24小时邮箱',
@@ -1487,6 +1504,10 @@ var FrontGuide = {
                 'Name': '临时邮箱(备用)',
                 'Title': '临时邮箱、临时邮、临时电子邮箱、24小时邮箱',
                 'Href': 'https://mail.rev1sion.net/'
+            }, {
+                'Name': '临时教育邮箱(备用)',
+                'Title': '临时教育邮箱、临时邮、临时电子邮箱、24小时邮箱',
+                'Href': 'https://mail.mjj.edu.ge/'
             }]
         }, {
             "pageT2": "其他工具",
@@ -1550,6 +1571,10 @@ var FrontGuide = {
                 'Name': '在线文档翻译',
                 'Title': '在线文档翻译',
                 'Href': 'https://dashboard.doctranslator.com/translations/edit?locale=zh'
+            }, {
+                'Name': 'DeepL文档翻译',
+                'Title': 'DeepL文档翻译',
+                'Href': 'https://www.deepl.com/zh/pro/select-country#team'
             }, {
                 'Name': '表情包站点',
                 'Title': '表情包站点',
@@ -1839,6 +1864,14 @@ var FrontGuide = {
                 'Name': '微步情报',
                 'Title': '微步在线威胁情报分析平台',
                 'Href': 'https://x.threatbook.cn/'
+            }, {
+                'Name': '微博图片溯源',
+                'Title': '微博图片溯源',
+                'Href': 'https://nav.cnsrc.org.cn/tools/weibo/'
+            }, {
+                'Name': '微信ID转二维码',
+                'Title': '微信ID转二维码',
+                'Href': 'https://nav.cnsrc.org.cn/tools/wxidtoqrcode/'
             }, {
                 'Name': 'startme情报',
                 'Title': 'startme osint情报',
@@ -2319,6 +2352,10 @@ var FrontGuide = {
                 'Name': 'Tenable',
                 'Title': 'Tenable',
                 'Href': 'https://zh-cn.tenable.com/'
+            }, {
+                'Name': 'RiskIQ',
+                'Title': 'RiskIQ',
+                'Href': 'https://www.riskiq.com/'
             }, {
                 'Name': 'Legit',
                 'Title': '专注供应链安全',
