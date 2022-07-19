@@ -1434,6 +1434,10 @@ var FrontGuide = {
                 'Title': 'socketpro代理',
                 'Href': 'https://www.socketpro.site/zh/order/new'
             }, {
+                'Name': 'tly70代理',
+                'Title': 'tly70代理',
+                'Href': 'https://tly70.com/modules/index.php'
+            }, {
                 'Name': '超人打码',
                 'Title': '超人打码',
                 'Href': 'http://www.chaorendama.com/'
@@ -1688,6 +1692,10 @@ var FrontGuide = {
                 'Title': '云盘资源网是完全免费的云盘资源分享平台！我们为所有百度网盘、阿里云盘、360云盘、微云、坚果云等所有云盘用户提供服务！您可以自由分享和获取各类云盘网盘资源',
                 'Href': 'https://www.yunpanziyuan.com/'
             }, {
+                'Name': 'gofile网盘',
+                'Title': 'gofile网盘',
+                'Href': 'https://gofile.io/welcome'
+            }, {
                 'Name': '在线工具箱',
                 'Title': '在线工具箱',
                 'Href': 'http://ctf.ssleye.com'
@@ -1917,6 +1925,14 @@ var FrontGuide = {
                 'Name': '听风者情报源',
                 'Title': '听风者情报源',
                 'Href': 'https://start.me/p/X20Apn'
+            }, {
+                'Name': 'darktracer',
+                'Title': 'darktracer',
+                'Href': 'https://darktracer.com/'
+            }, {
+                'Name': '百度指数',
+                'Title': '百度指数',
+                'Href': 'https://index.baidu.com/v2/index.html#/'
             }]
         }, {
             "pageT2": "空间搜索",
@@ -1944,6 +1960,10 @@ var FrontGuide = {
                 'Name': 'Censys',
                 'Title': 'Censys',
                 'Href': 'https://www.censys.io/'
+            }, {
+                'Name': 'Leakix',
+                'Title': 'Leakix',
+                'Href': 'https://leakix.net/'
             }, {
                 'Name': 'Greynoise',
                 'Title': 'Greynoise',
@@ -2341,6 +2361,10 @@ var FrontGuide = {
                 'Title': 'Crowdstrike',
                 'Href': 'https://www.mcafee.com/enterprise/zh-cn/products/a-z.html'
             }, {
+                'Name': 'Solarwinds',
+                'Title': 'Solarwinds',
+                'Href': 'https://www.solarwinds.com/'
+            }, {
                 'Name': 'Palo Alto',
                 'Title': 'Palo Alto',
                 'Href': 'https://www.paloaltonetworks.cn/network-security'
@@ -2356,6 +2380,18 @@ var FrontGuide = {
                 'Name': 'RiskIQ',
                 'Title': 'RiskIQ',
                 'Href': 'https://www.riskiq.com/'
+            }, {
+                'Name': 'Splunk',
+                'Title': 'Splunk',
+                'Href': 'https://www.splunk.com/zh_cn/'
+            }, {
+                'Name': 'Checkpoint',
+                'Title': 'Checkpoint',
+                'Href': 'https://www.checkpoint.com/infinity-vision/infinity-soc/'
+            }, {
+                'Name': 'Fortinet',
+                'Title': 'Fortinet',
+                'Href': 'https://www.fortinet.com/'
             }, {
                 'Name': 'Legit',
                 'Title': '专注供应链安全',
