@@ -1278,6 +1278,10 @@ var FrontGuide = {
                 'Title': 'icones矢量图库',
                 'Href': 'https://icones.js.org/'
             }, {
+                'Name': 'Mastergo资源库',
+                'Title': '海量资源为你的创意工作注入活力',
+                'Href': 'https://mastergo.com/community/'
+            }, {
                 'Name': '工业图扑软件',
                 'Title': '构建先进 2D 和 3D 可视化所需要的一切',
                 'Href': 'https://hightopo.com/index.html'
@@ -2157,6 +2161,10 @@ var FrontGuide = {
                 'Name': '在线攻击面管理',
                 'Title': 'ASM攻击面管理',
                 'Href': 'https://0.zone/'
+            }, {
+                'Name': 'FOFAHUB在线攻击面管理',
+                'Title': 'ASM攻击面管理',
+                'Href': 'https://hub.fofa.info/'
             }]
         }]
     }, {
@@ -2400,6 +2408,14 @@ var FrontGuide = {
                 'Name': 'Snyk',
                 'Title': '专注Develop安全',
                 'Href': 'https://snyk.io/'
+            }, {
+                'Name': 'Dragos',
+                'Title': '专注工控安全',
+                'Href': 'https://www.dragos.com/'
+            }, {
+                'Name': 'Cycognito',
+                'Title': '专注ASM安全',
+                'Href': 'https://www.cycognito.com/'
             }, {
                 'Name': '长亭科技',
                 'Title': '专注为企业级用户提供专业的网络信息安全解决方案。',
