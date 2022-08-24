@@ -1303,6 +1303,10 @@ var FrontGuide = {
                 'Title': '一个基于 JavaScript 的开源可视化图表库',
                 'Href': 'https://echarts.apache.org/zh/index.html'
             }, {
+                'Name': '蚂蚁G6 图可视化引擎',
+                'Title': 'G6 是一个简单、易用、完备的图可视化引擎',
+                'Href': 'https://g6.antv.vision/zh/examples/'
+            }, {
                 'Name': '秀米',
                 'Title': 'H5制作及图文排版在线工具',
                 'Href': 'https://xiumi.us/'
