@@ -105,7 +105,7 @@ var FrontGuide = {
             }, {
                 'Name': 'Sec-News',
                 'Title': '安全文摘',
-                'Href': 'http://wiki.ioin.in/'
+                'Href': 'https://govuln.com/news/'
             }, {
                 'Name': 'SecWiki',
                 'Title': '安全维基',
@@ -1102,6 +1102,11 @@ var FrontGuide = {
                 'Href': 'https://semi.design/zh-CN/',
                 "New": "1"
             }, {
+                'Name': 'UDCDesign UI框架',
+                'Title': 'UDCDesign UI框架',
+                'Href': 'https://findesign.jd.com/#/home',
+                "New": "1"
+            }, {
                 'Name': '小红书设计规范',
                 'Title': '小红书设计规范',
                 'Href': 'https://rpdc.xiaohongshu.com/52-design-principles',
@@ -1684,6 +1689,10 @@ var FrontGuide = {
                 'Title': '全历史',
                 'Href': 'https://www.allhistory.com'
             }, {
+                'Name': 'OSLAW导航站',
+                'Title': '法规文献一站导航',
+                'Href': 'http://www.oslaw.net/'
+            }, {
                 'Name': '云网盘之家搜索',
                 'Title': '百度云盘资源搜索下载',
                 'Href': 'http://wowenda.com/'
@@ -2238,6 +2247,10 @@ var FrontGuide = {
                 'Name': '全国标准信息公共服务平台',
                 'Title': '全国标准信息公共服务平台',
                 'Href': 'http://std.samr.gov.cn/gb/gbQuery'
+            }, {
+                'Name': '国家标准全文公开系统',
+                'Title': '国家标准全文公开系统',
+                'Href': 'https://openstd.samr.gov.cn/bzgk/gb/'
             }, {
                 'Name': '信息安全国标列表',
                 'Title': '已发布信息安全国家标准列表',
