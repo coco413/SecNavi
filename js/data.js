@@ -1107,6 +1107,11 @@ var FrontGuide = {
                 'Href': 'https://findesign.jd.com/#/home',
                 "New": "1"
             }, {
+                'Name': 'Gin-vue UI框架',
+                'Title': 'Gin-vue UI框架',
+                'Href': 'https://demo.gin-vue-admin.com/#/layout/dashboard',
+                "New": "1"
+            }, {
                 'Name': '小红书设计规范',
                 'Title': '小红书设计规范',
                 'Href': 'https://rpdc.xiaohongshu.com/52-design-principles',
