@@ -1276,7 +1276,11 @@ var FrontGuide = {
                 'Name': '优设网',
                 'Title': '优设网 - UISDC - 设计师交流学习平台 - 看设计文章，学软件教程，找灵感素材，尽在优设网！',
                 'Href': 'https://www.uisdc.com/'
-            }, ]
+            }, {
+                'Name': '搞定设计',
+                'Title': '稿定设计-做图做视频必备_在线设计神器_海量版权素材模板',
+                'Href': 'https://www.gaoding.com/'
+            },]
         }, {
             "pageT2": "设计素材",
             "pageC2": [{
@@ -2175,6 +2179,10 @@ var FrontGuide = {
                 'Name': '在线PCAP分析',
                 'Title': 'packettotal',
                 'Href': 'https://www.packettotal.com/'
+            }, {
+                'Name': '在线PCAP分析',
+                'Title': 'cloudshark',
+                'Href': 'https://www.cloudshark.org/analysis/56802b91286a/ladder?filter=udp.stream%20eq%201'
             }, {
                 'Name': '在线攻击面管理',
                 'Title': 'ASM攻击面管理',
