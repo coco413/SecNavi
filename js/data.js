@@ -233,6 +233,14 @@ var FrontGuide = {
                 'Title': 'security-database漏洞库',
                 'Href': 'https://www.security-database.com/',
             }, {
+                'Name': 'Tenable插件漏洞库',
+                'Title': 'Tenable插件漏洞库',
+                'Href': 'https://zh-cn.tenable.com/plugins/updated',
+            }, {
+                'Name': '谷歌OSV漏洞库',
+                'Title': 'A distributed vulnerability database for Open Source',
+                'Href': 'https://osv.dev/list',
+            }, {
                 'Name': '斗象科技漏洞库',
                 'Title': '斗象科技漏洞库',
                 'Href': 'https://vas.riskivy.com/vuln',
@@ -1230,6 +1238,10 @@ var FrontGuide = {
                 'Name': '尝鲜派IOS下载',
                 'Title': '尝鲜派Apple系列更新',
                 'Href': 'https://ibeta.me/'
+            }, {
+                'Name': 'Docker 极速下载镜像',
+                'Title': 'Docker 极速下载镜像',
+                'Href': 'https://get.daocloud.io/'
             }, {
                 'Name': '工业自动化专业导航',
                 'Title': '工业自动化专业导航',
