@@ -293,6 +293,10 @@ var FrontGuide = {
                 'Title': '国家信息安全漏洞共享平台',
                 'Href': 'http://www.cnvd.org.cn/'
             }, {
+                'Name': 'OSCS漏洞情报库',
+                'Title': '让每一个开源项目更安全',
+                'Href': 'https://www.oscs1024.com/cm'
+            }, {
                 'Name': 'NVDB漏洞信息库',
                 'Title': '网络安全威胁和漏洞信息共享平台',
                 'Href': 'https://www.nvdb.org.cn/index/'
@@ -1254,6 +1258,10 @@ var FrontGuide = {
                 'Name': '商务部对外投资合作国别指南',
                 'Title': '商务部对外投资合作国别指南',
                 'Href': 'http://fec.mofcom.gov.cn/article/gbdqzn/'
+            }, {
+                'Name': 'DayBreak',
+                'Title': '快速、灵活地验证企业安全策略的有效性',
+                'Href': 'https://daybreak.tophant.com/home'
             }]
         }]
     }, {
