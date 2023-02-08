@@ -269,6 +269,14 @@ var FrontGuide = {
                 'Title': 'Vulmon漏洞库',
                 'Href': 'https://vulmon.com/',
             }, {
+                'Name': 'OSCS漏洞库',
+                'Title': 'OSCS社区致力于让每一个开源项目更安全',
+                'Href': 'https://www.oscs1024.com/hl',
+            }, {
+                'Name': 'Sploitus漏洞库',
+                'Title': 'Sploitus is a convenient central place for identifying the newest exploits and finding attacks that exploit known vulnerabilities. The search engine is also a good resource for finding security and vulnerability discovery tools.',
+                'Href': 'https://sploitus.com/',
+            }, {
                 'Name': '无胁科技漏洞情报中心',
                 'Title': '无胁科技漏洞情报中心',
                 'Href': 'https://tvd.wuthreat.com/',
@@ -1341,6 +1349,10 @@ var FrontGuide = {
                 'Title': 'G6 是一个简单、易用、完备的图可视化引擎',
                 'Href': 'https://g6.antv.vision/zh/examples/'
             }, {
+                'Name': '蚂蚁X6 图编辑引擎',
+                'Title': 'X6 是基于 HTML 和 SVG 的图编辑引擎，提供低成本的定制能力和开箱即用的内置扩展，方便我们快速搭建 DAG 图、ER 图、流程图、血缘图等应用。',
+                'Href': 'https://x6.antv.antgroup.com/'
+            }, {
                 'Name': '秀米',
                 'Title': 'H5制作及图文排版在线工具',
                 'Href': 'https://xiumi.us/'
@@ -1741,6 +1753,10 @@ var FrontGuide = {
                 'Name': 'gofile网盘',
                 'Title': 'gofile网盘',
                 'Href': 'https://gofile.io/welcome'
+            }, {
+                'Name': '在线扒站',
+                'Title': '一键将指定网页的HTML、CSS、JS等前端资源打包下载',
+                'Href': 'https://bazhan.wang/'
             }, {
                 'Name': '在线工具箱',
                 'Title': '在线工具箱',
@@ -2211,6 +2227,10 @@ var FrontGuide = {
                 'Name': 'FOFAHUB在线攻击面管理',
                 'Title': 'ASM攻击面管理',
                 'Href': 'https://hub.fofa.info/'
+            }, {
+                'Name': 'Fullhunt在线攻击面管理',
+                'Title': 'ASM攻击面管理',
+                'Href': 'https://fullhunt.io/'
             }]
         }]
     }, {
@@ -2467,6 +2487,14 @@ var FrontGuide = {
                 'Title': '专注ASM安全',
                 'Href': 'https://www.cycognito.com/'
             }, {
+                'Name': 'qacafe',
+                'Title': 'Creating a better connected world',
+                'Href': 'https://www.qacafe.com/analysis-tools/cloudshark/advanced-analysis-tools/http-requests/'
+            }, {
+                'Name': '科明大同',
+                'Title': '国外IT供应商的中国区独家总代理，港企深耕内地市场10余年，具备针对性的工控安全、存储备份、网络安全整合解决方案。',
+                'Href': 'https://www.cyberworld.com.cn/'
+            }, {
                 'Name': '长亭科技',
                 'Title': '专注为企业级用户提供专业的网络信息安全解决方案。',
                 'Href': 'https://www.chaitin.cn/'
@@ -2494,6 +2522,10 @@ var FrontGuide = {
                 'Name': '知道创宇',
                 'Title': '知道创宇',
                 'Href': 'https://www.yunaq.com/'
+            }, {
+                'Name': '网藤科技',
+                'Title': '专注“工业互联网+安全”整体解决方案提供商',
+                'Href': 'https://www.inetvine.com/'
             }, {
                 'Name': '青藤云安全',
                 'Title': '青藤云安全',
