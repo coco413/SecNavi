@@ -126,6 +126,26 @@ var FrontGuide = {
                 'Name': '白阁文库',
                 'Title': '白阁文库是白泽Sec团队维护的一个漏洞POC和EXP披露以及漏洞复现的开源项目，欢迎各位表哥访问白阁文库并提出宝贵建议。',
                 'Href': 'https://wiki.bylibrary.cn/'
+            }, {
+                'Name': '狼组知识库',
+                'Title': '致力于打造信息安全乌托邦',
+                'Href': 'https://wiki.wgpsec.org/'
+            }, {
+                'Name': 'PeiQi文库',
+                'Title': '面向网络安全从业者的知识文库',
+                'Href': 'https://wiki.bylibrary.cn/'
+            }, {
+                'Name': 'iredteam文库',
+                'Title': 'iredteam文库',
+                'Href': 'https://wiki.iredteam.cn/'
+            }, {
+                'Name': '云安全知识库',
+                'Title': '由火线安全构建，致力于云安全知识分享',
+                'Href': 'https://cloudsec.huoxian.cn/docs/articles'
+            }, {
+                'Name': 'T Wiki云安全知识库',
+                'Title': '面向云安全方向的知识文库',
+                'Href': 'https://wiki.teamssix.com/'
             }]
         }, {
             "pageT2": "漏洞平台",
@@ -352,6 +372,10 @@ var FrontGuide = {
                 'Name': 'Exphub ICS工业安全漏洞信息库',
                 'Title': 'Exphub - ICS安全情报',
                 'Href': 'http://www.exphub.org/'
+            }, {
+                'Name': 'Cloudvulndb漏洞信息库',
+                'Title': 'An open project to list all known cloud vulnerabilities and CSP security issues',
+                'Href': 'https://www.cloudvulndb.org/'
             }]
         }, {
             "pageT2": "应急响应",
@@ -933,6 +957,10 @@ var FrontGuide = {
                 'Title': '鱼C工作室致力于完全免费编程视频教学',
                 'Href': 'http://bbs.fishc.com/forum.php'
             }, {
+                'Name': '考试宝',
+                'Title': '免费刷题学习平台',
+                'Href': 'https://www.kaoshibao.com/'
+            }, {
                 'Name': '51CTO学院',
                 'Title': '为梦想增值',
                 'Href': 'http://edu.51cto.com/'
@@ -1308,6 +1336,10 @@ var FrontGuide = {
                 'Name': '搞定设计',
                 'Title': '稿定设计-做图做视频必备_在线设计神器_海量版权素材模板',
                 'Href': 'https://www.gaoding.com/'
+            }, {
+                'Name': 'MasterGo',
+                'Title': 'MasterGo',
+                'Href': 'https://mastergo.com/'
             },]
         }, {
             "pageT2": "设计素材",
@@ -1369,6 +1401,10 @@ var FrontGuide = {
                 'Title': '在线可视化工具',
                 'Href': 'https://www.zaoshu.io/'
             }, {
+                'Name': '积木报表',
+                'Title': '打造 “简单 | 专业 | 智能” 的数据可视化工具，报表与大屏设计',
+                'Href': 'http://jimureport.com/'
+            }, {
                 'Name': 'Diagrams在线图表绘画',
                 'Title': 'Diagrams在线图表绘画',
                 'Href': 'https://app.diagrams.net/'
@@ -1388,6 +1424,18 @@ var FrontGuide = {
                 'Name': '稻壳儿PPT模板',
                 'Title': 'WPS模板内容服务平台',
                 'Href': 'https://www.docer.com/'
+            }, {
+                'Name': '专利顾如',
+                'Title': '专利搜索',
+                'Href': 'https://www.patentguru.com/cn/search?q='
+            }, {
+                'Name': 'FineBI数据分析',
+                'Title': 'FineBI数据分析',
+                'Href': 'https://www.finebi.com/'
+            }, {
+                'Name': '专利顾如',
+                'Title': '专利搜索',
+                'Href': 'https://www.patentguru.com/cn/search?q='
             }]
         }, {
             "pageT2": "协作平台",
@@ -1411,7 +1459,30 @@ var FrontGuide = {
         }]
     }, {
         "pageT1": "实用工具",
-        "pageC1": [{
+        "pageC1": [
+        {
+            "pageT2": "AI工具",
+            "pageC2": [{
+                'Name': 'Midjourney AI画图',
+                'Title': 'Midjourney',
+                'Href': 'https://www.midjourneyai.ai/zh-CN'
+            }, {
+                'Name': 'ChatGPT角色切换版',
+                'Title': 'ChatGPT角色切换版',
+                'Href': 'http://hhgo.huhuwang.cn/'
+            }]
+        }, {
+            "pageT2": "内容运营",
+            "pageC2": [{
+                'Name': '芦笋录屏',
+                'Title': '极简视频录制工具，同时录制人像和屏幕，美颜、虚拟头像等让视频信息更生动。',
+                'Href': 'https://lusun.com/'
+            }, {
+                'Name': '芦笋提词器',
+                'Title': '一款支持智能跟读、隐形提词的应用；告别忘词，一镜到底',
+                'Href': 'https://tcq.lusun.com/'
+            }]    
+        }, {
             "pageT2": "效率工具",
             "pageC2": [{
                 'Name': 'Things3',
@@ -1441,7 +1512,7 @@ var FrontGuide = {
                 'Name': 'IFTTT',
                 'Title': '让复杂的事情简单化,让重复的事情自动化',
                 'Href': 'https://ifttt.com'
-            }]
+            }]    
         }, {
             "pageT2": "编码转换",
             "pageC2": [{
@@ -1472,7 +1543,7 @@ var FrontGuide = {
                 'Name': '摩斯密码',
                 'Title': 'morse电码',
                 'Href': 'http://tool.lu/morse/'
-            }]
+            }]    
         }, {
             "pageT2": "代理打码",
             "pageC2": [{
@@ -1488,9 +1559,9 @@ var FrontGuide = {
                 'Title': 'socketpro代理',
                 'Href': 'https://www.socketpro.site/zh/order/new'
             }, {
-                'Name': 'tly70代理',
-                'Title': 'tly70代理',
-                'Href': 'https://tly70.com/modules/index.php'
+                'Name': 'tly12代理',
+                'Title': 'tly12代理',
+                'Href': 'https://www.tly12.com/modules/index.php'
             }, {
                 'Name': '超人打码',
                 'Title': '超人打码',
@@ -1570,10 +1641,6 @@ var FrontGuide = {
         }, {
             "pageT2": "其他工具",
             "pageC2": [{
-                'Name': '随机密码生成器',
-                'Title': '随机密码生成器',
-                'Href': 'http://tool.c7sky.com/password/'
-            }, {
                 'Name': '微信文件传输助手网页版',
                 'Title': '微信文件传输助手网页版',
                 'Href': 'https://filehelper.weixin.qq.com/'
@@ -1758,6 +1825,10 @@ var FrontGuide = {
                 'Title': '一键将指定网页的HTML、CSS、JS等前端资源打包下载',
                 'Href': 'https://bazhan.wang/'
             }, {
+                'Name': '共享苹果美区ID',
+                'Title': '共享苹果美区ID',
+                'Href': 'https://jc.zbjs888.com/doc/460/'
+            }, {
                 'Name': '在线工具箱',
                 'Title': '在线工具箱',
                 'Href': 'http://ctf.ssleye.com'
@@ -1773,6 +1844,14 @@ var FrontGuide = {
                 'Name': '在线工具箱(备用)',
                 'Title': '在线工具箱',
                 'Href': 'https://www.daohangtx.com/html/tools.html'
+            }, {
+                'Name': '腾讯帮小忙在线工具箱',
+                'Title': '腾讯帮小忙在线工具箱',
+                'Href': 'https://tool.browser.qq.com/'
+            }, {
+                'Name': 'MikuTools在线工具箱',
+                'Title': 'MikuTools在线工具箱',
+                'Href': 'https://tools.miku.ac/'
             }]
         }]
     }, {
@@ -2262,9 +2341,17 @@ var FrontGuide = {
                 'Title': '美国网络安全市场调研公司',
                 'Href': 'https://www.gartner.com/cn'
             }, {
-                'Name': 'Gartner咨询',
-                'Title': '全球最具权威的IT研究与顾问咨询公司',
-                'Href': 'https://cybersecurityventures.com/'
+                'Name': 'Gartner产品能力分析',
+                'Title': 'Gartner产品能力分析',
+                'Href': 'https://www.gartner.com/reviews/markets'
+            }, {
+                'Name': 'Roi4cio产品能力分析',
+                'Title': 'Roi4cio产品能力分析',
+                'Href': 'https://roi4cio.com/catalog/en/products?categories=895'
+            }, {
+                'Name': 'sysin产品能力分析',
+                'Title': '山河自古英雄据，落叶声中，鸿雁尽飞去。',
+                'Href': 'https://sysin.org/blog/cortex-xsoar-6/'
             }, {
                 'Name': '赛迪顾问',
                 'Title': '赛迪顾问-思维创造世界',
@@ -2371,6 +2458,14 @@ var FrontGuide = {
                 'Name': '0x557团队',
                 'Title': '0x557 Team',
                 'Href': 'https://www.0x557.org/'
+            }, {
+                'Name': '取证杂谈',
+                'Title': '取证杂谈',
+                'Href': 'https://www.hustrong.com/'
+            }, {
+                'Name': 'LJY Blog',
+                'Title': 'LJY Blog',
+                'Href': 'https://ddzipp.github.io/'
             }]
         }, {
             "pageT2": "安全厂商",
@@ -2394,6 +2489,10 @@ var FrontGuide = {
                 'Name': '厂商全景图(FreeBuf)',
                 'Title': '厂商全景图(FreeBuf)',
                 'Href': 'https://product.freebuf.com/index'
+            }, {
+                'Name': '厂商全景图(升华安全佳)',
+                'Title': '厂商全景图(升华安全佳)',
+                'Href': 'https://www.goupsec.com/news/10729.html'
             }, {
                 'Name': '中国网络安全百强(数世咨询)',
                 'Title': '中国网络安全百强(数世咨询)',
@@ -2426,6 +2525,10 @@ var FrontGuide = {
                 'Name': '百度云安全',
                 'Title': '百度云安全',
                 'Href': 'https://cloud.baidu.com/'
+            }, {
+                'Name': 'Microsoft安全',
+                'Title': 'Microsoft安全',
+                'Href': 'https://www.microsoft.com/zh-cn/security'
             }, {
                 'Name': 'McAfee迈克菲',
                 'Title': 'McAfee迈克菲',
@@ -2487,13 +2590,13 @@ var FrontGuide = {
                 'Title': '专注ASM安全',
                 'Href': 'https://www.cycognito.com/'
             }, {
+                'Name': 'Peris',
+                'Title': 'We are no longer securing computers, we are securing society.',
+                'Href': 'https://www.peris.ai/'
+            }, {
                 'Name': 'qacafe',
                 'Title': 'Creating a better connected world',
                 'Href': 'https://www.qacafe.com/analysis-tools/cloudshark/advanced-analysis-tools/http-requests/'
-            }, {
-                'Name': '科明大同',
-                'Title': '国外IT供应商的中国区独家总代理，港企深耕内地市场10余年，具备针对性的工控安全、存储备份、网络安全整合解决方案。',
-                'Href': 'https://www.cyberworld.com.cn/'
             }, {
                 'Name': '长亭科技',
                 'Title': '专注为企业级用户提供专业的网络信息安全解决方案。',
@@ -2530,6 +2633,10 @@ var FrontGuide = {
                 'Name': '青藤云安全',
                 'Title': '青藤云安全',
                 'Href': 'https://www.qingteng.cn/'
+            }, {
+                'Name': '悬镜',
+                'Title': '悬镜',
+                'Href': 'https://www.xmirror.cn/'
             }]
         }]
     }]
