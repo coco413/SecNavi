@@ -1219,6 +1219,10 @@ var FrontGuide = {
                 'Name': '程序员客栈',
                 'Title': '程序员兼职,程序员私活,程序员接单平台-程序员客栈',
                 'Href': 'https://www.proginn.com/cat/'
+            }, {
+                'Name': '不上班研究所',
+                'Title': '不上班研究所 - 自由职业者交流学习成长平台_T站',
+                'Href': 'https://www.toocool.cc/'
             }]
         }, {
             "pageT2": "资源文献",
@@ -1295,9 +1299,13 @@ var FrontGuide = {
                 'Title': '商务部对外投资合作国别指南',
                 'Href': 'http://fec.mofcom.gov.cn/article/gbdqzn/'
             }, {
-                'Name': 'DayBreak',
-                'Title': '快速、灵活地验证企业安全策略的有效性',
-                'Href': 'https://daybreak.tophant.com/home'
+                'Name': '书栈网',
+                'Title': '书栈网 · BookStack_程序员IT互联网开源编程书籍免费阅读，助您【码】力十足！',
+                'Href': 'https://www.bookstack.cn/'
+            }, {
+                'Name': 'The Algorithms开源算法库',
+                'Title': 'GitHub最大的开源算法库',
+                'Href': 'https://the-algorithms.com/zh_Hans'
             }]
         }]
     }, {
