@@ -2082,6 +2082,10 @@ var FrontGuide = {
                 'Name': '百度指数',
                 'Title': '百度指数',
                 'Href': 'https://index.baidu.com/v2/index.html#/'
+            }, {
+                'Name': 'GoogleTrends',
+                'Title': '谷歌趋势',
+                'Href': 'https://trends.google.com/trends/'
             }]
         }, {
             "pageT2": "空间搜索",
@@ -2145,6 +2149,34 @@ var FrontGuide = {
                 'Name': '百度图片搜索',
                 'Title': '百度图片搜索',
                 'Href': 'http://image.baidu.com/?fr=shitu'
+            }, {
+                'Name': 'QingStor云存储对象',
+                'Title': 'QingStor云存储对象',
+                'Href': 'https://www.google.com/search?q=site%3Aqingstor.com'
+            }, {
+                'Name': '华为云存储对象',
+                'Title': '华为云存储对象',
+                'Href': 'https://www.google.com/search?q=site%3Amyhuaweicloud.com+OR+site%3Ahuaweicloud.com+filetype%3Apdf'
+            }, {
+                'Name': '腾讯云存储对象',
+                'Title': '腾讯云存储对象',
+                'Href': 'https://www.google.com/search?q=site%3Amyqcloud.com+%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C+filetype%3Apdf'
+            }, {
+                'Name': '阿里云存储对象',
+                'Title': '阿里云存储对象',
+                'Href': 'https://www.google.com/search?q=site%3Aaliyuncs.com+%E6%94%BB%E5%87%BB%E6%A8%A1%E6%8B%9F++filetype%3Apdf'
+            }, {
+                'Name': '亚马逊云存储对象',
+                'Title': '亚马逊云存储对象',
+                'Href': 'https://www.google.com/search?q=site%3Aamazonaws.com+OR+site%3Aamazon.com+filetype%3Apdf'
+            }, {
+                'Name': 'Google云存储对象',
+                'Title': 'Google云存储对象',
+                'Href': 'https://www.google.com/search?q=site%3Agoogleapis.com'
+            }, {
+                'Name': '微软云存储对象',
+                'Title': '微软云存储对象',
+                'Href': 'https://www.google.com/search?q=site%3Amicrosoft.com+OR+site%3Awindows.net+filetype%3Apdf'
             }]
         }, {
             "pageT2": "威胁情报",
@@ -2211,6 +2243,10 @@ var FrontGuide = {
                 'Name': 'DNSlog',
                 'Title': 'DNSlog',
                 'Href': 'http://www.dnslog.cn/'
+            }, {
+                'Name': 'DNSlog',
+                'Title': 'DNSlog',
+                'Href': 'http://dnslog.pw/login'
             }, {
                 'Name': 'Xip io网',
                 'Title': 'Xip io网',
@@ -2323,55 +2359,62 @@ var FrontGuide = {
     }, {
         "pageT1": "行业厂商",
         "pageC1": [{
-            "pageT2": "趋势研究",
+            "pageT2": "行业全景图",
+            "pageC2": [{
+                'Name': '安全行业全景图(安全牛)',
+                'Title': '安全行业全景图(安全牛)',
+                'Href': 'https://all.aqniu.com/'
+            }, {
+                'Name': '安全行业全景图(数说安全)',
+                'Title': '安全行业全景图(数说安全)',
+                'Href': 'http://www.csreviews.cn/?p=1907'
+            }, {
+                'Name': '安全行业全景图(数世咨询)',
+                'Title': '安全行业全景图(数世咨询)',
+                'Href': 'https://www.dwcon.cn/post/3333'
+            }, {
+                'Name': '安全行业全景图(嘶吼)',
+                'Title': '安全行业全景图(嘶吼)',
+                'Href': 'https://www.4hou.com/atlas/index'
+            }, {
+                'Name': '安全行业全景图(Freebuf)',
+                'Title': '安全行业全景图(Freebuf)',
+                'Href': 'https://product.freebuf.com/index'
+            }, {
+                'Name': '安全行业全景图(升华安全佳)',
+                'Title': '安全行业全景图(升华安全佳)',
+                'Href': 'https://www.goupsec.com/news/10729.html'
+            }, {
+                'Name': '安全行业全景图(斯元商业咨询)',
+                'Title': '安全行业全景图(斯元商业咨询)',
+                'Href': 'https://www.z1-sec.com/index'
+            }, {
+                'Name': '全球网络安全百强(cybersecurity)',
+                'Title': '全球网络安全百强(cybersecurity)',
+                'Href': 'https://inspiredelearning.com/wp-content/uploads/2017/06/cyber-500-list.pdf'
+            }]
+        }, {
+            "pageT2": "行业调研机构",
             "pageC2": [{
                 'Name': '安全内参',
                 'Title': '安全内参 | 决策者的网络安全知识库',
                 'Href': 'https://www.secrss.com/'
             }, {
+                'Name': '安全419',
+                'Title': '安全419-网络安全产业资讯媒体',
+                'Href': 'http://www.anquan419.com/'
+            }, {
                 'Name': '数说安全',
                 'Title': '以数据为基础的网络安全产业研究机构',
                 'Href': 'http://www.csreviews.cn/'
             }, {
-                'Name': '安全牛',
-                'Title': '安全牛致力于推动中国企业跨越“安全鸿沟”，促进中国网络安全产业的健康发展。',
-                'Href': 'https://www.aqniu.com/'
-            }, {
-                'Name': '升华安全佳',
-                'Title': '升华安全佳，安全看世界GoUpSec',
-                'Href': 'https://www.goupsec.com/'
-            }, {
-                'Name': '游侠安全网',
-                'Title': '网络空间安全：行业资讯、技术分享、法规研讨、趋势分析',
-                'Href': 'https://www.youxia.org/category/operating-system'
-            }, {
-                'Name': 'Gartner咨询',
-                'Title': '美国网络安全市场调研公司',
-                'Href': 'https://www.gartner.com/cn'
-            }, {
-                'Name': 'Gartner产品能力分析',
-                'Title': 'Gartner产品能力分析',
-                'Href': 'https://www.gartner.com/reviews/markets'
-            }, {
-                'Name': 'Roi4cio产品能力分析',
-                'Title': 'Roi4cio产品能力分析',
-                'Href': 'https://roi4cio.com/catalog/en/products?categories=895'
-            }, {
-                'Name': 'sysin产品能力分析',
-                'Title': '山河自古英雄据，落叶声中，鸿雁尽飞去。',
-                'Href': 'https://sysin.org/blog/cortex-xsoar-6/'
+                'Name': '数世咨询',
+                'Title': '数世咨询',
+                'Href': 'https://www.dwcon.cn/post/3333'
             }, {
                 'Name': '赛迪顾问',
                 'Title': '赛迪顾问-思维创造世界',
                 'Href': 'http://www.ccidconsulting.com/'
-            }, {
-                'Name': 'IDC咨询',
-                'Title': '国际数据公司（IDC）是全球著名的信息技术、电信行业和消费科技咨询、顾问和活动服务专业提供商。',
-                'Href': 'https://www.idc.com/cn/prodserv/data-measurement'
-            }, {
-                'Name': '数世咨询',
-                'Title': '国内数字产业第三方调研咨询机构',
-                'Href': 'https://www.dwcon.cn/'
             }, {
                 'Name': '头豹调研',
                 'Title': '市场调研，行业报告，行业分析，尽职调查，投资报告，投报，市场分析，分析师',
@@ -2381,9 +2424,37 @@ var FrontGuide = {
                 'Title': '东方财富行业分析报告',
                 'Href': 'https://www.google.com/search?q=site%3Apdf.dfcfw.com+%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8+filetype%3Apdf'
             }, {
-                'Name': '前瞻产业研究文库',
-                'Title': '前瞻产业研究院 - 中国产业规划咨询领导者_领先的行业研究报告',
-                'Href': 'https://bg.qianzhan.com/'
+                'Name': 'IDC咨询',
+                'Title': '国际数据公司（IDC）是全球著名的信息技术、电信行业和消费科技咨询、顾问和活动服务专业提供商。',
+                'Href': 'https://www.idc.com/cn/prodserv/data-measurement'
+            }, {
+                'Name': 'Gartner咨询',
+                'Title': '美国网络安全市场调研公司',
+                'Href': 'https://www.gartner.com/cn'
+            }, {
+                'Name': 'Gartner产品能力分析',
+                'Title': 'Gartner产品能力分析',
+                'Href': 'https://www.gartner.com/reviews/market/breach-and-attack-simulation-bas-tools'
+            }, {
+                'Name': 'Roi4cioe产品能力评测',
+                'Title': 'Roi4cio产品能力分析',
+                'Href': 'https://roi4cio.com/catalog/en/products?categories=895'
+            }, {
+                'Name': 'eSecurity Planet产品能力评测',
+                'Title': 'Roi4cio产品能力分析',
+                'Href': 'https://www.esecurityplanet.com/products/breach-and-attack-simulation-bas-vendors/#rapid7'
+            }, {
+                'Name': 'Sourceforge产品能力评测',
+                'Title': 'Sourceforge产品能力分析',
+                'Href': 'https://sourceforge.net/software/breach-and-attack-simulation-bas/'
+            }, {
+                'Name': 'Peerspot产品能力评测',
+                'Title': 'Peerspot产品能力分析',
+                'Href': 'https://sourceforge.net/software/breach-and-attack-simulation-bas/'
+            }, {
+                'Name': 'sysin安全产品分析下载',
+                'Title': '山河自古英雄据，落叶声中，鸿雁尽飞去。',
+                'Href': 'https://sysin.org/blog/cortex-xsoar-6/'
             }]
         }, {
             "pageT2": "测评国标",
@@ -2478,42 +2549,6 @@ var FrontGuide = {
         }, {
             "pageT2": "安全厂商",
             "pageC2": [{
-                'Name': '厂商全景图(安全牛)',
-                'Title': '厂商全景图(安全牛)',
-                'Href': 'https://all.aqniu.com/'
-            }, {
-                'Name': '厂商全景图(数说安全)',
-                'Title': '厂商全景图(数说安全)',
-                'Href': 'http://www.csreviews.cn/?p=1907'
-            }, {
-                'Name': '厂商全景图(嘶吼)',
-                'Title': '厂商全景图(嘶吼)',
-                'Href': 'https://www.4hou.com/atlas/index'
-            }, {
-                'Name': '厂商全景图(FreeBuf咨询)',
-                'Title': '厂商全景图(FreeBuf咨询)',
-                'Href': 'https://www.freebuf.com/articles/paper/277788.html'
-            }, {
-                'Name': '厂商全景图(FreeBuf)',
-                'Title': '厂商全景图(FreeBuf)',
-                'Href': 'https://product.freebuf.com/index'
-            }, {
-                'Name': '厂商全景图(升华安全佳)',
-                'Title': '厂商全景图(升华安全佳)',
-                'Href': 'https://www.goupsec.com/news/10729.html'
-            }, {
-                'Name': '中国网络安全百强(数世咨询)',
-                'Title': '中国网络安全百强(数世咨询)',
-                'Href': 'https://www.dwcon.cn/post/688'
-            }, {
-                'Name': '中国网络安全百强(安全牛)',
-                'Title': '中国网络安全百强(安全牛)',
-                'Href': 'https://www.aqniu.com/industry/78522.html'
-            }, {
-                'Name': '全球网络安全百强(cybersecurity)',
-                'Title': '全球网络安全百强(cybersecurity)',
-                'Href': 'https://inspiredelearning.com/wp-content/uploads/2017/06/cyber-500-list.pdf'
-            }, {
                 'Name': 'PCSA安全能力联盟',
                 'Title': 'PCSA安全能力联盟',
                 'Href': 'http://www.cnpcsa.com.cn/'
@@ -2614,10 +2649,6 @@ var FrontGuide = {
                 'Title': '斗象科技',
                 'Href': 'https://www.riskivy.com/'
             }, {
-                'Name': '全知科技',
-                'Title': '全知科技',
-                'Href': 'https://www.data-sec.com/product/'
-            }, {
                 'Name': '默安科技',
                 'Title': '默安科技',
                 'Href': 'https://www.moresec.cn/'
@@ -2634,9 +2665,9 @@ var FrontGuide = {
                 'Title': '知道创宇',
                 'Href': 'https://www.yunaq.com/'
             }, {
-                'Name': '网藤科技',
-                'Title': '专注“工业互联网+安全”整体解决方案提供商',
-                'Href': 'https://www.inetvine.com/'
+                'Name': '赛博网安',
+                'Title': '赛博网安',
+                'Href': 'http://www.allinsec.cn/'
             }, {
                 'Name': '青藤云安全',
                 'Title': '青藤云安全',
